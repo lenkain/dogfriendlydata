@@ -1,0 +1,694 @@
+#copyright 1997-2005 DogFriendly.com, Inc. All Rights Reserved.
+#The Contents of this file may not be copied or reused in any way without
+# the explicit written permission of DogFriendly.com, Inc.
+<BEGIN>
+LINKTEMP: TRUE
+CODE: CU
+TITLE: Placerville News Company
+ADDRESS: 409 Main Street
+CITY: Placerville
+MAJOR: Gold Country
+STATE: CA
+ZIP: 95667
+PHONE: 530-622-4510
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Well-behaved leashed dogs may be allowed in this  store. Please ask the clerk first. This store is  located in a historic 1856 building in historic  downtown Placerville. The Placerville News Company  has been in the same location since 1912. They are  open seven days a week.
+CATEGORY: Stores that Carry DogFriendly.com Book
+Submit: Submit
+PARK: 
+WEBSITE:
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+LINKTEMP: TRUE
+CODE: UC
+TITLE: Best Friends of the Napa Valley
+ADDRESS: 6525 Washington St
+CITY: Yountville
+MAJOR: Napa Valley
+STATE: CA
+ZIP: 94599
+PHONE: 707-945-0125
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Dogs are welcome in this specialty gift store for pets. The store carries DogFriendly.com's dog travel books. Dogs are welcome in this specialty gift store for pets.
+CATEGORY: Stores that Carry DogFriendly.com Book
+Submit: Submit
+PARK: 
+WEBSITE: 
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+LINKTEMP: TRUE
+DELETE: TRUE
+CODE: C
+TITLE: Lee's Feed and Western Store
+ADDRESS: 4110 Mother Lode Dr
+CITY: Shingle Springs
+MAJOR: Sacramento
+STATE: CA
+ZIP: 95682
+PHONE: 530-677-4891
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Dogs are welcome in this pet supply and feed store. The store carries DogFriendly.com's dog travel books. Store hours are 8:30am to 6pm Monday through Friday, 8:30am to 5pm on Saturday and Sunday.
+CATEGORY: Stores that Carry DogFriendly.com Book
+Submit: Submit
+PARK: 
+WEBSITE: http://www.raft.org/leesfeed/
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+LINKTEMP: TRUE
+CODE: C
+TITLE: Lee's Feed and Western Store
+ADDRESS: 4110 Mother Lode Dr
+CITY: Shingle Springs
+MAJOR: Gold Country
+STATE: CA
+ZIP: 95682
+PHONE: 530-677-4891
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Dogs are welcome in this pet supply and feed store.  They have all kinds of supplies for dogs including  food, treats, toys, collars, leashes and more. The  store is open seven days a week. Store hours are  Monday through Friday from 8:30am to 6pm and on the  weekend from 8:30am to 5pm.
+CATEGORY: Stores that Carry DogFriendly.com Book
+Submit: Submit
+PARK: 
+WEBSITE: http://www.raft.org/leesfeed/
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+LINKTEMP: TRUE
+TITLE: Dakota's Place
+ADDRESS: 31761 Camino Capistrano
+CITY: San Juan Capistrano
+MAJOR: Anaheim - Orange County
+STATE: CA
+ZIP: 92675
+PHONE: 949-661-3647
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Dogs are welcome in this store which offers fine  gifts and collectibles for pets and their people.  The store is located across from the historical  Mission. They are open seven days a week. Dakota  the dog will usually greet people at the door.
+CATEGORY: Stores that Carry DogFriendly.com Book
+Submit: Submit
+PARK: 
+CODE: C
+WEBSITE: http://www.dakotasplace.com
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+BOOK: 
+IMAGE2: 
+IMAGE1: ../images/dakotas.gif
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+LINKTEMP: TRUE
+CODE: CU
+TITLE: Maxwell Dog
+ADDRESS: 12332 Ventura Blvd
+CITY: Studio City
+MAJOR: Los Angeles
+STATE: CA
+ZIP: 91604
+PHONE: 818-505-8411
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Dogs are welcome at this specialty gift store for  pets. You will find toys, dog beds, accessories,  healthy food, treats and more. Store hours are  Monday through Saturday from 10am to 6pm and on  Sunday from noon to 5pm.
+Submit: Submit
+PARK: 
+CATEGORY: Stores that Carry DogFriendly.com Book
+WEBSITE: http://www.maxwelldog.com
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+BOOK: 
+IMAGE2: 
+IMAGE1: ../images/maxwell.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+BOOK: FALSE
+WHY: 2nd Listing
+LINKTEMP: TRUE
+CODE: CU
+TITLE: Maxwell Dog
+ADDRESS: 12332 Ventura Blvd
+CITY: Studio  City
+MAJOR: Los Angeles
+STATE: CA
+ZIP: 91604
+PHONE: 818-505-8411
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Dogs are welcome at this specialty gift store for  pets. You will find toys, dog beds, accessories,  healthy food, treats and more. Store hours are  Monday through Saturday from 10am to 6pm and on  Sunday from noon to 5pm.
+Submit: Submit
+PARK: 
+CATEGORY: Stores that Carry DogFriendly.com Book
+WEBSITE: http://www.maxwelldog.com
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+BOOK: 
+IMAGE2: 
+IMAGE1: ../images/maxwell.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: SAID THEY DIDNT SELL FAST ENOUGH (BUT DID SELL)
+LINKTEMP: TRUE
+CODE: CU
+TITLE: Book Oasis
+ADDRESS: 2369 First Street
+CITY: Livermore
+MAJOR: Oakland - East Bay
+STATE: CA
+ZIP: 94550
+PHONE: 925-606-7876
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Dogs are welcome at this bookstore. They usually  have dog cookies at the front desk. The store is  located in the historic Livermore Firehouse in a  1,800 square foot space. They offer more than  eighty different sections and subsections of books.  Come visit the Book Oasis where you get "More Books  for Less." Store hours are Monday through Saturday  from 10am to 7pm.
+CATEGORY: Stores that Carry DogFriendly.com Book
+Submit: Submit
+PARK: 
+WEBSITE: http://www.bookoasis.biz
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+BOOK: 
+IMAGE2: 
+IMAGE1: ../images/bookoasis.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+LINKTEMP: TRUE
+CODE: U
+TITLE: Community Food Coop
+ADDRESS: 1220 North Forest St
+CITY: Bellingham
+MAJOR: 
+STATE: WA
+ZIP: 98225
+PHONE: 360-734-8158
+TOLLFREE: 866-752-2371
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The Community Food Coop is a full service natural food market in downtown Bellingham. The natural food market has a large selection of organic and natural groceries. Your dog will not be able to go in the store since it is a grocery store, but they'll be glad to see you bring back a copy of DogFriendly.com's United States and Canada Dog Travel Guide. The coop is open from 8 am to 9 pm 7 days a week. You don't have to have a membership to shop at the store.
+CATEGORY: Stores that Carry DogFriendly.com Book
+Submit: Submit
+PARK: 
+WEBSITE: http://www.communityfoodcoop.com/
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+LINKTEMP: TRUE
+CODE: CU
+TITLE: California Welcome Center - Auburn
+ADDRESS: 13411 Lincoln Way
+CITY: Auburn
+MAJOR: 
+STATE: CA
+ZIP: 95603
+PHONE: 530-887-2111
+TOLLFREE: 
+HIGHWAY: Interstate 80
+HIGHWAY1: None
+COMMENTS: The California Welcome Center Auburn is one of eight California Welcome Centers around the State of California. The Welcome Center is off Interstate 80 at the Foresthill exit in Auburn. It carries visitor information for the entire state and local information for the Placer County and Gold Country Areas. The Welcome Center carries DogFriendly.com's California and Nevada Dog Travel Guide and the United States and Canada Dog Travel Guide. You'll need to ask if you can bring your Dog in the center.
+CATEGORY: Stores that Carry DogFriendly.com Book 
+Submit: Submit
+PARK: 
+WEBSITE: http://81.93.139.50/cwc/Region/Destination/Home.aspx?REGIONID=5
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+LINKTEMP: TRUE
+DELETE: TRUE
+WHY: BOOKS NOT THERE
+CODE: U
+TITLE: NJ Pets
+ADDRESS: 150 Route 10 West
+CITY: East Hanover
+MAJOR: Northern New Jersey
+STATE: NJ
+ZIP: 07936
+PHONE: 973-515-9500
+TOLLFREE: 
+HIGHWAY: Interstate 280
+HIGHWAY1: None
+BOOKCOMMENTS: Your dog is always welcome to join you in this pet store. They carry the major pet food brands, toys for your dog and supplies. The hours are Monday thru Saturday 9-9:30 and on Sunday from 10 - 6. The store is located on Route 10 West between Livingston and Whippany.
+COMMENTS: Your dog is always welcome to join you in this pet store to purchase DogFriendly.com's United States Dog Travel Guide. In addition to the DogFriendly.com book, you can get everything else you need for your dog. They carry the major pet food brands, toys for your dog and supplies. The hours are Monday thru Saturday 9-9:30 and on Sunday from 10 - 6. The store is located on Route 10 West between Livingston and Whippany.
+CATEGORY: Stores that Carry DogFriendly.com Book
+Submit: Submit
+PARK: 
+WEBSITE: http://www.njpets.com
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+LINKTEMP: TRUE
+CODE: U
+TITLE: Pet Goods
+ADDRESS: 10 Commerce Blvd.
+CITY: Succasunna
+MAJOR: Northern New Jersey
+STATE: NJ
+ZIP: 07876
+PHONE: 973-598-8882
+TOLLFREE: 
+HIGHWAY: Interstate 80
+HIGHWAY1: None
+BOOKCOMMENTS: Your dog is welcome to shop with you for your pet food, supplies, and toys. The hours are Monday thru Saturday 9-9 and on Sunday from 10 - 6. The store is approximately 5 miles south of Netcong (I-80 and Rt 206).
+COMMENTS: Your dog is welcome to shop with you for your pet food, supplies, toys and a new copy of DogFriendly.com's United States and Canada Dog Travel Guide. The hours are Monday thru Saturday 9-9 and on Sunday from 10 - 6. The store is approximately 5 miles south of Netcong (I-80 and Rt 206).
+CATEGORY: Stores that Carry DogFriendly.com Book
+Submit: Submit
+PARK: 
+WEBSITE: http://www.petgoods.com
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+LINKTEMP: TRUE
+CODE: C
+TITLE: Towne Center Books
+ADDRESS: 555 Main Street
+CITY: Pleasanton
+MAJOR: Oakland - East Bay
+STATE: CA
+ZIP: 94566
+PHONE: 925-846-8826
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This locally owned bookstore carries DogFriendly.com's books. Their hours are M-Th 10 - 9, Fri 10 - 10, Sat 9:30 - 10 and Sun 1 - 6.
+CATEGORY: Stores that Carry DogFriendly.com Book
+Submit: Submit
+PARK: 
+WEBSITE: http://www.townecenterbooks.com
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+LINKTEMP: TRUE
+CODE: C
+TITLE: Bookworks
+ADDRESS: 667 Lighthouse Ave
+CITY: Pacific Grove
+MAJOR: Monterey
+STATE: CA
+ZIP: 93950
+PHONE: 831-372-2242
+TOLLFREE: 
+HIGHWAY: Highway 1
+HIGHWAY1: None
+COMMENTS: This bookstore, located in downtown Pacific Grove, carries DogFriendly.com's California and Nevada Dog Travel Guide. It is located near Monterey and Carmel.
+CATEGORY: Stores that Carry DogFriendly.com Book
+Submit: Submit
+PARK: 
+WEBSITE: 
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+LINKTEMP: TRUE
+CODE: U
+TITLE: Teton Tails
+ADDRESS: 250 West Pearl Street
+CITY: Jackson
+MAJOR:
+STATE: WY
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: 
+HIGHWAY1: None
+COMMENTS: This pet boutique store carries DogFriendly.com's United States and Canada Dog Travel Guide. Your well-behaved, leashed dog is allowed inside. 
+CATEGORY: Stores that Carry DogFriendly.com Book
+Submit: Submit
+PARK: 
+WEBSITE: 
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+BOOKIMAGE1: bowwowzer.jpg
+LINKTEMP: TRUE
+CODE: CU
+TITLE: Bow Wowser
+ADDRESS: 100 N Santa Cruz Ave
+CITY: Los Gatos
+MAJOR: San Jose
+STATE: CA
+ZIP: 95030
+PHONE: 408-395-2285
+TOLLFREE: 
+HIGHWAY: 
+HIGHWAY1: None
+COMMENTS: This pet boutique store carries DogFriendly.com's California and Nevada Dog Travel Guide and DogFriendly.com's United States and Canada Dog Travel Guide. Your well-behaved, leashed dog is allowed inside. 
+CATEGORY: Stores that Carry DogFriendly.com Book
+Submit: Submit
+PARK: 
+WEBSITE: 
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+LINKTEMP: TRUE
+CODE: CU
+TITLE: Tattered Cover Book Store - LoDo
+ADDRESS: 1628 16th Street
+CITY: Denver
+MAJOR: 
+STATE: CO
+ZIP: 80202
+PHONE: 303-436-1070
+TOLLFREE: 
+HIGHWAY: 
+HIGHWAY1: None
+COMMENTS: This bookstore carries DogFriendly.com's United States and Canada Dog Travel Guide. Please do not bring your dog inside the store.
+CATEGORY: Stores that Carry DogFriendly.com Book
+Submit: Submit
+PARK: 
+WEBSITE: http://www.tatteredcover.com
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+LINKTEMP: TRUE
+CODE: C
+TITLE: Stacey's Bookstore
+ADDRESS: 581 Market Street
+CITY: San Francisco
+MAJOR: 
+STATE: CA
+ZIP: 94105
+PHONE: 415-421-4687
+TOLLFREE: 
+HIGHWAY: 
+HIGHWAY1: None
+COMMENTS: This bookstore carries DogFriendly.com's California and Nevada Dog Travel Guide. Please do not bring your dog inside the store.
+CATEGORY: Stores that Carry DogFriendly.com Book
+Submit: Submit
+PARK: 
+WEBSITE: http://www.staceys.com/
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+LINKTEMP: TRUE
+CODE: CU
+TITLE: Kepler's Bookstore
+ADDRESS: 1010 El Camino Real
+CITY: Menlo Park
+MAJOR: Palo Alto - Peninsula
+STATE: CA
+ZIP: 94025
+PHONE: 650-324-4321
+TOLLFREE: 
+HIGHWAY: 
+HIGHWAY1: None
+COMMENTS: This bookstore carries DogFriendly.com's California and Nevada Dog Travel Guide. Please do not bring your dog inside the store.
+CATEGORY: Stores that Carry DogFriendly.com Book
+Submit: Submit
+PARK: 
+WEBSITE: http://keplers.booksense.com
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+LINKTEMP: TRUE
+CODE: C
+TITLE: Megabooks
+ADDRESS: 444 University Avenue
+CITY: Palo Alto
+MAJOR: Palo Alto - Peninsula
+STATE: CA
+ZIP: 
+PHONE: 650-326-4730
+TOLLFREE: 
+HIGHWAY: 
+HIGHWAY1: None
+COMMENTS: This bookstore carries DogFriendly.com's California and Nevada Dog Travel Guide. Please do not bring your dog inside the store.
+CATEGORY: Stores that Carry DogFriendly.com Book
+Submit: Submit
+PARK: 
+WEBSITE: 
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+LINKTEMP: TRUE
+CODE: C
+TITLE: Bark, Bath and Beyond
+ADDRESS: 1330 Soth Coast Hwy
+CITY: Laguna Beach
+MAJOR: Orange County South
+STATE: CA
+ZIP: 92651
+PHONE: 949-715-DOGS
+TOLLFREE: 
+HIGHWAY: 
+HIGHWAY1: None
+COMMENTS: This dog groomer and boutique pet store carries  DogFriendly.com's California and Nevada Dog Travel Guide and DogFriendly.com's United States and Canada Dog Travel Guide.
+CATEGORY: Stores that Carry DogFriendly.com Book
+Submit: Submit
+PARK: 
+WEBSITE: 
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+LINKTEMP: TRUE
+CODE: C
+TITLE: Earth Song Bookstore
+ADDRESS: 1440 Camino Del Mar
+CITY: Del Mar
+MAJOR: 
+STATE: CA
+ZIP: 
+PHONE: 858-755-4254
+TOLLFREE: 
+HIGHWAY: 
+HIGHWAY1: None
+COMMENTS: This bookstore carries DogFriendly.com's California and Nevada Dog Travel Guide. Your dog is welcome inside the store.
+CATEGORY: Stores that Carry DogFriendly.com Book
+Submit: Submit
+PARK: 
+WEBSITE: http://www.cafepress.com/earthsongbooks
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Tails By The Lake
+ADDRESS: 1850 Village South Rd #56
+CITY: Olympic Valley
+STATE: CA
+ZIP: 96146
+REGION: Lake Tahoe
+PHONE: 530-583-9247
+TOLLFREE:  
+WEBSITE: http://www.tailsbythelake.com
+TYPE: 
+COMMENTS: This boutique store for pets has interesting items for your dog or cat as well as gifts for pet lovers everywhere. They also carry DogFriendly.com's Travel Guide Books. The store is located in the pet-friendly Village at Squaw Valley and is open from 10 am to 6 pm all days except Saturday, when the store is open from 10 am to 7 pm. In the summer they hold a "Yappy Hour" on Fridays from 5 pm to 7 pm. Your well-behaved pet is always welcome in the store.
+CROSS: 
+SURVEY: storeinternal
+IMAGE1:
+IMAGE2: 
+IM1:
+IM2:
+CATEGORY: Stores that Carry DogFriendly.com Book
+<END>
+<BEGIN>
+TITLE: Dirty Dog Dog Wash
+ADDRESS: 7853 Southeast 13th Avenue
+CITY: Portland
+STATE: OR
+ZIP: 97202
+REGION: 
+PHONE: 
+TOLLFREE:  
+WEBSITE: 
+TYPE: 
+COMMENTS: This dog wash and dog boutique store will keep your dog clean and provide gifts and other items for dogs and dog lovers. They sell DogFriendly.com's Travel Guide books as well. 
+CROSS: 
+SURVEY: storeinternal
+IMAGE1:
+IMAGE2: 
+IM1:
+IM2:
+CATEGORY: Stores that Carry DogFriendly.com Book
+<END>

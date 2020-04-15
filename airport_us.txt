@@ -1,0 +1,1437 @@
+#copyright 1997-2013 DogFriendly.com, Inc. All Rights Reserved.
+#The Contents of this file may not be copied or reused in any way without
+# the explicit written permission of DogFriendly.com, Inc.
+<BEGIN>
+TITLE: Seattle Tacoma International Airport (SEA) 
+ADDRESS: 
+CITY: Seattle
+MAJOR: 
+STATE: WA
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: In the terminal: All pets must be in their travel carriers when in the Main Terminal building. The only exception is training/service dogs and other specially trained pets assisting travelers with disabilities.<br><br>Inside security pet relief area: The pet relief area behind security, in Concourse B has been temporarily relocated to Concourse C.<br><br>Outside pet relief areas: There are two locations outside the Main Terminal that are equipped to serve as "pet potties" for traveling animals. The two areas are located outside of Baggage Claim on both the north and south ends. On the south end of Baggage Claim (outside door #00) there is a large grassy area at the end of the parking lot that is also equipped with bags for cleanup.&nbsp;<br><br>The north area is outside of door #26, just past Carousel 16. It is a small sandy area to the left under the stairs.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.portseattle.org/Sea-Tac/Passenger-Services/Pages/default.aspx
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Newark Liberty International Airport (EWR) 
+ADDRESS: 
+CITY: Newark
+MAJOR: 
+STATE: NJ
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: When traveling with pets, pets should remain in their carriers at all times except for service animals. The Port Authority of NY and NJ and our airport partners have provided pet relief areas for customers. These areas are located in the arrivals area of each terminal. Follow the signs in the baggage claim areas or ask a Customer Care Representative for information.<br><br>Owners can take their animals to these pet relief areas and allow the pets to relieve themselves. Owners are expected to clean up after their animals with the materials provided in the pet relief areas. Pet owners whose animals have an accident elsewhere in the terminal are expected to clean up after their animals and notify a member of the cleaning crew.<br><br>There are no pet relief areas beyond security checkpoints in any of the terminals at the Port Authority airports.<br><br>As policies relating to the transportation of pets vary by airline and time of year, we suggest you contact your airlines directly for details.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.panynj.gov/airports/ewr-travel-information.html
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Washington Dulles International Airport (IAD) 
+ADDRESS: 
+CITY: Washington
+MAJOR: 
+STATE: DC
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Washington Dulles International Airport has designated Animal Relief Areas for our customers traveling with service animals or pets. We have several great locations for you to use.<br><br>Locations inside the concourses:<br><br>Adjacent to Gate A32, next to the Virgin Atlantic Club<br>Across from Gate D1<br><br>Locations outside the Main Terminal:<br><br>Look for Pet Relief Areas on opposite ends of the Main Terminal. Exit the terminal doors near the United Airlines Ticket Counter and turn right, or exit the terminal doors near the Delta Air Lines Ticket Counter and turn left. There is also a relief area outside, adjacent to baggage claim number 1.<br><br>Relief Areas are clearly marked, and contain waste bags and receptacles for your convenience. Thank you for cleaning up after your service animal or pet.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.metwashairports.com/dulles/5321.htm
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Atlanta Hartsfield International Airport (ATL) 
+AIRPORTDOGPARK: TRUE
+ADDRESS: 
+CITY: Atlanta
+MAJOR: 
+STATE: GA
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: To accommodate passengers' pets and guide dogs, a 1,000-square-foot dog park is located in the Ground Transportation area on Domestic Terminal South outside of doors W1 and W2. The fully fenced-in park offers biodegradable bags along with flowers, grass, rocks, benches and two original pieces of art.<br><br>Additional pet areas are located at:<br><br>The lower level of Domestic Terminal North outside door LN2 to the right of the building.<br>The arrivals level of the international terminal, just outside door A1.<p>Main Dog Park at ATL:</p><p><iframe width="420" height="315" src="http://www.youtube.com/embed/7QStxuI-9qI" frameborder="0" allowfullscreen></iframe>
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.atlanta-airport.com/Passenger/CustomerService/PetAssistance.aspx
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Minneapolis-St Paul International Airport (MSP) 
+ADDRESS: 
+CITY: Minneapolis
+MAJOR: 
+STATE: MN
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The Minneapolis-St. Paul International Airport maintains pet and service animal relief areas at both terminals.<br><br>There are two Terminal 1-Lindbergh locations. Outside the secure area, the pet relief area is located outside Door 1 on the Baggage Claim Level. Follow the signs to your left. The area is fenced on three sides and has a woodchip base.<br><br>To gain access to the pet relief area inside the secure area at Terminal 1, visit the Information Booth located near the entrance to Concourse E in the Airport Mall.&nbsp;<br><br>At Terminal 2-Humphrey travelers should use the grassy area just outside and to the right of Door 7 on Level 1 near BaggageClaim.<br><br>Passengers traveling with a service animal can request an escort from their airline or Travelers Assistance to the pet relief area.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.mspairport.com/accessibility/accessibility-faqs.aspx#pet_relief
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Denver International Airport (DEN) 
+ADDRESS: 
+CITY: Denver
+MAJOR: 
+STATE: CO
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Pet Relief Area<br>Jeppesen Terminal, Northwest Corner, Level 2<br>Primary Facility: Airport Service<br><br>E-mail: <a href="mailto:info@flydenver.com">info@flydenver.com</a><p><br>The airport has one designated pet-exercise area located outside Jeppesen Terminal on Level 2 West, not far from Door 200. Pets can wander in a small, enclosed area for relief or exercise. This location is wheelchair accessible.</p><p><br>Connecting passengers with pets who want to use the area should plan on at least 30 minutes of travel time to the terminal and back to the airline gate. Because of security restrictions, there is not a pet relief available outside A, B, or C gates.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://flydenver.com/facilitydetails?URI=tcm:8-942
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL:  info@flydenver.com
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Chicago O'Hara International Airport (ORD) 
+ADDRESS: 
+CITY: Chicago
+MAJOR: 
+STATE: IL
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Animal relief areas are located curbside, on the lower levels of Terminals 1 and 5. These are gated areas designated for service animal relief and are accessible at all times. All animals must be accompanied and leashed by the owner. Note that you must leave the secure area to use this area. 
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.flychicago.com/OHare/EN/AtAirport/Facilities/Accessibility/Accessibility-Guide.aspx
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  San Francisco International Airport (SFO)
+ADDRESS: 
+CITY: San Francisco
+MAJOR: 
+STATE: CA
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Animal Relief Areas<br><br>Animal Relief Areas provide essential elements for animals in transit, such as drinking areas with bowls and garbage areas with mutt mitt dispensers.  They are situated in fully fenced and landscaped areas with complete accessibility for the disabled, and are available 24 hours a day.  Painted paw-prints on the Arrivals Level terminal curbside walkways lead to animal relief areas.  Located outdoors:<br><br>Terminal 1, Courtyard 1, Arrivals/Baggage Claim Level<br>Terminal 2, Courtyard 3, Arrivals/Baggage Claim Level<br>Terminal 3, Courtyard 4, Arrivals/Baggage Claim Level. Here is a picture of the <a href="http://vintage.johnnyjet.com/Photos/San-Francisco-SFO-T2-April-2011-72.jpg" target="_blank">at this link</a>
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.flysfo.com/web/page/atsfo/passenger-serv/list/
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  
+ADDRESS: 
+CITY: Los Angeles
+MAJOR: 
+STATE: CA
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: LAX has five animal relief stations conveniently located around the central terminal area of the airport. All stations are located outside on the lower level. The relief stations are conveniently located at:
+Animal_Relief_Station  <br><br>*  Between Terminals ONE and TWO<br><br>* Just West of Terminal THREE (between Terminal THREE and BRADLEY INTERNATIONAL TERMINAL)<br><br>* Between BRADLEY INTERNATIONAL TERMINAL and Terminal FOUR.<br><br>* Between Terminals FIVE and SIX (Across the street in front of the parking structure.<br><br>*  At the end of Terminal EIGHT<br><br>NOTE: Behind each relief station sign is a box containing bags for easy disposal of waste. A station will be erected between Int’l Terminal and Terminal Four when construction is finished. There is an existing relief station at the end of Terminal Eight.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.lawa.org/welcome_lax.aspx?id=1766#ARS
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  John F Kennedy International Airport (JFK)
+ADDRESS: 
+CITY: New York
+MAJOR: 
+STATE: NY
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Each terminal at JFK has a pet relief area outside the arrivals area. There are no pet relief areas within the security area. The link shows the off-leash park outside of the American Airlines terminal.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.aa.com/intl/jp/aboutUs_en/petArea.jsp
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Miami International AIrport (MIA)
+ADDRESS: 
+CITY: Miami
+MAJOR: 
+STATE: FL
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: MIA has animal relief areas located at the arrival level at Concourses D, E and J.  The relief areas at Concourses E and J are whimsically themed "doggy parks." All of MIA relief areas are equipped with dual surfaces and waste disposal stations.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.miami-airport.com/dog_relief_areas.asp
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Dallas Fort Worth International Airport (DFW)
+ADDRESS: 
+CITY: Dallas
+MAJOR: 
+STATE: TX
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Here at DFW we know just how much your pet means to you. That’s why we have created animal relief areas at each of the five terminals.<br><br>Terminal D<br>Designated area located on the lower level, outside security at gates D15 and D29<br><br>Terminals A, B, C and E<br>Designated grassy areas located on the lower level outside security<br><br>Pets are required to be on a leash at all times when visiting DFW Airport. Additionally, if you will be traveling from DFW with your dog or cat, please keep their pet carrier on hand.<br><br>Should your pet need to step outside between flights, feel free to visit one of the designated animal relief areas listed above; however, please note that your boarding pass and ID will be required for re-entry into the Airport. TSA checkpoints close at 10:00 p.m., so we urge you and your pet or service animal to stay on the secure side after that time.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dfwairport.com/terminals/pets.php
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  George Bush Intercontinental Airport (IAH)
+ADDRESS: 
+CITY: Houston
+MAJOR: 
+STATE: TX
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Bush Intercontinental provides customers with assistance animal and pet relief areas outside of Terminals A, B, and D.<br><br>For Terminals A and B upon entering the baggage claim hall, simply follow the directional assistance animal and pet relief signs.<br><br>For Terminal D, the assistance animal and pet relief area is located on the outside, on the ticketing level. Directional signage is provided.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.fly2houston.com/iah-terminalAmenities
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Ted Stevens Anchorage International AIrport (ANC)
+ADDRESS: 
+CITY: Anchorage
+MAJOR: 
+STATE: AK
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Ted Stevens Anchorage International Airport offers outdoor pet relief areas at both terminals.  Signs providing directions to these areas can be found on the curbside adjacent the baggage claim doors.  While inside the terminals, dogs shall remain inside their kennels or on a leash whenever accompanied by their owner/handler. Information about the movement of animals into and out of Alaska is available on the state's veterinarian page <a href="http://www.dec.state.ak.us/eh/vet/pets.htm" target="_blank">at this link</a>.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://dot.alaska.gov/anc/travelerInfo/passengerSrvcs.shtml
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Sky Harbor International Airport(PHX)
+ADDRESS: 
+CITY:Phoenix
+MAJOR: 
+STATE: AZ
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Sky Harbor has three areas for pets to stretch their legs, drink water and take potty breaks (mitts for cleaning up provided). The Pet Patch is located just east of Terminal 2.<br><br>The Paw Pad is located just outside of the west doors of Terminal 3 [PDF].<br><br>he Bone Yard is on the west side of Terminal 4 [PDF] just outside of baggage claim, level 1.<br>There are also pet parks located near the PHX Sky Train stations. The East Economy Park & Bark is located near the East Economy parking garages. The Park 'n Play is located on the northwest corner of the 44th Street PHX Sky Train Station.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.skyharbor.com/customerservice/petParks.html
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Portland International AIrport (PDX)
+ADDRESS: 
+CITY: Portland
+MAJOR: 
+STATE: OR
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: A service dog relief area is located outside baggage claim at the north end of the terminal (lower level).
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.portofportland.com/SpecialNeeds.aspx
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Reagan National Airport (DCA)
+ADDRESS: 
+CITY: Washington
+MAJOR: 
+STATE: DC
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Here is a description of the animal relief area locations.  All are outdoors:<br>Outside Terminal A at two (2) locations near the main traffic circle <br>Outside Terminal B across from the entrance to the Metrorail station<br>Outside Terminal C across from the entrance to the Metrorail station<br>When you visit one of these areas with your service animal, please ensure that any pet waste is properly disposed of.  Containers are provided at each animal relief area for your convenience.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.metwashairports.com/reagan/1239.htm
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Baltimore BWI Marshall Airport (BWI)
+ADDRESS: 
+CITY: Baltimore
+MAJOR: 
+STATE: MD
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: BWI Marshall Airport travelers who are accompanied by service or other domestic animals can now enjoy the convenience of a pet relief area while at the airport.<br>The Pet Relief Area can be found at the end of Concourse E near the International Terminal, adjacent to the light rail station.<br>Seating is available in the area. Owners are asked to clean up after their animals, using the waste disposal bags and receptacle provided.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.bwiairport.com/en/service/pet-relief
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Charlotte Douglas Airport (CLT)
+ADDRESS: 
+CITY: Charlotte
+MAJOR: 
+STATE: NC
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: There is a pet relief area across from the baggage claim area, in the grassy area next to the parking structure.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.ifly.com/charlotte-douglas-international-airport/terminal-services-and-help
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  New York LaGuardia Airport (LGA)
+ADDRESS: 
+CITY: New York
+MAJOR: 
+STATE: NY
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The Port Authority of NY and NJ and our airport partners have provided pet relief areas for customers. These areas are located in the arrivals area of each terminal. Follow the signs in the baggage claim areas or ask a Customer Care Representative for information.<br><br>Owners can take their animals to these pet relief areas and allow the pets to relieve themselves. Owners are expected to clean up after their animals with the materials provided in the pet relief areas. Pet owners whose animals have an accident elsewhere in the terminal are expected to clean up after their animals and notify a member of the cleaning crew.<br><br>There are no pet relief areas beyond security checkpoints in any of the terminals at any Port Authority of NY/NJ Airports.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.panynj.gov/airports/lga-travel-information.html
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Philadelphia International Airport (PHL)
+ADDRESS: 
+CITY: Philadelphia
+MAJOR: 
+STATE: PA
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The Airport provides 7 pet relief areas ranging in size from 250 to 600 square feet. The fenced-in facilities consist of a 4-inch deep mulch surface, biodegradable pet waste bag dispenser and receptacle, bench, faux hydrant and dog paw print. The areas are located on the Departures Road between Terminals A-West and A-East as well as Terminal B/C Ticketing and the Airport Communications Center; adjacent to Terminal E and Terminal F; on the Arrivals Road adjacent to Terminal A-East bag claim; on the Commercial Vehicle Road (south side of bag claim nearest to SEPTA train platform) at Terminal B bag claim and Terminal E bag claim. 
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.phl.org/passengerinfo/Pages/faqs.aspx
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Boston Logan International Airport (BOS)
+ADDRESS: 
+CITY: Boston
+MAJOR: 
+STATE: MA
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Animal relief areas are located outside the lower level at all terminals. 
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.massport.com/logan-airport/inside-airport/pages/accessibility.aspx
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Salt Lake City International Airport (SLC)
+ADDRESS: 
+CITY: Salt Lake City
+MAJOR: 
+STATE: UT
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS:  For passengers who have the time during extended layovers in the Salt Lake City Airport, the Terminal Front relief areas provide a nice grassy, shaded area , a good place for a nice walk and a break.<br><br>For passengers with a tight connection, the ramp side areas by the concourses are an option for a necessary break, but it is a gravel area and will require an escort.<br><br>Please contact SLC Airport Operations at 1-801-575-2401 or contact an airline representative for escort to the pet relief areas located near the concourses. There is a map of the pet relief areas  <a href="http://www.slcairport.com/cmsdocuments/Pet_Relief_Areas.pdf" target="blank">at this link</a>
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.slcairport.com/special-needs.asp
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Las Vegas McCarran International Airport (LAS)
+ADDRESS: 
+CITY: Las Vegas
+MAJOR: 
+STATE: NV
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Pet Relief Areas are at T1 outside baggage claim and ticketing, and at T3's E gates. 
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: https://www.mccarran.com/find.aspx
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Reno International Airport (RNO)
+AIRPORTDOGPARK: TRUE
+ADDRESS: 
+CITY: Reno
+MAJOR: 
+STATE: NV
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The Reno-Tahoe International Airport is proud to offer a special kind of customer service feature that caters to man’s (and woman's) best friend. We are proud to announce not one, but two dog parks to serve our four-legged passengers.<br><br>Since 2004, “Gate K-9 Bark Park” has provided a convenient place where passengers traveling with their pets can give their dogs a restroom and water break. The Bark Park is fully fenced, with ADA accessibility, running water, mutt mitts to clean up after dogs, a fire hydrant and a canopy for inclement weather.<br><br>The original Gate K-9 Bark Park is located north of Baggage Claim.  Just exit Door D by ground transportation and follow the paw prints to the Bark Park.  In 2012, a second dog park opened for passengers flying out of Reno-Tahoe International with their pet. It is located south of the terminal building, just outside of the Southwest Airlines Ticket Counter.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://renoairport.com/passenger-info/dog-park
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Sacramento International Airport (SMF)
+ADDRESS: 
+CITY: Sacramento
+MAJOR: 
+STATE: CA
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Sacramento International Airport has two pet relief areas. The Terminal A Pet Relief Area is located immediately behind the Southwest Airlines curbside check-in area. The Terminal B Pet Relief Area is located in the grass patio area on the south end of the terminal on the first level.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.sacramento.aero/smf/about/faq/
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  San Diego Airport (SAN)
+ADDRESS: 
+CITY: San Diego
+MAJOR: 
+STATE: CA
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: San Diego Airport has three pet and service animal relief areas. One is located between Terminal 1 and Terminal 2. At the Commuter Terminal, go to the west end; the area is located outside the terminal entrance. There is also a secure area animal relief area in Terminal 2 West, with fake grass and a hand-washing station.  There is a map of the pet relief areas  <a href="http://www.premiercustomtravel.com/images/airports_SAN_full.pdf" target="blank">at this link</a>.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.san.org
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  John Wayne Airport (SNA)
+ADDRESS: 
+CITY: Santa Ana
+MAJOR: 
+STATE: CA
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The Pet Relief Area can be found on the lower level outside of Terminal A near the entrance to Parking Structure A1. Owners are asked to clean up after their animals, using the waste disposal bags and receptacle provided. There is a map of the pet relief areas  <a href="http://www.ocair.com/maps/terminal.aspx" target="blank">at this link</a>.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.ocair.com/Terminal/ADAServices.aspx#ServiceAnimals
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Long Beach Airport (LGB)
+ADDRESS: 
+CITY: Long Beach
+MAJOR: 
+STATE: CA
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: There is an outside pet relief area north of the baggage claim area.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.lgb.org/
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  San Jose International Airport (SJC)
+ADDRESS: 
+CITY: San Jose
+MAJOR: 
+STATE: CA
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Outside, North of Ticketing Area 
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.flysanjose.com/m/a_shops.php?page=shops/aservices
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Ontario International Airport (ONT)
+ADDRESS: 
+CITY: Ontario
+MAJOR: 
+STATE: CA
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: ONT's pet relief areas are located at the west ends of both Terminals 2 and 4. The area is approximately 12' X 12', with a few trees, sand, fire hydrant, dog house (not usable), and baggies available for dog waste. In using the pet areas, please remember that your pet must be on a leash at all times.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.lawa.org/welcome_ont.aspx?id=2370&ekfxmen_noscript=1&ekfxmensel=eeb11f839_110_114
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Burbank Bob Hope Airport (BUR)
+ADDRESS: 
+CITY: Burbank
+MAJOR: 
+STATE: CA
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: A pet relief area is located outside between the terminals A and B. 
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.burbankairport.com/
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Oakland International Airport (OAK)
+ADDRESS: 
+CITY: Oakland
+MAJOR: 
+STATE: CA
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Pet Relief Areas - Terminal One - Between terminal and the Executive / Manager Parking Lot and adjacent to Terminal One on Airport Dr. Terminal Two - Between Terminals One and Two (two locations). Terminal Two Media Parking Lot - adjacent to the Airport Media Parking Lot.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.flyoakland.com
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Boise International Airport (BOI)
+ADDRESS: 
+CITY: Boise
+MAJOR: 
+STATE: ID
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Pets are allowed in Boise Airport but must remain on a leash or in a pet carrier.<br><br>Contact your airline for all pet transport needs.  Each airline has different regulations, and may place restrictions during different seasons as well as aircraft size.<br><br>A designated rest area for pets is available to customers.  The pet rest area is located at the west end of the arrivals level, outside baggage claim west doors, on the way to the rental car lot. Customers should keep their pets on a leash and are requested to clean up after their pet.  Bags are provided for that purpose.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.iflyboise.com/shop,-eat-services/pet-relief-station/
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Kansas City Airport (MCI)
+ADDRESS: 
+CITY: Kansas City
+MAJOR: 
+STATE: MO
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Pets are not allowed inside the passenger terminals, unless they are in a kennel.  Exception: working dogs on a leash.  Rest areas for service dogs are at each end of each terminal in grassy areas adjacent to pedestrian ramps. They are marked with instructional signs and include special waste receptacles and biodegradable bags.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.flykci.com/AirportService/SpecialTravelerServices/Index.htm
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  St Louis Lambert International Airport (STL)
+ADDRESS: 
+CITY: St Louis
+MAJOR: 
+STATE: MO
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Lambert-St. International Airport offers two outdoor rest areas for passengers with service animals or traveling pets. Each relief area offers 400 square feet of gated space with park benches, trash cans, plastic mitts for cleanup and even fire hydrants. Terminal 1’s animal rest area is located on the upper level, west end, outside exit 6. The Terminal 2 animal relief area is located outside exit 15. 
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://flystl.com/AirportGuide/ADAAccessibility.aspx
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Detroit Metro Airport (DET)
+ADDRESS: 
+CITY: Detroit
+MAJOR: 
+STATE: MI
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Service Animal Relief Areas are available at each passenger terminal. The McNamara Terminal location is outside the International Arrivals area (Lower Level), around the corner of the building at the south end of the curb front. At the North Terminal, there are Relief Areas at each end of the Departures Level curb (Upper Level). All locations provide plastic bags and a container for disposal of solid waste. Contact your airline to arrange for escort services, if required. 
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.metroairport.com/travelersspecialneeds/
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Orlando International Airport (MCO)
+ADDRESS: 
+CITY: Orlando
+MAJOR: 
+STATE: FL
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Dogs are not permitted in Orlando International Airport unless they are either working dogs, or they are in a carrier approved for traveling onboard an aircraft. Service Animal Relief Areas are available on Level 2 of both terminals. The “A” side area is located at the far East end of the building (to the right as you exit the building). The “B” side area is located at the far West end of the building (to the right as you exit the building). 
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.orlandoairports.net/faq.htm
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Tampa International Airport (TPA)
+ADDRESS: 
+CITY: Tampa
+MAJOR: 
+STATE: FL
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: At Tampa International Airport, the relief areas for pets/service animals at the landside building are located in the “grassy areas” across the vehicle drives of the arrival (baggage claim) and departure (ticketing) areas. We recommend owners take advantage of the above locations if possible.<br><br>In our working relationships with the TSA and airlines we have also establish “service animal relief areas” in the vicinity of the airsides, as using the landside areas were not practical for passengers/service animals in the sterile area past the screening checkpoint. For service animals needs in the sterile area past the screening checkpoint, please contact your airline for further information and access. 
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.tampaairport.com/about/guest_services/disabled-travelers.asp 
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Fort Lauderdale Airport (FLL)
+ADDRESS: 
+CITY: Fort Lauderdale
+MAJOR: 
+STATE: FL
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Give your four-legged traveling companion a chance to walk in the Pet Relief Areas outside of the terminals on the lower level. Follow the signs and please remember to clean-up after your pet. Doggie bags and trash receptacles are available. 
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.broward.org/Airport/Terminals/Pages/Default.aspx
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Jacksonville International Airport (JAX)
+ADDRESS: 
+CITY: Jacksonville
+MAJOR: 
+STATE: FL
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Jacksonville Airport has a pet relief are located in the lower level south baggage claim, near claim #8 and outside the doors.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.pbia.org/guide/terminal.aspx
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Nashville International Airport (BNA)
+ADDRESS: 
+CITY: Nashville
+MAJOR: 
+STATE: TN
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The pet relief area is located on the north side of the third level, which is the ticketing level, of the terminal. Please note that service animals anywhere on airport property, including the service animal relief area, should be leashed at all times. 
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://flynashville.com/accessibility-and-security/Pages/Directions-to-Service-Animal-Relief-Area.aspx
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Memphis International Airport (MEM)
+ADDRESS: 
+CITY: Memphis
+MAJOR: 
+STATE: TN
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: "Service Animals" are permitted inside the terminal for appropriate purposes when properly restrained by a leash or harness. Other animals (pets) which are to be transported by air must be confined in their approved travel containers while inside the airport building. Outside the building they must be restrained by a leash or confined in a manner to be under control, such as in their travel containers.<br>As a reminder, please check with your airline about their specific criteria for accepting pets for travel.<br>Service Animal Relief Areas (SARA) inside the Terminal/Concourses are located:<br>-Beside B Checkpoint – secure side<br>-Gate B11<br>-Gate B30<br>Our outdoor pet / "service animal" relief areas are located:<br>-Baggage Claim/Ground Level – grassy area to left after exiting Terminal A<br>-Baggage Claim/Ground Level – grassy area to right after exiting Terminal C.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.mscaa.com/passenger/customer_assistance
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Honolulu International Airport (HNL)
+ADDRESS: 
+CITY: Honolulu
+MAJOR: 
+STATE: HI
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: There are animal relief areas at the airport. There is a map to them at the link. Please be aware that there are special rules governing all animal travel into and out of Hawaii. This includes service animals. For more on these rules <a href="http://www.dogfriendly.com/server/travel/info/customs/travelcustoms.shtml#hawaii" target="_blank">see this link</a>.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://hawaii.gov/hnl/customer-service/Service%20and%20Transit%20Animal%20Releif%20Area%20Map%20HNL.pdf/view
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Will Rogers World Airport (OKC)
+ADDRESS: 
+CITY: Oklahoma City
+MAJOR: 
+STATE: OK
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Will Rogers World Airport has a Pet Relief Area located just steps from the front exit door at Baggage Claim 1. The area is easily identifiable by the white picket fence. The gate opens to a grassy area where pets can be unleashed. Disposable bags and a trash can are available so owners can clean up after their pets.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://flyokc.com/PetReliefArea.aspx
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Raleigh-Durham International AIrport (RDU)
+ADDRESS: 
+CITY: Raleigh
+MAJOR: 
+STATE: NC
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Check with your airline concerning their policies on traveling with pets. <br><br>Animals traveling in the passenger cabin must be screened at the security checkpoint. You may walk your animal through the metal detector with you. If this is not possible, your animal will have to undergo a secondary screening, including a visual and physical inspection.  You may be asked to remove your animal from its carrier so that the carrier can be placed on the screening equipment.<br><br>Pet relief areas are located outside Terminal 1 and Terminal 2. 
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.rdu.com/travelinfo/travtips.html#pets
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Austin-Bergstrom International Airport (AUS)
+ADDRESS: 
+CITY: Austin
+MAJOR: 
+STATE: TX
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The airport’s landscaped and lighted dog walk offers relief to pets and some room to stretch legs, both theirs and yours! The dog walk includes a pet drinking fountain, pick-up bags for dog waste, and trash receptacles. The dog walk is located outside the lower level at the far east end of the terminal, past the column numbered 6. There is a lot of useful information for travelers with pets at the link.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.austintexas.gov/department/traveling-pets-0
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  San Antonio International Airport (SAT)
+ADDRESS: 
+CITY: San Antonio
+MAJOR: 
+STATE: TX
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: There is a designated service animal relief area in each Terminal. The area in Terminal A is located on Level 0 of the Hourly Garage next to the elevator at the Terminal entrance. The area in Terminal B is located adjacent to the West exit at the Baggage Claim area, near the Ground Transportation Center.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.sanantonio.gov/SAT/IntheAirport.aspx
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  San Juan Luiz Munoz Marin Airport (SJU)
+ADDRESS: 
+CITY: San Juan
+MAJOR: 
+STATE: PR
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: There is a pet relief area between Terminals A and B.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: 
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Rapid City AIrport (RAP)
+ADDRESS: 
+CITY: Rapid City
+MAJOR: 
+STATE: SD
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: There is a new pet relief area at the Rapid City Airport outside of the terminal.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.rcgov.org/pdfs/Airport/News/newsletter_second_quarter_09.pdf
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  New Orleans Louis Armstrong Airport (MSY)
+ADDRESS: 
+CITY: New Orleans
+MAJOR: 
+STATE: LA
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Armstrong International offers a service animal relief area adjacent to the short term parking garage. Exit through baggage claim near the rental car counters. Click here for a map of the location.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.flymsy.com/airport-facilities#ServiceAnimalRelief
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Cleveland Hopkins International Airport (CLE)
+ADDRESS: 
+CITY: Cleveland
+MAJOR: 
+STATE: OH
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Passengers who are traveling with pets or service animals can now utilize the convenience of the CLE Pet Relief Area. The pet relief area is at the South of end of baggage claim, nearest to Carousel 2. Owners will exit through Door 1 and walk to the left (following signs) around the corner. Pet waste pickup bags and a trash receptacle are available. Owners are asked to please clean up after their pets.<br><br>Pets, including dogs and other animals, are not allowed in the terminal except for:<br>An animal used by a law enforcement officer in the officer’s performance of duties<br>A seeing-eye dog escorting a visually impaired person, or other animal being used for assistance to disabled person<br>An animal that is being delivered to, or picked up from, an air carrier for transportation<br><br>Ticketed passenger with pets must carry the animal in a cage approved for airline use except when going through security checkpoints. Visitors to the airport are not permitted to bring pets inside the terminal, including baggage claim and the ticket lobby, unless the animal is a service animal.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.clevelandairport.com/Airport-Guide/General-Airport-Info.aspx
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:  Cincinnati/Northern Kentucky International Airport (CVG)
+ADDRESS: 
+CITY: Cincinnati
+MAJOR: 
+STATE: OH
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Outdoor area designated for walking dogs. Located at the east end of Terminal 3 on the lower (bag claim) level, just outside the Car Rental Shuttle Station. Look for the fenced area. Disposal gloves are provided.
+CATEGORY: Airport
+Submit: Submit
+PARK: 
+WEBSITE: http://www.cvgairport.com/skyshops/detail.aspx?id=3992c097-ba4b-476d-95ad-b13c0bdb2e62
+survey: us/trans
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>

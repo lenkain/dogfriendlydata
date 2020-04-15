@@ -1,0 +1,376 @@
+#Vacation Rentals in the US
+#Copyright 2004-2009, DogFriendly.com, Inc. All rights reserved.
+<BEGIN>
+UPDATE: UPDATE04US
+TITLE: Hanna's Cottage in the Woods
+ADDRESS: Call to Arrange.
+CITY: Killbuck
+MAJOR: 
+STATE: OH
+ZIP: 
+PHONE: 330-377-5208
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This cottage rental is surrounded by trees and has two bedrooms, two bathrooms, full kitchen, living room and porch.  The cottage is handicap accessible. Well-behaved leashed pets are welcome. No smoking or alchohol is allowed. The cabin costs about $90 per night per couple and an extra $20 per night for a child or dog. There are trails located on the property or you can visit the nearby Mohican State Park which allows leashed dogs on their 13 miles of trails. Call ahead to make a reservation.
+CATEGORY: Accommodations - Vacation Home Rental
+Submit: Submit
+PARK: 
+WEBSITE: http://www.valkyrie.net/~kak/
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+UPDATE: UPDATE04US
+TITLE: Bormans Cottages
+ADDRESS: Located on Monument Bay
+CITY: Put-in-Bay
+MAJOR: 
+STATE: OH
+ZIP: 
+PHONE: 419-285-3223
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: These rental cottages are located on Monument Bay and a ten minute walk to downtown Put-in-Bay or a five minute walk to Perry Monument. All cottages accommodate up to six people, have lake access, a boat ramp, fully equipped kitchens, TVs, ceiling fans, grills and picnic tables. Pets are allowed and there is a $25 one time per stay pet fee. None of the cottages are designated as smoking or non-smoking. Make a reservation early as the cottages usually tend to get booked quickly.
+CATEGORY: Accommodations - Vacation Home Rental
+Submit: Submit
+PARK: 
+WEBSITE: http://www.1awsm.com/BormansCottages.htm
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+UPDATE: UPDATE04US
+TITLE: East Point Cottages
+ADDRESS: 611 Massie Lane
+CITY: Put-in-Bay
+MAJOR: 
+STATE: OH
+ZIP: 43456
+PHONE: 419-285-2204
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Each of the seven cottage rentals offer color TV with cable, kitchenettes and air conditioning. The cottages are not designated smoking or non-smoking. Well-behaved dogs are allowed with a $20 one time per stay fee. Please clean up after your pet.
+CATEGORY: Accommodations - Vacation Home Rental
+Submit: Submit
+PARK: 
+WEBSITE: 
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+UPDATE: UPDATE04US
+TITLE: Johnston's Lakefront Cottages
+ADDRESS: 1555 Diest Road
+CITY: Middle Bass Island
+MAJOR: 
+STATE: OH
+ZIP: 43446
+PHONE: 419-285-2314
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: These rental cottages offer a view of the water and a large treed yard. The cottages are not designated as smoking or non-smoking. Well-behaved dogs of all sizes are allowed for a $50 refundable pet fee but need to be leashed and picked up after. To get to the cottages, you will need to take the dog-friendly Miller Ferry Boat Line. The ferry requires reservations if you plan on bringing your car. To make a reservation, call the ferry service at  1-800-500-2421 to make reservations.
+CATEGORY: Accommodations - Vacation Home Rental
+Submit: Submit
+PARK: 
+WEBSITE: http://www.ohiocottages.com
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+UPDATE: UPDATE04US
+TITLE: Bullfrog Cabin Rentals
+ADDRESS: Call to arrange.
+CITY: Loudonville
+MAJOR: 
+STATE: OH
+ZIP: 
+PHONE: 800-368-2791
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: These two cabins rentals are located in the Amish Country. They are furnished and have fully equipped kitchens, bedrooms, bathrooms,  heating, ceiling fans and sleep up to 6 people. Cabin rates range from about $100 to $150 per night depending on the cabin and the day of the week. There is no charge for children 10 and under. Well-behaved pets are allowed and there is a $10 fee per pet per night.
+CATEGORY: Accommodations - Vacation Home Rental
+Submit: Submit
+PARK: 
+WEBSITE: http://www.bullfrogmountain.com/
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+UPDATE: UPDATE04US
+TITLE: Roscoe Hillside Cabins
+ADDRESS: 46971 County Road 495
+CITY: Coshocton
+MAJOR: 
+STATE: OH
+ZIP: 
+PHONE: 866-582-8146
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: These three cabin rentals are located on the outskirts of Historic Roscoe Village. Cabin rates are about $150 per night. Well-behaved pets are allowed. There is a $250 refundable pet deposit if paying with a check and no deposit required if paying with a credit card.
+CATEGORY: Accommodations - Vacation Home Rental
+Submit: Submit
+PARK: 
+WEBSITE: 
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+UPDATE: UPDATE04US
+TITLE: Acorn Acres
+ADDRESS: 14805 Berry Road
+CITY: Logan
+MAJOR: 
+STATE: OH
+ZIP: 43138
+PHONE: 740-380-1074
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Acorn Acres is located on 37 acres of trees and natural vegetation with cleared trails and a stocked pond. They offer two rental cabins and one rental cottage. All rentals units are furnished and offer air conditioning, heating, kitchenettes, bathrooms, towels and linens. Pets are allowed with prior management approval. They need to be leashed and cleaned up after.  There is a $25 fee per pet per stay. Cabin rates range from about $135 to $155 per night. Prices are subject to change. The office is open from 9am to 9pm. Call ahead to make a reservation. Please do not call after 9pm.
+CATEGORY: Accommodations - Vacation Home Rental
+Submit: Submit
+PARK: 
+WEBSITE: 
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+UPDATE: UPDATE04US
+TITLE: County Line Cabins
+ADDRESS: Call to Arrange
+CITY: Carbondale
+MAJOR: 
+STATE: OH
+ZIP: 
+PHONE: 740-385-1358
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Rent a cabin or a large country home in the Hocking Hills area. Both are furnished and offer a fully equipped kitchen, gas fireplace, ceiling fans, central air and heat, hot tub on the deck, catch and release pond and fire ring. Linens and towels are provided. Depending on a weekday or weekend stay (two night min. required on weekends), rates are $130 to $140 per night. There is a $15 fee for each additional person after two special allowances for children. Children under 2 years old stay free. Well-behaved pets are welcome. There is a $10 fee per pet per day and pets need to be leashed when outside your cabin. Cabins are non-smoking but you can smoke outside. Hunters are also welcome.
+CATEGORY: Accommodations - Vacation Home Rental
+Submit: Submit
+PARK: 
+WEBSITE: http://www.hockinghills.com/countyline/
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+UPDATE: UPDATE04US
+TITLE: Deer Run Manors
+ADDRESS: 23095 Buena Vista Road
+CITY: Rockbridge
+MAJOR: 
+STATE: OH
+ZIP: 43139
+PHONE: 740-380-2369
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Choose from the "A" Frame rental or the Manor House rental. Both rentals are two story two bedroom furnished homes with full kitchens, ceiling fans, hot tubs. Each rental sleeps up to 6 people. Rates range from about $100 to $135 per night. Rates are based on double occupancy. There is a $25 per night fee per extra person. Rates are subject to change. Pets and children are welcome. There is a $25 pet fee. Call ahead to make a reservation.
+CATEGORY: Accommodations - Vacation Home Rental
+Submit: Submit
+PARK: 
+WEBSITE: http://www.mokasmanagement.com/deerrun/index.htm
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+UPDATE: UPDATE04US
+TITLE: Hide-A-Way Cabin
+ADDRESS: 29043 Hide A Way Hills Road
+CITY: Sugar Grove
+MAJOR: 
+STATE: OH
+ZIP: 43155
+PHONE: 740-746-9012
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This cabin rental is on 1.5 wooded acres and is located in a private gated resort in Hocking County. The cabin has two bedrooms, one bathroom, wood burning fireplace, skylights, fully equipped kitchen and cable TV with VCR/DVD player. Linens and towels are provided. The cabin is non-smoking but there are smoking areas outside. Cabin rates range from $85 to $120 per night. Children 10 and under stay for  free when accompanied by an adult. Prices are subject to change. Pets are allowed but must be leashed when outside the cabin and cannot be left unattended in the cabin. The cabin is located about 45 minutes south of Columbus.
+CATEGORY: Accommodations - Vacation Home Rental
+Submit: Submit
+PARK: 
+WEBSITE: http://www.hideawayhillsohiorentals.com/hideawaycabin/index.htm
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+UPDATE: UPDATE04US
+TITLE: Four Seasons Cabin Rentals
+ADDRESS: 14435 Nickel Plate Road
+CITY: Logan
+MAJOR: 
+STATE: OH
+ZIP: 43138
+PHONE: 800-242-8453
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: These two cabin rentals are family owned and operated and located on 55 acres along with the owner's house. Both rental cabins are about 200 feet apart with trees in between them.  Each cabin comes with a living room, two bedrooms, fully equipped kitchen, heating and air conditioning, linens, bath towels, hot tub, wood burning fireplace, picnic area, deck, fire ring. There are hiking trails located on the property. Rates are about $85 to $165 depending on season and weekday/weekend. Rates are for two adults and two children. Each additional adult or child is $15 extra, up to a total of four adults per cabin. Quiet well-behaved pets are welcome. Pets need to be leashedd when outside the cabin and cleaned up after. There is a $10 per day pet fee. The cabins are located one exit south of the exit for Old Man's Cave, Conkles Hollow and Lake Logan. Call for details about reservations and payment.
+CATEGORY: Accommodations - Vacation Home Rental
+Submit: Submit
+PARK: 
+WEBSITE: http://www.fourseasonscabinrental.com/
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+UPDATE: UPDATE04US
+TITLE: Chestnut Grove Cabins
+ADDRESS: 23101 Chestnut Grove Rd
+CITY: South Bloomingville
+MAJOR: 
+STATE: OH
+ZIP: 43152
+PHONE: 740-332-7122
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Rent a log home in the Hocking Hills area. The homes have two bedrooms, fully equipped kitchens, a hot tub, air conditioning, heating, a back porch and are wheelchair accessible. The homes are smoke free but smoking is permitted outside. Rates are about $139 to $169 per night per couple. Additional guests are $10 per person. Children 12 and under stay for free. Pets are allowed and there is a $25 one time pet fee. Pets need to be leashed when outside the rental unit and please clean up after your pet. Reservation require a 50% deposit and the balance is due upon arrival. Cancellations must be made 7 days prior to arrival for a refund of your deposit. They accept credit cards.
+CATEGORY: Accommodations - Vacation Home Rental
+Submit: Submit
+PARK: 
+WEBSITE: http://www.chestnutgrovecabins.com/
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+UPDATE: UPDATE04US
+TITLE: Mackinac Island Home Rentals
+ADDRESS: Call to arrange.
+CITY: Mackinac Island
+STATE: MI
+ZIP: 
+MAJOR: 
+PHONE: 800-473-6960
+EMAIL: 
+FAX:
+MAILADDRESS:
+MAILCITY:
+MAILSTATE:
+MAILZIP:
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Dogs are welcome in certain rooms and condos. All accommodations offer great views of the island and are non-smoking. The patio room costs about $145 per night with a $25 per stay pet fee. The one bedroom condo suite is like a studio and has a kitchen and living area. Rates are about $185 per night with a $50 per stay pet fee. If you need more space, an extra bedroom can be added to the one bedroom condo for a total of $295 per night with a $75 per stay pet fee. Rates are subject to change. Well-behaved leashed dogs of all sizes are welcome. They just ask that if you leave your dog alone in the room that he or she be in a crate that you provide. To get there from the ferry, you can take a horse taxi to the condos.
+CATEGORY: Accommodations - Vacation Home Rental
+Submit: Submit
+WEBSITE: http://www.mackinacislandvacationrentals.com/
+survey: us/hotel_us
+COUNTRY: 
+<END>
+

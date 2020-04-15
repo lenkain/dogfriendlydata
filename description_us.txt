@@ -1,0 +1,24 @@
+#copyright 2004 DogFriendly.com, Inc. All Rights Reserved.
+#The Contents of this file may not be copied or reused in any way without
+# the explicit written permission of DogFriendly.com, Inc.
+<BEGIN>
+TITLE: Jekyll Island Overview
+ADDRESS: 
+CITY: Jekyll Island
+STATE: GA
+ZIP: 
+REGION: 
+PHONE: 
+TOLLFREE:  
+WEBSITE: 
+TYPE: 
+COMMENTS: Jekyll Island is located six miles off the Georgia coast, between Savannah, Georgia and Jacksonville, Florida. This coastal barrier island is 7.5 miles long and 1.5 miles wide. From 1886 to 1942 Jekyll Island was used as an exclusive retreat for American millionaires including Rockefeller, Macys and Gould. Today the 5,000 acre island has 1,000 permanent residents and the land is leased by the state to the Jekyll Island Authority who manages the public island. State law limits development on the island to 35%, thus leaving 65% to remain as a nature preserve. The island is set in a relaxed environment with no high-rise buildings or neon signs. This island is home to wildlife like deer, wild turkey, raccoons, hawks, herons, sea turtles and even wild alligators. The summertime is the most popular time of year to visit the island. Summer temperatures average in the 80s F, fall temperatures average in the 60s F with many clear days and low humidity, winter are usually brief and mild, spring temperatures average in the 70s F.
+CROSS: 
+SURVEY: descinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertdesc.txt
+CATEGORY: Overview
+<END>

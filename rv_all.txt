@@ -1,0 +1,564 @@
+<BEGIN>
+CITY: Key Largo
+NOTES: 
+DOGSPERROOM: More Than Two
+HIGHWAYEXIT: Exit MM 102.5
+DOGWALKAREA: TRUE
+MAJOR: 
+CATEGORY: Accommodations - RV Parks and Campground
+DATEENTERED: Wed Apr 05 15:48:21 PDT 2006
+survey: research/rv_glory
+HIGHWAY1: 
+COMMENTS: This campground is located at Americas 1st undersea park where they offer boat tours, rentals, guided nature walks, and 47 full service tent and RV sites with restrooms and hot showers. Dogs are not allowed in buildings or on the boat tours. Dogs of all sizes are allowed at no additional fee. Dogs may not be left unattended outside the camping unit, and they must be quiet, well behaved, leashed and cleaned up after. Dogs are not allowed at this park for day use because they may not be left in vehicles in the parking lot. The camping and tent areas also allow dogs. There is a dog walk area at the campground.
+Submit: Submit
+SMALLDOG: FALSE
+HIGHWAY: On H 1
+TITLE: John Pennekamp Coral Reef State Park
+TOLLFREE: 800-326-3521
+WEBSITE: http://www.pennekamppark.com/
+ADDRESS: H 1, MM 102.5
+STATE: FL
+TEMP5: 
+TEMP4: 
+TEMP3: 
+SPECIALCODE: 
+TEMP2: 
+PHONE: 305-451-1202
+TEMP1: 
+HIGHWAY1EXIT: 
+TENTAREA: TRUE
+ZIP: 33037
+<END>
+<BEGIN>
+CITY: Ochopee
+NOTES: 
+DOGSPERROOM: 2
+HIGHWAYEXIT: 
+DOGWALKAREA: TRUE
+MAJOR: 
+CATEGORY: Accommodations - RV Parks and Campground
+DATEENTERED: Wed Apr 05 17:22:27 PDT 2006
+NOWATERHOOKUPS: TRUE
+survey: research/rv_glory
+HIGHWAY1: 
+COMMENTS: This recreational paradise offers day use, camping, canoeing, kayaking, hiking, bird-watching opportunities, interpretive programs, and self guided nature walks. Dogs of all sizes are allowed for no additional fee. Dogs must be leashed at all times and cleaned up after. Dogs are allowed anywhere in the front country and the campgrounds, but they are not allowed on trails or on any of the boardwalks. The camping and tent areas also allow dogs. There is a dog walk area at the campground. There are no water hookups at the campgrounds.
+Submit: Submit
+SMALLDOG: FALSE
+HIGHWAY: On H 41
+TITLE: Big Cypress National Preserve
+TOLLFREE: 
+WEBSITE: http://www.nps.gov/bicy/index.htm
+ADDRESS: 33100 Tamiami Trail East
+STATE: FL
+TEMP5: 
+TEMP4: 
+TEMP3: 
+SPECIALCODE: 
+TEMP2: 
+PHONE: 239-695-1201
+TEMP1: 
+HIGHWAY1EXIT: 
+TENTAREA: TRUE
+ZIP: 34141
+<END>
+<BEGIN>
+CITY: Lake Havasu City
+NOTES: 
+DOGSPERROOM: More Than Two
+HIGHWAYEXIT: Exit 15 miles S of Lake Havasu
+DOGWALKAREA: TRUE
+MAJOR: 
+CATEGORY: Accommodations - RV Parks and Campground
+DATEENTERED: Wed Apr 26 20:20:15 PDT 2006
+survey: research/rv_glory
+HIGHWAY1: 
+COMMENTS: This 2,000 acre park offers a beach, boat ramp, an amphitheater, 61 campsites, and a variety of year around land and water recreation. If you have your own watercraft, there are an additional 28 campsites along the water's edge. Dogs of all sizes are allowed at no additional fee. Dogs must be leashed at all times, and cleaned up after. Dogs may not be left unattended at any time. The camping and tent areas also allow dogs. There is a dog walk area at the campground.
+Submit: Submit
+SMALLDOG: FALSE
+HIGHWAY: H 95
+TITLE: Cattail Cove State Park
+TOLLFREE: 
+WEBSITE: http://www.azstateparks.com/Parks/parkhtml/cattail.html
+ADDRESS: P. O. Box 1990
+STATE: AZ
+TEMP5: 
+TEMP4: 
+TEMP3: 
+SPECIALCODE: 
+TEMP2: 
+PHONE: 928-855-1223
+TEMP1: 
+HIGHWAY1EXIT: 
+TENTAREA: TRUE
+ZIP: 86405
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: DUP
+CITY: Parker
+NOTES: 
+DOGSPERROOM: More Than Two
+HIGHWAYEXIT: 
+DOGWALKAREA: TRUE
+MAJOR: 
+CATEGORY: Accommodations - RV Parks and Campground
+DATEENTERED: Thu Apr 27 14:47:28 PDT 2006
+survey: research/rv_glory
+HIGHWAY1: 
+COMMENTS: This scenic campground sits along an 18-mile stretch of the Colorado River between Parker Dam and Headgate Dam. The park has different activities planned throughout the year. There are ranger led hikes, weekly speakers, ice cream socials, boating safety classes, and campfire programs. They also offer basketball and volleyball courts, a playground, clothing boutique, restaurant, camp store, arcade, restrooms, and a gas dock. Dogs of all sizes are allowed for no additional fee. They may not be left unattended at any time, and they must be leashed at all times, and cleaned up after. Dogs are not allowed in the cabaña area or on the beach from the day use area to the cabañas. At the River Island area, dogs are allowed in the water, but must be kept on right side of boat ramp. Well behaved dogs on lead are allowed on the variety of trails and throughout the rest of the park. The camping and tent areas also allow dogs. There is a dog walk area at the campground.
+Submit: Submit
+SMALLDOG: FALSE
+HIGHWAY: On H 95
+TITLE: Buckskin Mountain State Park
+TOLLFREE: 
+WEBSITE: http://www.pr.state.az.us/Parks/parkhtml/buckskin.html
+ADDRESS: 5476 H 95
+STATE: AZ
+TEMP5: 
+TEMP4: 
+TEMP3: 
+SPECIALCODE: 
+TEMP2: 
+PHONE: 928-667-3231
+TEMP1: 
+HIGHWAY1EXIT: 
+TENTAREA: TRUE
+ZIP: 85344
+<END>
+<BEGIN>
+CITY: Cornville
+NOTES: 
+CAMPINGCABINS: TRUE
+DOGSPERROOM: 2
+HIGHWAYEXIT: Exit Page Springs
+DOGWALKAREA: TRUE
+MAJOR: 
+CATEGORY: Accommodations - RV Parks and Campground
+DATEENTERED: Thu Apr 27 23:22:15 PDT 2006
+survey: research/rv_glory
+HIGHWAY1: 
+COMMENTS: Abundant springs in this area provides lush foliage  creating a rich oasis for recreation in the high desert. Amenities offered at this campground include hot showers, a spring fed pond, clean restrooms, a heated swimming pool, Jacuzzi, convenience store, club house, children's playground, ball and game courts, and a variety of recreational pursuits. Dogs of all sizes are allowed. There is a $3 per night per pet additional fee for the campground or the cabins. Dogs are not allowed in the cottages. Dogs must be leashed and cleaned up after. Dogs are allowed throughout the park, but not at the pool or in buildings. The camping and tent areas also allow dogs. There is a dog walk area at the campground. Dogs are allowed in the camping cabins.
+Submit: Submit
+SMALLDOG: FALSE
+HIGHWAY: H 89A
+TITLE: Lo Lo Mai Springs Outdoor Resort
+TOLLFREE: 
+WEBSITE: http://www.lolomai.com/
+ADDRESS: 11505 Lo Lo MaI Road
+STATE: AZ
+TEMP5: 
+TEMP4: 
+TEMP3: 
+SPECIALCODE: 
+TEMP2: 
+PHONE: 928-634-4700
+TEMP1: 
+HIGHWAY1EXIT: 
+TENTAREA: TRUE
+ZIP: 86325
+<END>
+<BEGIN>
+CITY: Camp Verde
+NOTES: 
+DOGSPERROOM: More Than Two
+HIGHWAYEXIT: 
+DOGWALKAREA: TRUE
+MAJOR: 
+CATEGORY: Accommodations - RV Parks and Campground
+DATEENTERED: Thu Apr 27 23:30:54 PDT 2006
+survey: research/rv_glory
+HIGHWAY1: 
+COMMENTS: This beautifully landscaped RV park is close to several attractions in the area, and they offer large clean restrooms, showers, spa, laundry facilities, and propane. Dogs of all sizes are allowed for no additional fee. Dogs may not be left alone at any time, and they must be leashed and cleaned up after. There is a dog walk area at the campground.
+Submit: Submit
+SMALLDOG: FALSE
+HIGHWAY: On H 260
+TITLE: Zane Grey RV Park
+TOLLFREE: 800-235-0608
+WEBSITE: http://www.zanegreyrvpark.com/
+ADDRESS: 4500 E H 260
+TEMP5: 
+STATE: AZ
+TEMP4: 
+TEMP3: 
+SPECIALCODE: 
+TEMP2: 
+PHONE: 928-567-4320
+TEMP1: 
+HIGHWAY1EXIT: 
+ZIP: 86322
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: DUP
+CITY: Show Low
+NOTES: 
+DOGSPERROOM: More Than Two
+HIGHWAYEXIT: 
+DOGWALKAREA: TRUE
+MAJOR: 
+CATEGORY: Accommodations - RV Parks and Campground
+DATEENTERED: Fri Apr 28 18:28:57 PDT 2006
+survey: research/rv_glory
+HIGHWAY1: 
+COMMENTS: Nestled among 100 foot pine trees along a lake at 6300 feet, this rec area offers an impressive list of weekend activities May through September such as parades, car shows, festivals, concerts, rodeos, and more, in addition to a variety of land and water recreation. Dogs are allowed throughout the park for no additional fee, and on the trails, as long as they are on lead at all times, and cleaned up after. The campground offers 123 camping sites, a dump station, fish cleaning station, boat ramps, picnic tables, picnic ramadas, grills, playgrounds, private showers and restrooms. The camping and tent areas also allow dogs. There is a dog walk area at the campground.
+Submit: Submit
+SMALLDOG: FALSE
+HIGHWAY: On H 60
+TITLE: Fool Hollow Lake Rec Area
+TOLLFREE: 
+WEBSITE: http://www.azstateparks.com/Parks/parkhtml/foolhollow.html
+ADDRESS: 1500 N Fool Hollow Lake Road
+STATE: AZ
+TEMP5: 
+TEMP4: 
+TEMP3: 
+SPECIALCODE: 
+TEMP2: 
+PHONE: 928-537-3680
+TEMP1: 
+HIGHWAY1EXIT: 
+TENTAREA: TRUE
+ZIP: 85901
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: DUP
+CITY: Prescott
+NOTES: 
+DOGSPERROOM: More Than Two
+HIGHWAYEXIT: Exit Iron Springs Road
+DOGWALKAREA: TRUE
+NOELECTRICHOOKUPS: TRUE
+MAJOR: 
+CATEGORY: Accommodations - RV Parks and Campground
+DATEENTERED: Tue May 02 14:54:52 PDT 2006
+NOWATERHOOKUPS: TRUE
+survey: research/rv_glory
+HIGHWAY1: 
+COMMENTS: Granite Mountain Wilderness is very popular due to its proximity to Prescott (only 20 minutes by paved road) and the unique experience it offers for hikers among huge granite boulders and varying trails, rock formations, and the spectacular view of the surrounding area. Dogs of all sizes are allowed for no additional fee, and they are allowed to go everywhere their owners can go except public buildings. Dogs may only be left for short periods on the campsite if they will be quiet and well behaved, and they must be leashed and cleaned up after. The camping and tent areas also allow dogs. There is a dog walk area at the campground. There are no electric or water hookups at the campgrounds.
+Submit: Submit
+SMALLDOG: FALSE
+HIGHWAY: H 89
+TITLE: Granite Basin Yavapai Campground/Prescott National Forest
+TOLLFREE: 
+WEBSITE: http://www.fs.fed.us/r3/prescott/recreation/group_cg/granite.shtml
+ADDRESS: Iron Springs Road
+STATE: AZ
+TEMP5: 
+TEMP4: 
+TEMP3: 
+SPECIALCODE: 
+TEMP2: 
+PHONE: 928-443-8000
+TEMP1: 
+HIGHWAY1EXIT: 
+TENTAREA: TRUE
+ZIP: 86303
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: DUP
+CITY: Cascade Locks
+NOTES: 
+DOGSPERROOM: 2
+HIGHWAYEXIT: Exit 44
+DOGWALKAREA: TRUE
+MAJOR: 
+CATEGORY: Accommodations - RV Parks and Campground
+DATEENTERED: Sat May 06 11:43:31 PDT 2006
+survey: research/rv_glory
+HIGHWAY1: 
+COMMENTS: The Marine Park here is a 23-acre scenic paradise, perfect for picnics, camping, weddings and outdoor events for groups up to 1000 people. This park is also home to the Sternwheeler Columbia Gorge and the Cascade Locks Historical Museum.  They offer a visitors' center, gift shop, 37-slip marina, public boat launch, a playground, RV accommodations, a recently remodeled Gorge Pavilion, and a foot bridge that accesses the adjacent three-acre Thunder Island. Although dogs are not allowed on any of the boats here, they are allowed in the camp area and around the park. Dogs must be leashed and cleaned up after at all times. The camping and tent areas also allow dogs. There is a dog walk area at the campground.
+Submit: Submit
+SMALLDOG: FALSE
+HIGHWAY: I 84
+TITLE: Port of Cascade Locks and Marine Park
+TOLLFREE: 
+WEBSITE: http://www.portofcascadelocks.org/
+ADDRESS: 355 WaNaPa Street
+STATE: OR
+TEMP5: 
+TEMP4: 
+TEMP3: 
+SPECIALCODE: 
+TEMP2: 
+PHONE: 541-374-8619
+TEMP1: 
+HIGHWAY1EXIT: 
+TENTAREA: TRUE
+ZIP: 97014
+<END>
+<BEGIN>
+CITY: Long Barn
+NOTES: 
+DOGSPERROOM: More Than Two
+HIGHWAYEXIT: Exit Fraser Flat Road (F.R.4N02)
+DOGWALKAREA: TRUE
+NOELECTRICHOOKUPS: TRUE
+MAJOR: 
+CATEGORY: Accommodations - RV Parks and Campground
+DATEENTERED: Wed May 17 16:41:10 PDT 2006
+NOWATERHOOKUPS: TRUE
+survey: research/rv_glory
+HIGHWAY1: 
+COMMENTS: At an elevation of 4,800 feet this campground offers forested sites on the South Fork of the Stanislaus River. There are 34 tent and RV sites with a maximum RV length of 22 feet. There are no hookups. Amenities include piped water, vault toilets, picnic tables and grills. All sites are on a first-come, first-served basis. Pets on leash are allowed and please clean up after them. This campground is located in the Stanislaus National Forest. To get there, drive 3 miles north of Highway 108 at Spring Gap turnoff (Fraser Flat Road). This rv park is closed during the offseason. The camping and tent areas also allow dogs. There is a dog walk area at the campground. There are no electric or water hookups at the campgrounds.
+Submit: Submit
+SEASONAL: TRUE
+SMALLDOG: FALSE
+HIGHWAY: H 108
+TITLE: Fraser Flat Campground
+TOLLFREE: 
+WEBSITE: http://www.fs.fed.us/r5/stanislaus/miwok/camping/fraser.shtml
+ADDRESS: Fraser Flat Road
+STATE: CA
+TEMP5: 
+TEMP4: 
+TEMP3: 
+SPECIALCODE: 
+TEMP2: 
+PHONE: 209-586-3234
+TEMP1: 
+HIGHWAY1EXIT: 
+TENTAREA: TRUE
+ZIP: 95335
+<END>
+<BEGIN>
+CITY: Big Pine
+NOTES: 
+CAMPINGCABINS: TRUE
+DOGSPERROOM: More Than Two
+HIGHWAYEXIT: Exit Big Pine
+DOGWALKAREA: TRUE
+MAJOR: 
+CATEGORY: Accommodations - RV Parks and Campground
+DATEENTERED: Wed May 17 16:47:34 PDT 2006
+survey: research/rv_glory
+HIGHWAY1: 
+COMMENTS: This campground offers tent camping and some RV spaces with full hookups. Amenities include a general store and nearby hiking and fishing. Dogs are also allowed in the cabins for an extra $15 per pet per stay. The Big Pine Canyon trailheads are located here which offer miles of dog-friendly on or off-leash hiking trails. Pets must be leashed in the campground and please clean up after them. This rv park is closed during the offseason. The camping and tent areas also allow dogs. There is a dog walk area at the campground. Dogs are allowed in the camping cabins.
+Submit: Submit
+SEASONAL: TRUE
+SMALLDOG: FALSE
+HIGHWAY: H 395
+TITLE: Glacier Lodge RV Park
+TOLLFREE: 
+WEBSITE: http://www.sonic.net/~kwofford/glacier-lodge/index.htm
+ADDRESS: Glacier Lodge Road
+STATE: CA
+TEMP5: 
+TEMP4: 
+TEMP3: 
+SPECIALCODE: 
+TEMP2: 
+PHONE: 760-938-2837
+TEMP1: 
+HIGHWAY1EXIT: 
+TENTAREA: TRUE
+ZIP: 93513
+<END>
+<BEGIN>
+CITY: Clearlake Oaks
+NOTES: 
+DOGSPERROOM: UNKNOWN
+HIGHWAYEXIT: Exit Island Drive
+DOGWALKAREA: TRUE
+MAJOR: 
+CATEGORY: Accommodations - RV Parks and Campground
+DATEENTERED: Wed May 17 16:54:03 PDT 2006
+survey: research/rv_glory
+HIGHWAY1: 
+COMMENTS: Located on a small island in Clear Lake (you will cross a bridge to get to the island), this RV park offers 30 full hookup sites and 4 tent sites. Amenities include laundry facilities, boat ramps and docks and hot showers. Well-behaved leashed dogs are allowed. Please clean up after them. They do not accept credit cards. The camping and tent areas also allow dogs. There is a dog walk area at the campground.
+Submit: Submit
+SMALLDOG: FALSE
+HIGHWAY: H 20
+TITLE: Island RV Park
+TOLLFREE: 
+WEBSITE: http://www.islandrvpark.com/
+ADDRESS: 12840 Island Drive
+STATE: CA
+TEMP5: 
+TEMP4: 
+TEMP3: 
+SPECIALCODE: 
+TEMP2: 
+PHONE: 707-998-3940
+TEMP1: 
+HIGHWAY1EXIT: 
+TENTAREA: TRUE
+ZIP: 95423
+<END>
+<BEGIN>
+TITLE: Giant Redwoods RV & Camp
+ADDRESS: 455 Boy Scout Camp Road
+CITY: Myers Flat
+MAJOR: 
+STATE: CA
+ZIP: 
+PHONE: 707-943-3198
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This campground is located in the middle of the Avenue of the Giants region in coastal California. It is surrounded by the Humboldt Redwoods State Park. This 23 acre park is located on a river and is a family campground. They welcome your pet as well. There are 82 sites, 14 which have full hookups, 44 with partial hookups and 33 pull through sites are available. There are hot showers and restrooms, a laundry, RV supplies, a playground and a rec hall. There is an additional pet fee of $2 per day per pet and $3 per day per child over 3 years old. From 101 North or South take the Myers Flat exit to the campground.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.giantredwoodsrvcamp.com
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Key Largo Kampground and Marina
+ADDRESS: Mile Marker 101.5
+CITY: Key Largo
+MAJOR: 
+STATE: FL
+ZIP: 
+PHONE: 305-451-1431
+TOLLFREE: 800-KAMP-OUT
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This campground is located on 40 acres along the Atlantic Ocean. It is one mile south of the entrance to John Pennekamp State Park. Also nearby are boat charters and diving activities. 
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.keylargokampground.com
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Riptide R/V Park & Motel
+ADDRESS: 97680 Overseas Highway
+CITY: Key Largo
+MAJOR: 
+STATE: FL
+ZIP: 33037
+PHONE: 305-852-8481
+TOLLFREE: 877-853-71330
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This campground is located near the waters of the Florida Keys in Key Largo. It is located at mile marker 97.2 on the Overseas Highway. Dogs are allowed in the RV campground but are not allowed in the motel.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.riptidervparkfloridakeys.com
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Broken Bow RV Park
+ADDRESS: 495 W Main Street
+CITY: Escalante
+MAJOR: 
+STATE: UT
+ZIP: 435-826-4959
+PHONE: 
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This campground in the red rock country has 28 pull-thru sites, full hookups and more. Pets are allowed in your campsites. The campground is located 1 hour from Bryce and 1 1/2 hours to Capital Reef National Park.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.brokenbowrvpark.com
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Tranquil Timbers RV Resort
+ADDRESS: 3668 Grondin Road
+CITY: Sturgeon Bay
+MAJOR: 
+STATE: WI
+ZIP: 54235
+PHONE: 920-743-7115
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This campground is located in a central location in Door County.There are over 250 sites in the campground. The campground has a large number of activities for children and adults. Pets are allowed and must be leashed at all times. There are some breed restrictions.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.quietwoodsnorth.com
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TOP200: TRUE
+TITLE: Mont-Trevblant Treehouses
+ADDRESS: 5000, chemin du Lac Caribou
+CITY: Saint-Faustin-Lac-Carré
+MAJOR: 
+STATE: QC
+ZIP: J0T 1J2
+PHONE: 819-681-4994
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Les Refuges Perches, just opened June 20th of 2014, offers 10 fully furnished, heated & insulated unique tree houses with many amenities in the Laurentians and the Mont-Tremblant region. The secluded tree houses offer you nature and fresh air without foregoing the comfortable features of home. The individual tree houses are all different, made to fit into the natural environment. They all have sunny terraces, picnic tables, an outside fire pit, and are equipped for cooking. The tree houses are only accessible by foot and water, creating a secluded feel. The main parking and reception pavilion area is only a 12-20 minute walk from the tree houses, and offers showers and bathrooms, laundry facilities, wi-fi and a small convenience store (at the park gate, summertime only). Dogs are more then welcome in the tree houses, on the site, and on the many hiking trails if they are on leash. Les Refuges Perches is located in a 2000 acre protected regional park (CTEL), with many outdoor activities right on site. Some of the activities are 36km of hiking trails, 3 stocked lakes to fish on, swimming, boat rentals, and snowshoeing in the winter. For more information and to choose your preferred treehouse, visit their website.
+
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: https://www.refugesperches.com/en/our-treehouses
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: info@refugesperches.com
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>

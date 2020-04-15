@@ -1,0 +1,2723 @@
+#copyright 1997-2013 DogFriendly.com, Inc. All Rights Reserved.
+#The Contents of this file may not be copied or reused in any way without
+# the explicit written permission of DogFriendly.com, Inc.
+<BEGIN>
+WEBSITE: http://www.state.ma.us/dem/parks/nick.htm
+STATE: MA
+survey: us/rv_us
+Submit: Submit
+CITY: Brewster
+CROSS: 
+IMAGE2: 
+IMAGE1: 
+ZIP: 
+COMMENTS: This state park has 1900 acres of land and offers over 400 campsites. Your dog is welcome at the campgrounds, but they ask that your dog never be left unattended. Dogs are also allowed on the hiking trails, and paved trails. Dogs are not allowed in the pond or on public beaches. However, you can take your dog to an uncrowded beach, where there are not many other people. Dogs must be leashed and you must have proof of your dog's rabies vaccination.
+CATEGORY: Accommodations - RV Parks and Campground
+IM3: 4a
+IM2: 4
+IM1: 3
+ADDRESS: Route 6A
+PHONE: 508-896-3491
+TITLE: Nickerson State Park Campgrounds
+MAJOR: Cape Cod
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: DUP
+TITLE: Jekyll Island Campground and RV Park
+ADDRESS: Beachview Drive
+CITY: Jekyll Island
+MAJOR: 
+STATE: GA
+ZIP: 
+PHONE: 866-658-3021
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This campground is situated on 18 wooded acres and offers almost 200 camp sites for both tent and RV camping. If you bring an RV they have full hookup pull-through sites which include cable television. All well-behaved pets are welcome. There is a $2 one time per stay pet fee.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.jekyllisland.com/camping.phtml
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Hocking Hills State Park Campground
+ADDRESS: 19852 State Route 664 South
+CITY: Logan
+MAJOR: 
+STATE: OH
+ZIP: 43138
+PHONE: 740-385-6842
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 159 electric sites with 20 to 50 amp electric hookups and 13 non-electric sites. All sites have a paved pad for up to a 50 foot unit. Campground amenities include heated showers, flush toilets, laundry facility, camp store, swimming pool, playgrounds, a volleyball court and nearby hiking trails. Up to two dogs per campsite are allowed and they must be leashed and cleaned up after. To get there from Columbus, take U.S. 33 East through Lancaster to Logan and exit onto State Route 664 South.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/hocking.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Great Seal State Park Campground
+ADDRESS: 635 Rocky Road
+CITY: Chillicothe
+MAJOR: 
+STATE: OH
+ZIP: 45601
+PHONE: 866-644-6727
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 15 campsites with pressurized water, vault latrines, a playground and a shelterhouse. The campground is located adjacent to Sugarloaf Mountain. Amenities include nearby hiking trails. Up to two dogs per campsite are allowed and they must be leashed and cleaned up after. To get there from Columbus, take U.S. 23 South through Circleville 17 miles to the Delano Exit. Follow the signs to the park. The park is located 3 miles east off of U.S. 23.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/grtseal.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Harrison Lake State Park Campground
+ADDRESS: 26246 Harrison Lake Road
+CITY: Fayette
+MAJOR: 
+STATE: OH
+ZIP: 43521
+PHONE: 419-237-2593
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 199 campsites of which 144 have electric hookups. Amenities include showers, flush toilets, a dump station and nearby hiking trails. They have designated sites for campers with pets and offer self-serve "mutt mitts" for cleaning up after your pooch. Up to two dogs per campsite are allowed and they must be leashed and cleaned up after. To get there from Toledo, take U.S. 20 West through Fayette to County Road 27. Turn left and drive 2 miles to the park.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/harrison.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Mary Jane Thurston State Park Campground
+ADDRESS: 1-466 State Route 65
+CITY: McClure
+MAJOR: 
+STATE: OH
+ZIP: 43534
+PHONE: 419-832-7662
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 35 sites with no electric hookups. Fifteen of the sites are for walk-in tent camping only. Campground amenities include restrooms, a nearby dump station and nearby hiking trails. Up to two dogs per campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/mjthrstn.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Kelleys Island State Park Campground
+ADDRESS: Division Street
+CITY: Kelleys Island
+MAJOR: 
+STATE: OH
+ZIP: 
+PHONE: 419-746-2546
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The family campground at this state park offers 82 electric sites and 45 non-electric sites. Campground amenities include showers, flush toilets, a dump station, volleyball court, playground, beaches and six miles of hiking trails. Pets are welcome in the designated pet camp sites. Up to two dogs per campsite are allowed and they must be leashed and cleaned up after. There is a $1 per pet fee. To get there you will need to take a ferry to the island. Kelleys Island Ferry Boat Line operates year round, weather permitting, and offers passenger and limited vehicle service from Marblehead, Ohio to the island. Leashed pets are welcome on the ferry. Once on Kelleys Island, go west on E. Lakeshore Drive and turn right on Division Street. The park is at the end of Division Street on the right.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/lakeerie.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: South Bass Island State Park Campground
+ADDRESS: Catawba Avenue
+CITY: South Bass Island
+MAJOR: 
+STATE: OH
+ZIP: 
+PHONE: 419-285-2112
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 125 non-electric camp sites and 10 full service sites with electric, water and sewer hookups. Amenities include showers, flush toilets and a dump station. This 32 acre state park does not allow dogs on the beach and does not really have any hiking trails. Up to two dogs per campsite are allowed and they must be leashed and cleaned up after. There is a $1 per pet fee. To get there you will need to take a ferry to South Bass Island. Miller Boat Line departs from Catawba and Jet Express departs from Port Clinton. Both ferries go to the island and both allow leashed dogs. Jet Express requires that dogs stay on the outside deck. While both ferries offer passenger transportation, Miller Boat Line also offers limited vehicle service. Once on the island, you can either drive your own car or rent a dog-friendly golf cart. From the village, take Catawba Avenue until you reach the park.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/lakeerie.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Van Buren State Park Campgrounds
+ADDRESS: 12259 Township Rd. 218
+CITY: Van Buren
+MAJOR: 
+STATE: OH
+ZIP: 
+PHONE: 419-832-7662
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This park offers a campground with 40 non-electric sites and a multi-use campground for general and horse camping with 38 non-electric sites. Camp amenities include tables, pit toilets, and hiking trails. There are certain designated sites for campers with pets. Up to two dogs per campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/vanburen.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Grand Lake Saint Marys State Park Campground
+ADDRESS: 834 Edgewater Drive
+CITY: St. Marys
+MAJOR: 
+STATE: OH
+ZIP: 45885
+PHONE: 419-394-3611
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 210 sites of which 142 have electricity. Campground amenities include flush toilets, laundry, showers, a dump station, and the lake for recreation. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after. To get there from Columbus, head west on Route 33 to St. Marys (33 becomes 29 at St. Marys). Stay on the four lane road to Route 364, then go south to 703. Take 730/364 East to the park entrance.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/grndlake.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Lake Loramie State Park Campground
+ADDRESS: 834 Edgewater Drive
+CITY: St. Marys
+MAJOR: 
+STATE: OH
+ZIP: 45885
+PHONE: 419-394-3611
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 161 sites with electric hookups. Campground amenities include shaded waterfront sites,  showers, flush toilets, a dump station, nearby hiking trails and swimming areas. Up to two dogs per pet campsite are allowed and they must be leashed, and are not allowed inside any buildings.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/lkloramie.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Hueston Woods State Park Campground
+ADDRESS: 6301 Park Office Road
+CITY: College Corner
+MAJOR: 
+STATE: OH
+ZIP: 45003
+PHONE: 513-523-6347
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 252 sites with electrical hookups and 236 sites with no electric. Campground amenities include showers, flush toilets, laundry, a trailer waste station and nearby hiking trails. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/huestonw.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: DUP
+TITLE: Caesar Creek State Park Campground
+ADDRESS: 8570 East S.R. 73
+CITY: Waynesville
+MAJOR: 
+STATE: OH
+ZIP: 45068
+PHONE: 513-897-3055
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 285 shady and sunny sites with electrical hookups. Campground amenities include showers, flush toilets and nearby hiking trails. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after. To get there from Cincinnati, take Interstate 71 north to Route 73. Turn right onto Route 73. Then turn left onto Route 380 and left on Center Road.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/caesarck.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: John Bryan State Park Campground
+ADDRESS: 3790 State Route 370
+CITY: Yellow Springs
+MAJOR: 
+STATE: OH
+ZIP: 45387
+PHONE: 937-767-1274
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 10 sites with electrical hookups and 89 sites without electric. Campground amenities include some shaded sites, picnic tables, fire rings, toilets, drinking water, a dump station and nearby hiking trails. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/jhnbryan.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: DUP
+TITLE: Deer Creek State Park Campground
+ADDRESS: 20635 Waterloo Road
+CITY: Mt. Sterling
+MAJOR: 
+STATE: OH
+ZIP: 45502
+PHONE: 740-869-3124
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: 
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+COMMENTS: The campground at this state park offers 227 and all sites have electricity. Campground amenities include showers, flush toilets, a dump station and nearby hiking trails. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/deercrk.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: DUP
+TITLE: Buck Creek State Park Campground
+ADDRESS: 1901 Buck Creek Lane
+CITY: Springfield
+MAJOR: 
+STATE: OH
+ZIP: 45502
+PHONE: 937-322-5284
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 111 camp sites of which 89 have electricity. Campground amenities include showers, flush toilets, dump station and nearby hiking trails and swim beach. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after. The park is about 48 miles from Columbus. To get there from Columbus, take Interstate 70 west to exit #62 to Route 40 west. Go 3 miles to the first traffic light and turn right on North Bird Road to Buck Creek Lane.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/buckck.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Alum Creek State Park Campgrounds
+ADDRESS: 3615 S. Old State Road
+CITY: Delaware
+MAJOR: 
+STATE: OH
+ZIP: 43015
+PHONE: 740-548-4631
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 289 woody and sunny sites with electric hookups. Many of the sites also offer water and sewer hookups. Campground amenities include heated showers, toilets and nearby hiking trails. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/alum.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Delaware State Park Campground
+ADDRESS: 5202 US 23 North
+CITY: Delaware
+MAJOR: 
+STATE: OH
+ZIP: 43015
+PHONE: 740-369-2761
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 211 tent and trailer sites with electric hookups. Campground amenities include flush toilets, showers, laundry facilities, dump station, and nearby hiking trails and swimming areas. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after. To get there from Columbus, go north on US 23. Go 5 miles north of the city of Delaware and the park entrance is on the east side of the road at the traffic light.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/delaware.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Indian Lake State Park Campground
+ADDRESS: 12774 State Route 235 N
+CITY: Lakeview
+MAJOR: 
+STATE: OH
+ZIP: 43331
+PHONE: 937-843-2717
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 441 tent and trailer sites, most of which have electrical hookups. Campground amenities include heated shower houses, flush toilets, laundry facility and nearby hiking trails and swimming area. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.  To get there from Columbus, take U.S. 33 towards Marysville. The park is about an hour and 15 minutes northwest on U.S. 33.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/indianlk.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Mount Gilead State Park Campground
+ADDRESS: 4119 State Route 95
+CITY: Mt. Gilead
+MAJOR: 
+STATE: OH
+ZIP: 43338
+PHONE: 419-946-1961
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park is set in a scenic pine forest and offers 59 sites with electrical hookups. Campground amenities include a camp store, fire rings, picnic tables, waste water drains, toilets and hiking trails. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/mtgilead.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Findley State Park Campground
+ADDRESS: 25381 State Route 58
+CITY: Wellington
+MAJOR: 
+STATE: OH
+ZIP: 44090
+PHONE: 440-647-4490
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 272  both sunny and shaded sites with no electric hookups. Campground amenities include showers, flush toilets, laundry facilities, dump station, game room, fully stocked camp store, recreation area with sand volleyball, a basketball court, two horseshoe pits and nearby hiking trails. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after. To get there from Cleveland, take Interstate 480 west to Route 10 west and continue to Route 20 west. Then go to Route 58 south and go ten miles. The park is 2.5 miles south of Wellington on the east side of the road.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/findley.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: East Harbor State Park Campground
+ADDRESS: Route 269
+CITY: Port Clinton
+MAJOR: 
+STATE: OH
+ZIP: 
+PHONE: 419-734-4424
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park is the largest in the Ohio State Park system. It offers 365 sites with electric hookups and 205 with no electric. Campground amenities include showers, flush toilets, dump station, camp store and nearby hiking trails. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after. To get there from Cleveland, take State Route 2 West to State Route 269 North. The park is located on State Route 269. To get there from Port Clinton, go east on Route 163 to Route 269 north.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/eastharbor.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Geneva State Park Campground
+ADDRESS: 4499 Padanarum Road
+CITY: Geneva
+MAJOR: 
+STATE: OH
+ZIP: 44041
+PHONE: 440-466-8400
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 88 shaded or sunny sites with electric hookups. Campground amenities include showers, flush toilets and nearby hiking trails. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after. To get there from Cleveland, take Interstate 90 east to Route 534 north. The park entrance is six miles north on Route 534, on the left.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/geneva.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Pymatuning State Park Campground
+ADDRESS: 6260 Pymatuning Lake Road
+CITY: Andover
+MAJOR: 
+STATE: OH
+ZIP: 44003
+PHONE: 440-293-6030
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers tent and trailer camping with 349 sites with electrical hookups and 21 sites with no electricity. Campground amenities include heated shower houses, flush toilets, laundry facilities, playgrounds, basketball and volleyball courts, and nearby hiking trails. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/pymatuning.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Punderson State Park Campground
+ADDRESS: 11755 Kinsman Road
+CITY: Newbury
+MAJOR: 
+STATE: OH
+ZIP: 44065
+PHONE: 440-564-2279
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park, once a former Indian village, offers 196 sites with electrical hookups. Five of the sites have full hookups with electricity, water and sewer service. Campground amenities include showers, flush toilets and nearby hiking and swimming. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/punderson.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Mosquito Lake State Park Campground
+ADDRESS: 1439 State Route 305
+CITY: Cortland
+MAJOR: 
+STATE: OH
+ZIP: 44410
+PHONE: 330-637-2856
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 234 sites of which 218 sites have electric hookups. The majority of camp sites are located in a mature forest and the rest of the sites offer lakeshore access and vistas. Campground amenities include a shower building, flush toilets and nearby hiking trails and swimming. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/mosquito.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: West Branch State Park Campground
+ADDRESS: 5708 Esworthy Road
+CITY: Ravenna
+MAJOR: 
+STATE: OH
+ZIP: 44266-9659
+PHONE: 330-296-3239
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 103 sites, 50 of which have 50 amp electric hookups. Campground amenities include heated showers, flush toilets, laundry facilities, a trailer dump station and nearby hiking trails. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/westbrnc.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Beaver Creek State Park Campground
+ADDRESS: 12021 Echo Dell Road
+CITY: East Liverpool
+MAJOR: 
+STATE: OH
+ZIP: 43920
+PHONE: 330-385-3091
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 53 sites with no electric hookups. Campground amenities include tables, fire rings, pit latrines, a dump station and nearby hiking trails. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/beaverck.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Portage Lakes State Park Campground
+ADDRESS: 5031 Manchester Road
+CITY: Akron
+MAJOR: 
+STATE: OH
+ZIP: 
+PHONE: 330-644-2220
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 74 sites with no electric hookups. Campground amenities include vault latrines, a dump station and nearby hiking trails. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/portage.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Malabar Farm State Park Campground
+ADDRESS: 4050 Bromfield Road
+CITY: Lucas
+MAJOR: 
+STATE: OH
+ZIP: 44843
+PHONE: 419-892-2784
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 15 primitive camp sites with no electric hookups. Campground amenities include restrooms, a dump station and nearby hiking trails. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/malabar.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Mohican State Park Campground
+ADDRESS: 3116 State Route 3
+CITY: Loudonville
+MAJOR: 
+STATE: OH
+ZIP: 44842
+PHONE: 419-994-4290
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 120 sites with electricity, fire rings and picnic tables. Full hookups are available at 33 sites. Campground amenities include showers, flush toilets, a dump station and nearby hiking trails. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/mohican.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Salt Fork State Park Campgrounds
+ADDRESS: 14755 Cadiz Road
+CITY: Lore City
+MAJOR: 
+STATE: OH
+ZIP: 43755
+PHONE: 740-439-3521
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 212 sites all with electrical hookups. Campground amenities include heated shower houses, flush toilets, a dump station and nearby hiking trails. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/saltfork.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Maumee Bay State Park Campground
+ADDRESS: 1400 State Park Road
+CITY: Oregon
+MAJOR: 
+STATE: OH
+ZIP: 43618
+PHONE: 419-836-7758
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 252 sites with electric hookups. Campground amenities include showers, flush toilets, playground equipment and nearby hiking trails. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/maumeebay.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Dillon State Park Campground
+ADDRESS: 5265 Dillon Hills Drive
+CITY: Nashport
+MAJOR: 
+STATE: OH
+ZIP: 43830
+PHONE: 740-453-4377
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 195 sites and 183 of them have electrical hookups. There are also walk-in sites which offer primitive camping. Campground amenities include showers, flush toilets, a dump station, guest laundry, store with groceries, nearby hiking trails. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.http://www.dnr.state.oh.us/parks/parks/dillon.htm
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: 
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: A.W. Marion State Park Campground
+ADDRESS: 7317 Warner-Huffer Road
+CITY: Circleville
+MAJOR: 
+STATE: OH
+ZIP: 
+PHONE: 740-869-3124
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 58 wooded  sites for tents and trailers. Twenty-nine of the sites have electrical hookups. Campground amenities include toilets, water and nearby hiking trails. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/awmarion.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Muskingum River State Park
+ADDRESS: 7924 Cutler Lake Road
+CITY: Blue Rock
+MAJOR: 
+STATE: OH
+ZIP: 43720
+PHONE: 740-674-4794
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 20 sites and pets are allowed in the camping area at Ellis. Campground amenities water, toilets, fire rings, and picnic tables. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/muskngmr.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Barkcamp State Park Campground
+ADDRESS: 65330 Barkamp Road
+CITY: Belmont
+MAJOR: 
+STATE: OH
+ZIP: 43718
+PHONE: 740-484-4064
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 125 shaded and sunny sites with electrical hookups. Campground amenities include hot showers, tables, fire rings, two wheelchair accessible sites, a dump station and nearby hiking trails and lake. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/barkcamp.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Wolf Run State Park Campground
+ADDRESS: 16170 Wolf Run Road
+CITY: Caldwell
+MAJOR: 
+STATE: OH
+ZIP: 43724
+PHONE: 740-732-5035
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 71 sites with electrical hookups and 67 without electric. Campground amenities include showers, toilets, laundry facilities and nearby hiking trails. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/wolfrun.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Burr Oak State Park Campground
+ADDRESS: 10220 Burr Oak Lodge Road
+CITY: Glouster
+MAJOR: 
+STATE: OH
+ZIP: 45732
+PHONE: 740-767-3570
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 100 non-electric sites for campers. Campground amenities include showers, flush toilets, a dump station and nearby hiking trails and lake. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/burroak.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Strouds Run State Park Campground
+ADDRESS: 11661 State Park Road
+CITY: Athens
+MAJOR: 
+STATE: OH
+ZIP: 45701
+PHONE: 740-592-2302
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 75 non-electric camp sites for tents or trailers. Campground amenities include toilets, waste drains, picnic tables, fire rings and nearby hiking trails and lake. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/strouds.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Lake Hope State Park Campground
+ADDRESS: 27331 State Route 278
+CITY: McArthur
+MAJOR: 
+STATE: OH
+ZIP: 45651
+PHONE: 740-596-5253
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: 
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: 
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Forked Run State Park Campground
+ADDRESS: 63300 State Route 124
+CITY: Reedsville
+MAJOR: 
+STATE: OH
+ZIP: 45772
+PHONE: 740-378-6206
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 80 electric sites and 100 non-electric sites. Campground amenities include showers, a dump station and nearby hiking trails and lake. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/forkedrn.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: DUP
+TITLE: Rocky Fork State Park Campground
+ADDRESS: 9800 North Shore Drive
+CITY: Hillsboro
+MAJOR: 
+STATE: OH
+ZIP: 45133
+PHONE: 937-393-4284
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 230 tent and trailer sites, of which 130 have electricity, 80 are non-electric and 20 have full hookups. Campground amenities include showers, flush toilets, laundry facilities, dump station, camp store, volleyball and playground equipment, miniature golf course, tether ball, basketball court, horseshoe pits and nearby hiking trails. Games and sporting equipments can be loaned to registered campers. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/rockyfrk.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Paint Creek State Park Campground
+ADDRESS: 14265 US Route 50
+CITY: Bainbridge
+MAJOR: 
+STATE: OH
+ZIP: 45612
+PHONE: 937-365-1401
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 195 sites with electric hookups. Campground amenities include hot showers, flush toilets, laundry facilities, a dump station and nearby hiking trails and swimming. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/paintcrk.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Shawnee State Park Campground
+ADDRESS: 4404 State Route 125
+CITY: Portsmouth
+MAJOR: 
+STATE: OH
+ZIP: 45663
+PHONE: 740-858-6652
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 103 tent and trailer sites with electrical hookups. Campground amenities include heater shower houses, flush toilets, laundry facilities, a dump station and nearby hiking trails and swimming. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/shawnee.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Stonelick State Park Campground
+ADDRESS: 2895 Lake Drive
+CITY: Pleasant Plain
+MAJOR: 
+STATE: OH
+ZIP: 45162
+PHONE: 513-625-7544
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 115 sites with electrical hookups. Campground amenities include showers, flush toilets, camp store, laundry facilities, a dump station and nearby hiking trails. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/stonelck.htm
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK:  
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: DUP
+TITLE: Cowan Lake State Park Campground
+ADDRESS: 1750 Osborn Road
+CITY: Wilmington
+MAJOR: 
+STATE: OH
+ZIP: 45177
+PHONE: 937-382-1096
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: The campground at this state park offers 254 tent or trailer sites, of which 237 sites have electricity and 17 non-electric sites. Four sites are wheelchair accessible. Campground amenities include a shower house, flush toilets, laundry facilities, a dump station and nearby hiking trails. Up to two dogs per pet campsite are allowed and they must be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.dnr.state.oh.us/parks/parks/cowanlk.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Canton/East Sparta KOA
+ADDRESS: 3232 Downing Street SW
+CITY: East Sparta
+MAJOR: 
+STATE: OH
+ZIP: 44626
+PHONE: 330-484-3901
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Pull through sites up to 50 feet are available as well as 50 amp service. Amenities include a seasonal swimming pool, modem dataport (fee), LP gas (fee) and mini golf (fee). The RV park is open all year. Pets are welcome but are not allowed in the cottages. There are no pet fees.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.koa.com/where/OH/35155.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Hillview Acres Campground
+ADDRESS: 66271 Wolfs Den Road
+CITY: Cambridge
+MAJOR: 
+STATE: OH
+ZIP: 43725
+PHONE: 740-439-3348
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Amenities include water and electrical hookups, dump station, free showers, playgrounds, nearby hiking and a camping cabin. The campground is open from mid-April to the end of October. Pets are welcome but must be leashed and cleaned up after. There are no pet fees.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: 
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Mar-Lynn Lake Park
+ADDRESS: 187 State Route 303
+CITY: Streetsboro
+MAJOR: 
+STATE: OH
+ZIP: 44241
+PHONE: 330-650-2552
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This campground offers full hookup sites, water and electric only sites, pull thru sites and rustic tent sites. Pets are welcome but not in the cabins. Dogs must be leashed, cleaned up after and cannot be left unattended.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.mar-lynn.com
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Camp Toodik
+ADDRESS: 7700 Twp Road 462
+CITY: Loudonville
+MAJOR: 
+STATE: OH
+ZIP: 44842
+PHONE: 800-322-2663
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This family campground is located in the foothills of the Appalachian Mountains in Holmes County. They offer both tent and RV sites with full hookups and pull through sites. Amenities include canoe and kayak rentals, heated swimming pool, fishing in the river or pond, walking trails, miniature golf, shuttleboard, sand volleyball, horseshoes, playground, game room, recreation hall, picnic shelter and laundry room. Pets are welcome but need to be leashed, cleaned up after and are not allowed in the cabins or cottages. There are no pet fees. Dogs are also allowed in the canoe rentals. The campground is located off I-71. Take exit #173.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.camptoodik.com/
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Scenic Hills RV Park
+ADDRESS: 4483 TR 367
+CITY: Millersburg
+MAJOR: 
+STATE: OH
+ZIP: 44654
+PHONE: 330-893-3607
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Located in the heart of Amish country, this RV park offers over 80 full hookups, 40 pull thru sites, modem hookup, dump station available, fire rings, picnic tables and open sites on a grassy hilltop. Pets are welcome but need to be leashed, cleaned up after and not left unattended. The park is located one mile east of Berlin, 500 feet south on TR 367/Hiland Road.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.scenichillsrvpark.com
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Evergreen Lake Park Campground
+ADDRESS: 703 Center Road
+CITY: Conneaut
+MAJOR: 
+STATE: OH
+ZIP: 44030
+PHONE: 440-599-8802
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This 70 acre campground offers over 250 campsites with water and electric hookups, many with full hookups. Amenities include flush toilets, sinks, hot showers, tables, fire rings, public phones, RV parts and service department, snack bar, pizza shop, pool tables, video games, playgrounds, Sunday Church services, shuffleboard, tetherball, horseshoe pits, sand volleyball court and mini golf. Pets are allowed but need to be leashed and cleaned up after. There is no pet fee. The campground is open from the beginning of May to mid-October.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.evergreenlake.com
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Indian Creek Camping Resort
+ADDRESS: 4710 Lake Road East
+CITY: Geneva-on-the-Lake
+MAJOR: 
+STATE: OH
+ZIP: 44041
+PHONE: 440-466-8191
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This 110 acre campground offers tent sites and RV sites with full hookups. Big rigs are welcome. Campground amenities include restrooms, heated adult pool for people 21 years and older, heated family pool, coin guest laundry, playground, game room, 18 hole miniature golf, church services, lounge and more.  Pets are allowed but need to be kept on a leash, cleaned up after and not left attended. There are no pet fees.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.indiancreekresort.com/
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Mohican Campground
+ADDRESS: 3058 State Route 3 South
+CITY: Loudonville
+MAJOR: 
+STATE: OH
+ZIP: 44842
+PHONE: 419-994-2267
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This campground offers full hookup sites and primitive camping sites with picnic tables and fire rings. Pets are allowed at the campground but must be leashed and cleaned up after. Pets are not allowed in the pavilion, patio, or any public buildings. Pets are strictly not allowed in or near the cabins (guide or service dogs are exempted from this regulation). There is a $2 per night per pet fee.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.mohicancamp.com/Campgrounds
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: DUP
+TITLE: Country Acres Campground
+ADDRESS: 9850 Minyoung Road
+CITY: Ravenna
+MAJOR: 
+STATE: OH
+ZIP: 44266
+PHONE: 330-358-2774
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This campground offers 200 wooded RV pull thru sites and primitive tent sites. Full hookups are available. Amenities include a 5 acre fishing lake, dump stations, showers, flush toilets, laundry, heated pool, whirlpool, limited store supplies, playgrounds and game room. Pets are allowed. There is no pet fee.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.gocampingamerica.com/countryacres/3_fea_rates.html
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Lock 30 RV Campground Resort
+ADDRESS: 45529 Middle Beaver Road
+CITY: Lisbon
+MAJOR: 
+STATE: OH
+ZIP: 
+PHONE: 330-424-9197
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This campground offers RV sites with full hookups with extra space around your site. Amenities include picnic tables, fire rings, hiking and biking trails, vending machines, game room, book exchange, playground, toddler playground, basketball, volleyball, horseshoes, bathrooms with showers, private fishing lake, river access, private dog swim area and hiking paths to the actual un-restored Lock 30 of the historic Sandy & Beaver Canal. Pets are welcome but need to be leashed and cleaned up after. There is no extra pet fee.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.ohiorvcamp.com/rates.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: DUP
+TITLE: Lazy Dog Campground
+ADDRESS: 1527 McGiffins Road
+CITY: Jackson
+MAJOR: 
+STATE: OH
+ZIP: 45640
+PHONE: 740-384-3060
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This campground offers over 80 sites with full hookups (no TV). Pull-throughs are available at 25 sites. The maximum RV length allowed is 56 feet. Primitive sites for tent camping are available and have no water or electric. Camp amenities include a recreation area with a playground, swimming pool, shuffleboard and Noah's Ark Animal Farm (pets not permitted in the animal farm). Pets are welcome at the campground but need to be on leash and cleaned up after. There is no pet fee.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: 
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Forest Haven Campground
+ADDRESS: 2342 Walnut Creek Road
+CITY: Chillicothe
+MAJOR: 
+STATE: OH
+ZIP: 45601
+PHONE: 740-774-1203
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This campground is open year round and offers spacious shaded sites. Both full hookup and primitive sites are available. Campground amenities include flush toilets, hot showers, TV/VCR/Video rentals, laundry facility, two playgrounds, bike rentals, swim area, camp store, paddle boats, small fishing lake, horseshoe pit, game room, dump station, book exchange, Halloween campout, basketball court, Internet access and tent rentals. Pets are allowed but need to be leashed and cleaned up after. There is no pet fee.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.foresthavencampground.com/
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Palmerosa Campground
+ADDRESS: 19217 Keifel Road
+CITY: Laurelville
+MAJOR: 
+STATE: OH
+ZIP: 43135
+PHONE: 740-385-3799
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This horseman's campground is located next to Hocking Hills State Forest and offers both RV sites with electric hookups and primitive camp sites. You are welcome with or without horses. Camp amenities include hot showers, outhouses, picnic tables, dump facilities, and a small tack and gift shop. Pets are welcome but need to be leashed and under control, and cleaned up after. There is a $5 one time per stay pet fee per pet.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.palmerosa.com
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: DUP
+TITLE: Wapakoneta/Lima S KOA
+ADDRESS: 14719 Cemetery Road
+CITY: Wapakoneta
+MAJOR: 
+STATE: OH
+ZIP: 45895
+PHONE: 419-738-6016
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Pull through sites up to 80 feet are available as well as 50 amp service. Amenities include a seasonal swimming pool and modem dataport (no charge). The RV park is open from mid-February to the beginning of December. Pets are welcome but are not allowed in the cottages. There are no pet fees.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.koa.com/where/OH/35108.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: OakDale Camp
+ADDRESS: 4611 State Route 235 South
+CITY: Quincy
+MAJOR: 
+STATE: OH
+ZIP: 43343
+PHONE: 937-585-6232
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This campground offers over 100 campsites with water and electric at each site. Amenities include a shower house with flush toilets, dump stations, trees and wildlife. Pets are welcome, but must be quiet and kept on a leash. There are no pet fees. They are open from April 1 to October 1.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.oakdalecamp.com/
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Clearwater Lake Campgrounds
+ADDRESS: 2845 State Route 50
+CITY: Batavia
+MAJOR: 
+STATE: OH
+ZIP: 45103
+PHONE: 513-625-9893
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This campground offers over 65 sites with full hookups and tent sites along the lake. Amenities include a bath and laundry house, playground, shelter and fishing lake. Pets are welcome but need to be leashed and cleaned up after. The campground is open from the beginning of April through the end of October.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.country-campers.com/
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Beechwood Acres Camping Resort
+ADDRESS: 855 Yankee Road
+CITY: Wilmington
+MAJOR: 
+STATE: OH
+ZIP: 45177
+PHONE: 937-289-2202
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This campground is located near Cowan State Park which allows dogs on the hiking trails. Camp amenities include tent and RV sites with hookups, heated swimming pool, game room, bike rentals, onsite convenience store, showers, laundry facilities, playground and golf cart train rides for children. Pets are welcome but need to be leashed and cleaned up after. Pets are not allowed in the cabins. There is a $1 per day pet fee.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.beechwoodacres.com
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Fox's Den Campground
+ADDRESS: 140 Conlan Road
+CITY: Put-in-Bay
+MAJOR: 
+STATE: OH
+ZIP: 43456
+PHONE: 419-285-5001
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This campground offers over 60 sites with water and electric hookups. Amenities include a laundry facility, camp store, showers, fire rings and dump station. Pets are allowed but need to be leashed and cleaned up after.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: 
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Winton Woods Campground
+ADDRESS: Winton Road
+CITY: Springfield Township
+MAJOR: 
+STATE: OH
+ZIP: 
+PHONE: 513-521-PARK
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Open from late February to early November, this campground offers 100 sites with full and electric hookups. Prices range from $18 to $26 per night. Campground amenities include picnic tables, fire rings, access to a heated shower building, dump station, laundry room, playground, camp store and nearby hiking trails. A 3 night stay is required on  holidays. Pets are allowed but must be on a 6 foot or less leash, under control, and picked up after. Pooper scooper dispensers are located at each trailhead and are available from the Park District Rangers. To get to the park, take I-275 to the Winton Road-Forest Park exit, and head south on Winton Road to the park entrances on left and right. The park is also accessible via the Ronald Reagan-Cross County Highway. Take the Winton Road exit, and head north on Winton Road to the park entrances on the left and right.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.hamiltoncountyparks.org
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Miami Whitewater Forest Campground
+ADDRESS: various entrances
+CITY: Crosby
+MAJOR: 
+STATE: OH
+ZIP: 
+PHONE: 513-521-PARK
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Open from the beginning of March to late October, this campground offers 46 electric sites which cost about $18 per night per site. Campground amenities include parking pads, fire rings, picnic tables, shower building, dump facility and nearby hiking trails. Pets are allowed but must be on a 6 foot or less leash, under control, and picked up after. Pooper scooper dispensers are located at each trailhead and are available from the Park District Rangers. To get to the park, take I-74 to Dry Fork Road exit, turn right on Dry Fork Road, turn right on West Road to the park entrance. The park is also accessible from Route 128 to Mt. Hope Road.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.hamiltoncountyparks.org
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Shade Acres RV Campground
+ADDRESS: 1810 W. Catawba Road
+CITY: Port Clinton
+MAJOR: 
+STATE: OH
+ZIP: 43452
+PHONE: 419-797-4681
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: RV sites include water and electric service, picnic tables, fire rings, shade and a concrete patio. Amenities include a small playground. Pets are allowed in the RV sites but not in the tent camping sites. There is no pet fee.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.shadeacres.com
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Sleepy Hollows Family Camping
+ADDRESS: 2817 E. Harbor Road
+CITY: Port Clinton
+MAJOR: 
+STATE: OH
+ZIP: 
+PHONE: 419-734-3556
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This campground offers tent sites and RV sites, some of which have electric hookups. Amenities include wooded sites, picnic tables, fire rings, dump station, firewood sales and a boat storage area. Pets are allowed but you will need to register your pet at the office. Pets must be leashed and cleaned up after. The RV park is open from mid-May to mid-October. They are located four miles east of Port Clinton on State Route 163.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.sleepyhollowscampground.com/
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Camper Village RV Park
+ADDRESS: One Cedar Point Drive
+CITY: Sandusky
+MAJOR: 
+STATE: OH
+ZIP: 44870
+PHONE: 419-627-2106
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This RV park is located at Cedar Point Amusement Park. The campground offers over 200 camp sites. There are 111 electric only sites and 97 full hookup sites. Tent camping or ground fires are not permitted. Amenities include restrooms, shower facilities, guest laundry, picnic tables and camping supply store. Pets are allowed but must be on leash and not left unattended. Pets can be boarded at Cedar Point's Pet Chek during park operating hours for $10 per day during the day only.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://resorts.cedarpoint.com/public/resorts/index.cfm?resort_id=5
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Smoke Rise Ranch Resort Camping
+ADDRESS: 6751 Hunterdon Road
+CITY: Glouster
+MAJOR: 
+STATE: OH
+ZIP: 43732
+PHONE: 740-767-2624
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This working cattle ranch offers a campground with both tent and RV sites. Sites with no hookups are about $16 per night. Sites with electricity and water hookups are about $20 per night. Rates include two adults and two children. There is a $8 fee per additional person. Dogs are welcome in the campground but need to be leashed and cleaned up after. Pets are not allowed in the cabins.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.smokeriseranch.com
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Top O' The Caves Camping
+ADDRESS: 26780 Chapel Ridge Road
+CITY: South Bloomingville
+MAJOR: 
+STATE: OH
+ZIP: 43152
+PHONE: 800-967-2434
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This 60 acre resort offers the largest campground in the Hocking Hills. They are surrounded by dog-friendly state parks (dogs on leash) which you can walk to from your site. They have both tent camping and full RV hookups. Each site includes a picnic table and fire ring. Resort amenities include two modern shower houses with hot water, a large swimming pool, kids playground, mini golf, large game arcade, gift shop, laundry facilities and Sunday worship services.  Pets are welcome and there are no pet fees. Please keep your dog leashed and clean up after them. The resort also offers cabins rentals that allow dogs. The resort is located on Chapel Ridge Road, near Highway 374.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.topothecaves.com/
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Caveman Retreats Campgrounds and Cabin Rentals
+ADDRESS: 18693 State Route 664S
+CITY: Logan
+MAJOR: 
+STATE: OH
+ZIP: 43138
+PHONE: 740-385-9485
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This campground is on 20 wooded acres and situated on a working Christmas tree farm. They have primitive tent sites, electric hookup sites and furnished rustic cabins. Camp amenities include restrooms, picnic tables and fire rings. Pets are allowed and there is a $10 per night pet fee if you stay in one of the rustic cabins. Pets need to be leashed and cleaned up after. Camping sites start at about $18 per night and rustic cabins start at about $90 per night.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.hockinghills.com/cavemanretreats/
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Salt Creek Retreats
+ADDRESS: 17549 Crawford Road
+CITY: Laurelville
+MAJOR: 
+STATE: OH
+ZIP: 43135
+PHONE: 614-397-3422
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: These vacation rentals are located near the Hocking Hills area. They offer one cabin rental and one yurt rental (rustic with no electricity or plumbing). Both rentals are furnished. The cabin has air conditioning and a gas furnace. Depending on the season and day of the week, rates for the cabin range from about $90 to $125 per night for up to four people. Yurt rates range from $50 to $65 per night for up to six people. Extra people can be accommodated if they bring their own tent. There is a $10 charge per night per extra person. Pets and children are welcome. There is a $15 one time per stay pet fee. Rental rates are subject to change. Call for details about payment.
+
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.saltcreekretreats.com
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: DUP
+TITLE: Goulding's Campground
+ADDRESS: 1000 Main Street
+CITY: Monument Valley
+MAJOR: 
+STATE: UT
+ZIP: 84536
+PHONE: 435-727-3231
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Both tent sites and full hookup RV sites are offered at this campground. Rates are from $16 to $26 per site per night. The rates are for two people. There is a $3 per night extra fee per additional person. Well-behaved leashed pets are welcome. Campground amenities includes a view of Monument Valley, heated indoor pool, guest laundry, hot showers, grocery store, playground and cable TV. The campground is located north of the Arizona and Utah border, adjacent to the Navajo Tribal Park in Monument Valley. They are open year round with limited service from November 1 to March 14.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.gouldings.com/english/campground.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: DUP
+TITLE: Canaan Valley Resort Campground
+ADDRESS: 32 Canaan Valley
+CITY: Davis
+MAJOR: 
+STATE: WV
+ZIP: 26260
+PHONE: 304-866-4121
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Located in the Canaan Valley State Park, this campground allows pets. They offer full hookups and can accommodate RVs up to 50 feet. Camp sites are under $20 per day during the winter and $25 per day during the summer. They have discounts for seniors and AAA members. For an extra fee, the resort  offers tennis courts, an exercise room and a sauna. This park also has 18 miles of hiking and mountain biking trails. Many of the trails are linked to other trails in the 1 million acre Monongahela National Forest. Pets must be on a 10 foot or less leash at all times including in the campground and on the state park trails.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.canaanresort.com
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: DUP
+TITLE: Salt Lake City KOA
+ADDRESS: 1400 West North Temple
+CITY: Salt Lake City
+MAJOR: 
+STATE: UT
+ZIP: 
+PHONE: 801-355-1214
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This RV park offers shady paved pull thru sites (maximum length 70 feet) with 30 or 50 amps, phone sites and modem and cable TV. Other amenities include a pool, hot tub, RV/car wash, snack bar, and LP gas. Well-behaved dogs of all sizes are welcome at the daily rental sites. There is no extra pet fee.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.koa.com/where/UT/44143.htm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Sunset Campground
+ADDRESS: Farmington Canyon
+CITY: Farmington City
+MAJOR: Salt Lake City
+STATE: UT
+ZIP: 
+PHONE: 877-444-6777
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This campground is located at an elevation of 6,400 feet in the Wasatch-Cache National Forest, east of Farmington City and north of Salt Lake City. There are 16 camp sites with tables, fire circles and grills. Campground amenities include toilets and drinking water but no trash cans or RV hookups. The maximum vehicle length allowed is 28 feet. Sites are paved with pull-thru capabilities.  Some of the sites are shaded and wheelchair accessible. Dogs must be leashed at the campgrounds and on the 1/2 mile Sunset Trail. Please clean up after your pets. All camp sites are first come, first serve and no reservations are accepted. The campground is open from June through October.  To get there from Salt Lake City, head north on Interstate 15 and take the Farmington Exit. At the stop sign, turn right. Go to 100 East Street and turn left (heading north). Take this road 5.3 miles up the canyon (Farmington Canyon) to the campground.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.fs.fed.us/r4/wcnf/unit/slrd/recreation/camping/davis_county_cg.shtml
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: The Flintstones Bedrock City Campground
+ADDRESS: US Highways 16 and 385
+CITY: Custer
+MAJOR: 
+STATE: SD
+ZIP: 
+PHONE: 605-673-4079
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Enjoy a camping or RV stay at this Flintstone's themed campground. The camp sites are located in an open meadow hilltop location. This full service campground offers tent camping and RV camping. Amenities include full hookups, showers, laundry facility, store, heating swimming pool and arcade. Also on site is the Flintstone's theme park which offers a miniature train ride around the park, several playgrounds, a Flintmobile car ride, gift shop, and a drive-in restaurant which has Brontoburgers, Chickasaurus and more. They are open from mid May until the beginning of September. Well-behaved leashed dogs are welcome, but are not allowed inside any buildings, including the camping cabins. Pets are allowed in the theme park including on the miniature train ride and at the outdoor dining seats at the drive-in restaurant. Please remember to clean up after your pet.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.flintstonesbedrockcity.com/
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+CAMPINGCABINS: TRUE
+TENTAREA: TRUE
+TITLE: KOA Campground
+ADDRESS: U.S. Highway 16
+CITY: Custer
+MAJOR: 
+STATE: SD
+ZIP: 
+PHONE: 605-673-4304
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This KOA campground is located in the Black Hills. They have tent sites, RV campsites and pet-friendly Kamping Kabins. Amenities include a heated pool, croquet, a playground, snack bar, modem dataport, maximum pull through length of 60 feet and 50 amp service available. Well-behaved leashed dogs are allowed and there is a dog walk area on the premises. Please remember to clean up after your pet. The campground is open from April 15 to October 1. They are located 3 miles west of the town of Custer on Highway 1 towards Jewel Cave and New Castle, Wyoming. Mt. Rushmore is about a 30 minute drive from the campground, possibly more if there is traffic.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.koa.com/where/sd/41107/
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+CAMPINGCABINS: TRUE
+BREEDRESTRICTION: TRUE
+TENTAREA: TRUE
+TITLE: KOA Campground
+ADDRESS: P.O. Box 2592
+CITY: Rapid City
+MAJOR: 
+STATE: SD
+ZIP: 
+PHONE: 605-348-2111
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This KOA campground is off of I-90 in Rapid City and is located about an hour from the area's popular attractions. They have tent sites, RV campsites and pet-friendly Kamping Kabins. Well-behaved leashed dogs are allowed in the campground and in the cabins. Please remember to clean up after your pet. Amenities include a swimming pool, hot tub/sauna, snack bar, modem dataport, cable TV, maximum pull through length of 60 feet and 50 amp service available. The campground is open from April 15 to October 15. Upon arrival, they usually have a grab bag with treats for pets. There are some breed restrictions.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.koa.com/where/sd/41102/
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: KOA Campground and Resort
+ADDRESS: 12620 Highway 244
+CITY: Hill City
+MAJOR: 
+STATE: SD
+ZIP: 
+PHONE: 605-574-2525
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This KOA Campground is located at an elevation of 5,400 feet and is just 5 miles from Mt. Rushmore. The campground is adjacent to the Peter Norbeck Wildlife Preserve and the Black Elk Wilderness Area and minutes to Custer State Park. They have almost 500 tent sites and RV campsites, and 55 Kamping Kabins with one or two bedroom options. Amenities include 2 outdoor pools, 3 hot tubs, sauna, waterslide, mini-golf, volleyball court, basketball court, fishing pond, hayrides, evening movies, paddle boats, bike rentals, restaurant, laundry facilities, comfort stations and dump stations. Well-behaved leashed dogs are allowed in the campground, and in the cabins, some of which have bathrooms. Please remember to clean up after your pet.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.koa.com/where/sd/41125/
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: St. Augustine Beach KOA
+ADDRESS: 525 West Pope Road
+CITY: St. Augustine
+MAJOR: 
+STATE: FL
+ZIP: 
+PHONE: 904-471-3113
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This campground is located on Anastasia Island. Both RV and tent sites are available. Campground amenities include a year round swimming pool, fishing, bicycle rentals, maximum length pull through of 70 feet, Cable TV, modem dataport, and 50 amp service available. Pets are welcome at the campground but not in the cabins. There is no extra pet fee. This KOA has a dog walk area. The campground is open year round.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.koa.com/where/fl/09205/
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Anastasia State Park Campgrounds
+ADDRESS: Anastasia Park Drive
+CITY: St. Augustine
+MAJOR: 
+STATE: FL
+ZIP: 
+PHONE: 904-461-2033
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This campsite offers electric and water hookups at each camp site. RVs under 40 feet can be accommodated. Pets are allowed at the campground, in day use areas and on the 1/2 mile nature trail and the old quarry walk. Pets are not allowed on the beach, in playgrounds, bathing areas, cabins, park buildings, or concession facilities. Pets cannot be tied to trees, tables, bushes, or shelter facilities. Dogs tied at a campsite cannot be left unattended for more than 30 minutes. Dogs must be on a 6 foot or less leash and people are required to clean up after their pets. During the park's quiet hours, usually from 11pm to 8am, your pets must be inside your camping unit. To get there from  I-95, take exit 311 (old exit 94). Go east on State Road 207. Turn right on State Road 312. Turn left on A1A. Go about 1.5 miles north to the main park entrance, which is on the right after your pass The Surf Station.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.floridastateparks.org/anastasia/default.cfm
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Fishing Bridge RV Park
+ADDRESS: Lake Yellowstone
+CITY: Yellowstone National Park
+MAJOR: 
+STATE: WY
+ZIP: 
+PHONE: 307-344-7311
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This RV Park is located in the middle of Yellowstone National Park on the north side of Lake Yellowstone. It is open seasonally from May through October. Dogs are required to be on leash at all times.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://travelyellowstone.com
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE:Campsites in Yellowstone National Park
+ADDRESS: Throughout
+CITY: Yellowstone National Park
+MAJOR: 
+STATE: WY
+ZIP: 
+PHONE: 307-344-7311
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: All Yellowstone campgrounds allow pets. Pets must be leashed at all times. Pets may not be left unattended, may not bark continuously, and must be cleaned up after. Pets are not allowed on park trails and must not be more than 100 feet from a roadway or parking area outside of the campground.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://travelyellowstone.com/static/136.htm
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Colter Bay Campground
+ADDRESS: Colter Bay
+CITY: Grand Teton National Park
+MAJOR: 
+STATE: WY
+ZIP: 
+PHONE: 800-628-9988
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This RV Park is located in Grand Teton National Park. It is the only RV Park in the park with electric hookups and the only one that will handle campers over 30 feet in length. Dogs on leash are allowed in the RV park.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.nps.gov/grte/pphtml/camping.html
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Lizard Creek Campground
+ADDRESS: North End of Park
+CITY: Grand Teton National Park
+MAJOR: 
+STATE: WY
+ZIP: 
+PHONE: 800-672-6012
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This RV Park and campground is located at the north end of Grand Teton National Park. This RV park has no electric hookups but does have water and dumping. RVs less than 30 feet in length are allowed.  The campground is open seasonally from about June to September. Dogs on leash are allowed in the campground. No reservations are accepted, it is first come first serve.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.nps.gov/grte/pphtml/camping.html
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Signal Mountain
+ADDRESS: 16 Miles north of Jenny Lake
+CITY: Grand Teton National Park
+MAJOR: 
+STATE: WY
+ZIP: 
+PHONE: 800-672-6012
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This RV Park and campground is located at the north end of Grand Teton National Park. This RV park has no electric hookups but does have water and dumping. RVs less than 30 feet in length are allowed.  The campground is open seasonally from about May to October. Dogs on leash are allowed in the campground. No reservations are accepted, it is first come first serve.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.nps.gov/grte/pphtml/camping.html
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+TITLE: Campgrounds in Grand Teton
+ADDRESS: Various
+CITY: Grand Teton National Park
+MAJOR: 
+STATE: WY
+ZIP: 
+PHONE: 800-628-9988
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Dogs on leash are allowed in campgrounds thoughout Grand Teton National Park. Pets may not be left unattended and must be cleaned up after. 
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://www.nps.gov/grte/pphtml/camping.html
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+HIGHWAYEXIT: 
+STATE: AK
+WEBSITE: http://www.nps.gov/dena/index.htm
+survey: research/attform_erika
+Submit: Submit
+CITY: Denali Park 
+ZIP: 99755
+COMMENTS: Dogs must be on leash and must be cleaned up after in Denali National Park.  Dogs are only allowed on the paved roads and dirt roads. One place to walk is on the road to Savage after mile 15, which is a dirt road and only the park buses are allowed. Access is by car depending on weather.  Dogs on leash are allowed in the Denali National Park campgrounds, but they may not be left unattended in the campgrounds. The park features auto touring, camping, and scenery.
+ADDRESS: PO Box 9
+HIGHWAY: 
+NOTES: 
+TEMP5: 
+TEMP4: 
+CATEGORY: Accommodations - RV Parks and Campground
+TEMP3: 
+TEMP2: 
+TEMP1: 
+PHONE: 907-683-2294
+NAME: Denali National Park and Preserve
+MAJOR: 
+DATEENTERED: Sun Aug 14 11:39:45 PDT 2005
+<END>
+<BEGIN>
+HIGHWAYEXIT: 
+STATE: PA
+WEBSITE: http://www.knoebels.com/family-vacation.asp
+survey: research/attform_df
+Submit: Submit
+CITY: Elysburg
+ZIP: 
+COMMENTS: This campground is located next to the Knoebel's Amusement Park which is the largest free admission amusement park in the country. Dogs are allowed at your RV or tent site. Pets are not allowed in the cabins.
+ADDRESS: Route 487
+HIGHWAY: 
+NOTES: 
+TEMP5: 
+TEMP4: 
+CATEGORY: Accommodations - RV Parks and Campground
+TEMP3: 
+TEMP2: 
+TEMP1: 
+PHONE: 800-ITS-4FUN
+NAME: Knoebel's Campground
+<END>
+<BEGIN>
+HIGHWAYEXIT: 
+STATE: VA
+WEBSITE: http://www.tomscovepark.com/
+survey: research/attform_df
+Submit: Submit
+CITY: Chincoteague
+ZIP:  23336 
+COMMENTS: This campground offers the closest views of the wild horses on Assateague Island in Virginia that your dog will be able to get. From the campground you can look across the causeway a few hundred feet and can usually see some wild horses. The campground has hundreds of campsites and is open from March 1 to November 30 yearly. Dogs are allowed but must be leashed when  outside.
+ADDRESS: 8128 Beebe Road
+HIGHWAY: 
+NOTES: 
+TEMP5: 
+TEMP4: 
+CATEGORY: Accommodations - RV Parks and Campground
+TEMP3: 
+TEMP2: 
+TEMP1: 
+PHONE: 757-336-6498
+NAME: Tom's Cove Campground
+IMAGE1: http://www.dogfriendly.com/server/travel/uscities/images/east/chincoteaguecampgd.jpg
+<END>
+<BEGIN>
+TITLE: Destiny Dallas RV Resort
+ADDRESS: 7100 S. I-35 E
+CITY: Denton
+MAJOR: Dallas
+STATE: TX
+ZIP: 76210
+PHONE: 940-497-3353
+TOLLFREE: 
+TYPE: RV Park & Campgrounds
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS:  This RV Park located 20 miles north of Dallas on I-35 is a good location for camping near Dallas. There are 172 sites with all types of hookups in a lushly wooded area. There are many amenities here. Dogs are welcome to stay with you in your RV and there are many areas to walk dogs.
+CATEGORY: Accommodations - RV Parks and Campground
+Submit: Submit
+PARK: 
+WEBSITE: http://destinyrv.com/dallasrvresort
+survey: us/rv_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>

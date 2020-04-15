@@ -1,0 +1,1687 @@
+# This file has petsitters and day kennels # throughout the US and Canada.
+# Copyright 1998 - 2006 DogFriendly.com, Inc. All rights rsvd.
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: AZ
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_wanda
+CITY: Glendale
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 7920 W. Bell Road
+PHONE: 623-979-0016
+COMMENTS: This PetSmart store offers day care, day camp and overnight care. Their hours are 7 am - 9 pm M-F, Sunday hours are 7am - 7pm.  You may drop off and pick up your dog at anytime that the store is open. Dogs are required to have proof of current rabies, DPT and bordatella vaccines.
+MAJOR: 
+DATEENTERED: Fri Jul 21 10:58:04 PDT 2006
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: AZ
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_wanda
+CITY: Scottsdale
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: Submitted incomplete form.
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+PREVIOUSENTRY: ON
+CATEGORY: Day Kennel
+ADDRESS: 10030 N. 90th St.
+PHONE: 480-391-1647
+COMMENTS: This PetSmart store offers day camp only.  You may drop off your pet during their business hours - 7 am - 7 pm M-S, and Sunday 9 am - 5 pm.  Dogs are required to have proof of up to date rabies, DPP and Bordatella vaccinations.
+MAJOR: 
+DATEENTERED: Fri Jul 21 11:09:45 PDT 2006
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: AZ
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_wanda
+CITY: Tempe
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 1315 WE Elliot Rd.
+PHONE: 480-785-0587
+COMMENTS: This PetSmart offers day care, day camp and overnight care.  You may drop off your dog and pick up your dog between the hours of 7 am - 7 pm M-S and Sunday between 7 am - 7 pm.  Up to date rabies, DPP and Bordatella vacines are required.
+MAJOR: 
+DATEENTERED: Fri Jul 21 11:16:26 PDT 2006
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: AZ
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_wanda
+CITY: Tucson
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 4374 N. Oracle Rd.
+PHONE: 520-407-0197
+COMMENTS: This PetSmart pet store offers day care only.  You can drop off your dog between the hours of 7 am - 9pm M-S and Sunday 7 am - 7 pm.  Dogs are required to have proof of up to date rabies, DPP and bordatella vacinations.
+MAJOR: 
+DATEENTERED: Fri Jul 21 11:24:19 PDT 2006
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: CA
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_wanda
+CITY: Brea
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 2465 E. Imperial Highway
+PHONE: 714-256-0396
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You can drop your dog off and pick up your dog between the hours of 7 am - 9 pm M-F, Sunday 8 am - 6 pm.  Dogs are required to have proof of current rabies, DPP and Bordatella vaccinations.
+MAJOR: 
+DATEENTERED: Fri Jul 21 12:13:27 PDT 2006
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: CA
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_wanda
+CITY: Clovis
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 615 W. Hearndon Ave.
+PHONE: 
+COMMENTS: This PetSmart pet store offers day care and day camp only.  You may drop off and pick up your dog at any time they are open.  Their hours are 7 am - 9 pm M-F, Sunday 8 am - 7 pm.  Dogs are required to have proof of current rabies, DPP and bordatella vaccinations.
+MAJOR: 
+DATEENTERED: Fri Jul 21 12:21:02 PDT 2006
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: CA
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_wanda
+CITY: Fremont
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 39410 Argonaut Way
+PHONE: 
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog 7 am - 9 pm  M-S, Sunday 8 am - 7 pm.  Dogs are required to have proof of current rabies, DPP and bordatella vaccines. 
+MAJOR: 
+DATEENTERED: Fri Jul 21 12:27:34 PDT 2006
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: CA
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_wanda
+CITY: La Jolla
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 8657 Villa la Jolla Dr. 
+PHONE: 
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during during the hours of 7 am - 7 pm M-S, Sunday 7 am - 6:30 pm.  Dogs are required to have proof of current rabies, DPP and bordatella vaccinations. 
+MAJOR: 
+DATEENTERED: Fri Jul 21 12:33:19 PDT 2006
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: CA
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_wanda
+CITY: Mountain View
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 2440 E. Charleston Rd.
+PHONE: 
+COMMENTS: This PetSmart pet store offers day care, day camp, and overnight care.  Dogs may be dropped off and picked up during the hours of 7 am - 7 pm M-S, Sunday 9 am - 6 pm.  Dogs must have proof of current rabies, DPP and bordatella vaccinations.
+MAJOR: 
+DATEENTERED: Fri Jul 21 12:38:16 PDT 2006
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: CA
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_wanda
+CITY: San Jose
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 607 Coleman Ave.
+PHONE: 408-920-0472
+COMMENTS: This PetSmart pet store offers day camp only.  You can drop off and pick up your dog between the hours of 7 am - 7 pm, M-S, Sunday 9 am - 5 pm.  Dogs are required to have proof of current rabies, DPP and bordatella vaccinations.
+MAJOR: 
+DATEENTERED: Fri Jul 21 12:54:56 PDT 2006
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: CA
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_wanda
+CITY: Whittier
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 15618 Whittwood Lane
+PHONE: 562-902-1394
+COMMENTS: This PetSmart pet store offers day camp, day care and overnight care.  You can drop off and pick up your dog during the hours of 7 am - 7 pm M-S, Sunday 7 am - 6 pm.  Dogs are required to have current proof of rabies, DPP and bordatella vaccinations.
+MAJOR: 
+DATEENTERED: Fri Jul 21 13:02:30 PDT 2006
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: CO
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_wanda
+CITY: Colorado Springs
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 7680 N. Academy Blvd.
+PHONE: 719-531-0711
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off your dog during the hours of 7 am - 8:45 pm M-S, Sunday 7 am - 7 pm.  Dogs must have proof of current up to date rabies, DPP and bordatella vaccinations. 
+MAJOR: 
+DATEENTERED: Fri Jul 21 13:09:29 PDT 2006
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: CO
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_wanda
+CITY: South Denver
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 8695 S. Park Meadows Center
+PHONE: 303-799-1624
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours of 7 am - 9 pm M-S, Sundays 7 am - 7 pm.  Dogs are required to have proof of current rabies, DPP and bordatella vaccinations.
+MAJOR: 
+DATEENTERED: Fri Jul 21 13:18:34 PDT 2006
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: GA
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_wanda
+CITY: Atlanta
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 128 Perimeter Center W.
+PHONE: 
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog between the hours of 7 am - 9 pm M-S, Sundays 7 am - 7pm.  Dogs are required to have proof of up to date rabies, DPP and bordatella vaccinations.
+MAJOR: 
+DATEENTERED: Fri Jul 21 13:25:52 PDT 2006
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: GA
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_wanda
+CITY: Duluth
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 3803 Venture Dr.
+PHONE: 770-813-8753
+COMMENTS: This PetSmart pet store offers day care and overnight care.  You may drop off and pick up your dog 7am - 7 pm M-S, Sunday 9am - 7 pm.  Dogs are required to have proof of current rabies, DPP and bordatella vaccinactions.
+MAJOR: 
+DATEENTERED: Fri Jul 21 13:37:43 PDT 2006
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: GA
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_wanda
+CITY: Atlanta
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 3630 Peachtree Parkway
+PHONE: 770-476-0181
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog 7 am - 9 pm M-S, Sunday 7 am - 7 pm.  Dogs must have current proof of rabies, DPP and bordatella vacinations.
+MAJOR: 
+DATEENTERED: Fri Jul 21 13:46:47 PDT 2006
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: GA
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_wanda
+CITY: Smyrna
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 2540B Hargrove Rd. SE
+PHONE: 770-432-8895
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours of 7 am - 9 pm M-S, Sunday 7 am - 7 pm.  Dogs are required to have proof for current up to date rabies, DPP and bordatella vaccinations.
+MAJOR: 
+DATEENTERED: Fri Jul 21 13:53:07 PDT 2006
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: NM
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_wanda
+CITY: Albuquerque
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 1429 Mercantile Drive
+PHONE: 505-341-2440
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You can drop off and pick up you dogs during the hours of 7 am - 9 pm M-S, Sunday 7 am - 7 pm.  Dogs must have proof of current rabies, DPP and bordatella vaccinations.
+MAJOR: 
+DATEENTERED: Fri Jul 21 14:02:05 PDT 2006
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: TX
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_wanda
+CITY: Dallas
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 12100 Inwood Rd.
+PHONE: 972-392-9381
+COMMENTS: This PetSmart pet store offers day care, day camp, and overnight care.  You may drop off and pick up your dog between the hours of 7 am - 9 pm M-S Sunday 8 am - 6 pm.  Dogs are required to have proof of up to date rabies, DPP, and bortadella vaccinations.
+MAJOR: 
+DATEENTERED: Fri Jul 21 14:17:34 PDT 2006
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: TX
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_wanda
+CITY: East Plano
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 3300 North Center Expressway
+PHONE: 972-422-8307
+COMMENTS: This PetSmart pet store offers day camp only. You may drop off or pick up your dog between the hours of 7 am - 7 pm M-S, Sunday 9 am - 5 pm.  Dogs are required to have proof of current rabies, DPP and bordatella vaccinations.
+MAJOR: 
+DATEENTERED: Fri Jul 21 14:23:06 PDT 2006
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: TX
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_wanda
+CITY: Flower Mound
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 6060 Long Prairie
+PHONE: 972-539-7387
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog between the hours of 7 am - 9 pm MS, Sunday 7 am - 7 pm.  Dogs must have proof of up to date rabies, DPP and bordatella vaccinations. 
+MAJOR: 
+DATEENTERED: Fri Jul 21 14:31:06 PDT 2006
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: TX
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_wanda
+CITY: Plano
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 6204 West Park Blvd.
+PHONE: 972-713-9400
+COMMENTS: This PetSmart pet store offers day care.  You can drop your dog off and pick back up between the hours of 7 am - 7 pm MS, Sunday 9am - 7 pm.  Dogs are required to have current proof of rabies, DPP and Bordatella vaccinations.
+MAJOR: 
+DATEENTERED: Fri Jul 21 14:40:30 PDT 2006
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: TX
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_wanda
+CITY: Round Rock
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 2601 S IH 35
+PHONE: 512-238-0637
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off your dog at anytime during the hours of 7 am - 9 pm M-S, Sunday 8 am - 7 pm.  Dogs must have proof of current rabies, DPP and bordatella vaccinations.
+MAJOR: 
+DATEENTERED: Fri Jul 21 14:48:16 PDT 2006
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: TX
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_wanda
+CITY: San Antonio
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 19260 Park Central
+PHONE: 210-494-1028
+COMMENTS: This PetSmart pet store offers day care, day camp and over night care.  You may drop off and pick up your dog during the hours of 7 am - 9 pm Monday-Sunday.  Dogs must have proof of current rabies, DPP and bordatella vaccinations. 
+MAJOR: 
+DATEENTERED: Fri Jul 21 14:55:04 PDT 2006
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: TX
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_wanda
+CITY: Houston
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 5415 W. Loop St.
+PHONE: 713-661-1205
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog 7 am - 9 pm M-S, Sunday 8 am - 6 pm.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations. 
+MAJOR: 
+DATEENTERED: Fri Jul 21 15:09:45 PDT 2006
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: TX
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+CITY: Houston
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 5415 W. Loop St.
+PHONE: 713-661-1205
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog 7 am - 9 pm M-S, Sunday 8 am - 6 pm.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations. 
+MAJOR: 
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+lwk - 062607
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: AZ
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+CITY: Paradise Valley
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 10825 N. Tatum Blvd.
+PHONE: 480-367-0178
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations. 
+MAJOR: 
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: CA
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+CITY: Aliso Viejo
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 26761 Aliso Creek Rd.
+PHONE: 949-643-3056
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations. 
+MAJOR: 
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+STATE: CA
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+CITY: Pasadena
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+ADDRESS: 3347 E. Foothill Blvd.
+PHONE: 626-351-8434
+COMMENTS: This PetSmart pet store offers doggy day camp only.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations. 
+MAJOR: 
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 770 Camino Real
+CITY: Sunnyvale
+STATE: CA
+PHONE: 408-773-0215
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day camp only.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations. 
+MAJOR: 
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 8500 W. Crestline Ave.
+CITY: Littleton
+STATE: CO
+PHONE: 303-948-6372
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations. 
+MAJOR: Denver
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 10460 Town Center Dr.
+CITY: Westminster
+STATE: CO
+PHONE: 303-466-8409
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations. 
+MAJOR: 
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 3221 Peachtree Rd 
+CITY: Buckhead
+STATE: GA
+PHONE: 404-266-0402
+MAJOR: 
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers doggie day camp only.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 976 N. Route 59
+CITY: Aurora
+STATE: IL
+PHONE: 630-820-2416
+MAJOR: 
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 2221 Oakton Ave.
+CITY: Evanston
+STATE: IL
+PHONE: 847-425-9422
+MAJOR: 
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 2665 N. Elston Ave.
+CITY: Lincoln Park
+STATE: IL
+PHONE: 773-252-4037
+MAJOR: 
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 9277 W. 159th St.
+CITY: Orland Hills
+STATE: IL
+PHONE: 708-403-8717
+MAJOR: 
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 11501 Metcalf Ave.
+CITY: Overland Park
+STATE: KS
+PHONE: 913-338-0307
+MAJOR: Kansas City
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 5810 Antioch
+CITY: Merriam
+STATE: KS
+PHONE: 913-384-0289
+MAJOR: 
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 10308 Westport Rd.
+CITY: Springhurst
+STATE: KY
+PHONE: 502-426-4163
+MAJOR: 
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 6800 Wisconsin Ave.
+CITY: Bethesda
+STATE: MD
+PHONE: 240-497-1980
+MAJOR: Washington Suburbs
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 9041 Snowden Sq. River Rd.
+CITY: Columbia
+STATE: MD
+PHONE: 410-312-4890
+MAJOR: 
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 1 Worcester Rd.
+CITY: Framingham
+STATE: MA
+PHONE: 508.370.9612
+MAJOR: 
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 2865 Oak Valley Dr.
+CITY: Ann Arbor
+STATE: MI
+PHONE: 734-222-0934
+MAJOR: 
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 734 E. Big Beaver Rd.
+CITY: Troy
+STATE: MI
+PHONE: 248-743-0482
+MAJOR: Detroit
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 28556 Telegraph Rd.
+CITY: Southfield
+STATE: MI
+PHONE: 248-799-9363
+MAJOR: Detroit
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 11200 Fountains Drive North
+CITY: Maple Grove
+STATE: MN
+PHONE: 763-424-8549
+MAJOR: 
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 3103 Oak View Dr.
+CITY: Omaha
+STATE: NE
+PHONE: 402-333-1612
+MAJOR: 
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 531 N. Stephanie St.
+CITY: Henderson
+STATE: NV
+PHONE: 702-433-7016
+MAJOR: Las Vegas
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 2140 N. Rainbow Rd.
+CITY: Las Vegas
+STATE: NV
+PHONE: 702-631-8009
+MAJOR: 
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 310 White Horse Pike North
+CITY: Lawnside
+STATE: NJ
+PHONE: 856-310-5215 
+MAJOR: Camden Area
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 400 Mill Creek Blvd.
+CITY: Secaucus
+STATE: NJ
+PHONE: 201-583-1015
+MAJOR: 
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 350 Walt Whitman Rd
+CITY: Huntington
+STATE: NY
+PHONE: 631-425-0184
+MAJOR: 
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 2430 Walnut St.
+CITY: Cary
+STATE: NC
+PHONE: 919-858-0449
+MAJOR: Raleigh
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 2800 Millbrook Rd.
+CITY: Raleigh
+STATE: NC
+PHONE: 919-874-6198
+MAJOR: 
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 3739 William Penn Hwy
+CITY: Monroeville
+STATE: PA
+PHONE: 412-372-8431
+MAJOR: 
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 1125 Woodruff Rd.
+CITY: Greenville
+STATE: SC
+PHONE: 864-289-0175
+MAJOR: 
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 7941 Winchester Rd.
+CITY: Memphis
+STATE: TN
+PHONE: 901-756-7853
+MAJOR: 
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 2805 Wolfcreek Pkwy
+CITY: Wolfchase
+STATE: TN
+PHONE: 901-382-7354
+MAJOR: Memphis
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 5500 Greenville Ave.
+CITY: Dallas  	
+STATE: TX
+PHONE: 214.365.0070
+MAJOR: 
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 860 NE Mall Blvd.
+CITY: Hurst
+STATE: TX
+PHONE: 817-590-9338
+MAJOR: Dallas - Fort Worth Area
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 200 Village Center Dr.
+CITY: Southlake
+STATE: TX
+PHONE: 817-442-0808
+MAJOR: Dallas - Fort Worth Area
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 203 E Interstate 20 East, Ste 101
+CITY: South Arlington
+STATE: TX
+PHONE: 817-466-1437
+MAJOR: Dallas - Fort Worth Area
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 16758 SW Freeway
+CITY: Sugar Land
+STATE: TX
+PHONE: 281-494-2515
+MAJOR: Houston
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 17723 Tomball Pkwy.
+CITY: Willowbrook
+STATE: TX 
+PHONE: 281-469-7594
+MAJOR: Houston
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 3351 Jefferson Davis Hwy
+CITY: Alexandria
+STATE: VA
+PHONE: 703-739-8940
+MAJOR: Northern Virginia
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 12971 Fair Lake Pkwy
+CITY: Fairfax
+STATE: VA
+PHONE: 703-802-9616
+MAJOR: Northern Virginia
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 6536 Frontier Dr
+CITY: Springfield
+STATE: VA
+PHONE: 703-922-4990
+MAJOR: 
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers doggy day care only.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 3413 Virginia Beach Blvd.
+CITY: Virginia Beach
+STATE: VA
+PHONE: 757-486-5294
+MAJOR: 
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 1505 11th Ave. NW
+CITY: Issaquah
+STATE: WA
+PHONE: 425-557-8322
+MAJOR: Seattle Area
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 17585 Southcenter Pkwy.
+CITY: Tukwila
+STATE: WA
+PHONE: 206-575-2758
+MAJOR: 
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TEMP5: 
+TEMP4: 
+TEMP3: 
+TEMP2: 
+TEMP1: 
+Submit: Submit
+NAME: PetsHotel by PetsMart Day Kennel
+survey: research/petsitform_df
+ADDRESS: 17845 Garden Way NE
+CITY: Woodinville
+STATE: WA
+PHONE: 425-398-8610
+MAJOR: Seattle Area
+HIGHWAY: 
+HIGHWAYEXIT: 
+ZIP: 
+NOTES: 
+WEBSITE: http://www.petsmart.com/PETsHOTEL/
+CATEGORY: Day Kennel
+COMMENTS: This PetSmart pet store offers day care, day camp and overnight care.  You may drop off and pick up your dog during the hours the store is open seven days a week.  Dogs must have proof of current rabies, DPP and Bordatella vaccinations.
+DATEENTERED: Fri Jun 26 15:09:45 PDT 2007
+<END>
+<BEGIN>
+TITLE: Dogs R Us
+ADDRESS: 19904 4th Avenue
+CITY: Rehoboth Beach
+MAJOR: 
+STATE: DE
+ZIP: 
+PHONE: 443-839-4803
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This pet sitter will watch your pet while you stay in Rehoboth Beach if you need to go out without your pet. They also do dog walks and overnight sitting for residents. They are bonded & insured.
+CATEGORY: Pet Sitter
+Submit: Submit
+PARK: 
+WEBSITE: 
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>

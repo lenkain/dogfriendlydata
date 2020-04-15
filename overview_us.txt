@@ -1,0 +1,2250 @@
+<BEGIN>
+TITLE: Carmel California
+ADDRESS: A World Away for the Vacationing Pooch
+CITY: Carmel
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-yca-rmel
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCACarmel.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Acadia & Bar Harbor
+ADDRESS: Maine's Dog Paradise
+CITY: Bar Harbor
+STATE: ME
+ZIP: 
+REGION: 
+AUXPHONE: dog-bar-harb
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideMEBar_Harbor_-_Acadia.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Newport, Block Island & Rhode Island
+ADDRESS: Sea, Surf & Coastline
+CITY: Newport
+STATE: RI
+ZIP: 
+REGION: 
+AUXPHONE: dog-new-port
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideRINewport.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Newport, Block Island & Rhode Island
+ADDRESS: Sea, Surf & Coastline
+CITY: Block Island
+STATE: RI
+ZIP: 
+REGION: 
+AUXPHONE: dog-blo-ckis
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideRINewport.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Newport, Block Island & Rhode Island
+ADDRESS: Sea, Surf & Coastline
+CITY: Providence
+STATE: RI
+ZIP: 
+REGION: 
+AUXPHONE: dog-pro-vide
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideRINewport.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Colorado Springs
+ADDRESS: Fun at 7000 feet
+CITY: Colorado Springs
+STATE: CO
+ZIP: 
+REGION: 
+AUXPHONE: dog-col-orad
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideCOColorado_Springs.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Tallahassee
+ADDRESS: Crossroads of History 
+CITY: Tallahassee
+STATE: FL
+ZIP: 
+REGION: 
+AUXPHONE: dog-tal-laha
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideFLTallahassee.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Grand Canyon Region
+ADDRESS: Awesome Beauty 
+CITY: Grand Canyon
+STATE: AZ
+ZIP: 
+REGION: 
+AUXPHONE: dog-gra_ndca
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideAZGrand_Canyon.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Portland Oregon
+ADDRESS: As Dog-Friendly As Cities Get 
+CITY: Portland
+STATE: OR
+ZIP: 
+REGION: 
+AUXPHONE: dog-por-tlan
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideORPortland.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Black Hills
+ADDRESS: Vacation in Dog-Friendly Mountains 
+CITY: Rapid City
+STATE: SD
+ZIP: 
+REGION: 
+AUXPHONE: dog-rap-idci
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideSDBlack_Hills.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Black Hills/Badlands
+ADDRESS: Vacation in Dog-Friendly Mountains 
+CITY: Badlands National Park
+STATE: SD
+ZIP: 
+REGION: 
+AUXPHONE: dog-bad-land
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideSDBlack_Hills.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: San Diego
+ADDRESS: Great Weather & Dog-Friendly 
+CITY: San Diego
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-san_dieg
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCASan_Diego.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: San Diego County
+ADDRESS: Great Weather & Dog-Friendly 
+CITY: San Diego County North
+STATE: CA
+ZIP: 
+REGION: San Diego County North
+AUXPHONE: dog-san_dnor
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCASan_Diego.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Julian
+ADDRESS: A mountain getaway with your pup
+CITY: Julian
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-jul-ianz
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCASan_Diego.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Great Smoky Mtns
+ADDRESS: A Pet-Friendly Vacation
+CITY: Gatlinburg
+STATE: TN
+ZIP: 
+REGION: 
+AUXPHONE: dog-gat-linb
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideTNSmoky_Mountains.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Chicago
+ADDRESS: Pet-Friendly City by the Lake
+CITY: Chicago
+STATE: IL
+ZIP: 
+REGION: 
+AUXPHONE: dog-chi-cago
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideILChicago.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+abc
+<BEGIN>
+TITLE: Chicago
+ADDRESS: Pet-Friendly City by the Lake
+CITY: Chicago Area North
+STATE: IL
+ZIP: 
+REGION: 
+AUXPHONE: dog-chi-nort
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideILChicago.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Chicago
+ADDRESS: Pet-Friendly City by the Lake
+CITY: Chicago Area West
+STATE: IL
+ZIP: 
+REGION: 
+AUXPHONE: dog-chi-west
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideILChicago.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Chicago
+ADDRESS: Pet-Friendly City by the Lake
+CITY: Chicago Area South
+STATE: IL
+ZIP: 
+REGION: 
+AUXPHONE: dog-chi-sout
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideILChicago.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Boston
+ADDRESS: One Of a Kind City for Dogs
+CITY: Boston
+STATE: MA
+ZIP: 
+REGION: 
+AUXPHONE: dog-bos-tonm
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideMABoston.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Boston
+ADDRESS: One Of a Kind City for Dogs
+CITY: Boston Area
+STATE: MA
+ZIP: 
+REGION: 
+AUXPHONE: dog-bos-tona
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideMABoston.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Philadephia
+ADDRESS: Where the Nation Began
+CITY: Philadelphia
+STATE: PA
+ZIP: 
+REGION: 
+AUXPHONE: dog-phl-city
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguidePAPhiladelphia.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Philadelphia
+ADDRESS: Where the Nation Began
+CITY: Philadelphia Area
+STATE: PA
+ZIP: 
+REGION: 
+AUXPHONE: dog-phl-area
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguidePAPhiladelphia.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Santa Fe
+ADDRESS: Spanish Charm in the Mountains
+CITY: Santa Fe
+STATE: NM
+ZIP: 
+REGION: 
+AUXPHONE: dog-san-tafe
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideNMSanta_Fe.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: San Francisco
+ADDRESS: Dog-Friendly By The Bay
+CITY: San Francisco
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-san_fran
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCASan_Francisco.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: St. Augustine
+ADDRESS: Fountain of Youth & Dog-Friendly
+CITY: St Augustine
+STATE: FL
+ZIP: 
+REGION: 
+AUXPHONE: dog-sta-ugus
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideFLSt_Augustine.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Lake Tahoe
+ADDRESS: Alpine Dog-Friendly Fun Year Round
+CITY: Lake Tahoe
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-lak-etah
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCALake_Tahoe.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Florida Keys & Key West
+ADDRESS: Drive your car to the tropics
+CITY: Keys
+STATE: FL
+ZIP: 
+REGION: 
+AUXPHONE: dog-fla-keys
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideFLFlorida_Keys.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Florida Keys & Key West
+ADDRESS: Drive your car to the tropics
+CITY: Key West
+STATE: FL
+ZIP: 
+REGION: 
+AUXPHONE: dog-key-west
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideFLFlorida_Keys.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: New York City
+ADDRESS: Big Apple is Surprisingly Pet-Friendly
+CITY: New York
+STATE: NY
+ZIP: 
+REGION: 
+AUXPHONE: dog-nyc-dogf
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideNYNew_York.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: New York City
+ADDRESS: Big Apple is Surprisingly Pet-Friendly
+CITY: NYC Boroughs
+STATE: NY
+ZIP: 
+REGION: 
+AUXPHONE: dog-nyc-boro
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideNYNew_York.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: New York City
+ADDRESS: Big Apple is Surprisingly Pet-Friendly
+CITY: New York Area North
+STATE: NY
+ZIP: 
+REGION: 
+AUXPHONE: dog-nyc-nort
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideNYNew_York.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Los Angeles
+ADDRESS: Dog-Friendly Fun on the Pacific
+CITY: Los Angeles
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-lax-dwnt
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCALos_Angeles.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Los Angeles
+ADDRESS: Dog-Friendly Fun on the Pacific
+CITY: Hollywood - West LA
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-lax-holl
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCALos_Angeles.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Los Angeles
+ADDRESS: Dog-Friendly Fun on the Pacific
+CITY: LA Beach Area
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-lax-beac
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCALos_Angeles.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Los Angeles
+ADDRESS: Dog-Friendly Fun on the Pacific
+CITY: Long Beach
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-lon-gbch
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCALos_Angeles.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Los Angeles
+ADDRESS: Dog-Friendly Fun on the Pacific
+CITY: San Fernando Valley
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-san-fern
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCALos_Angeles.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Los Angeles
+ADDRESS: Dog-Friendly Fun on the Pacific
+CITY: Pasadena - East LA
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-pas-aden
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCALos_Angeles.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Washington DC
+ADDRESS: A Dog-Friendly Capital City
+CITY: Washington
+STATE: DC
+ZIP: 
+REGION: 
+AUXPHONE: dog-was-hdca
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideDCWashington.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Washington DC
+ADDRESS: A Dog-Friendly Capital City
+CITY: Northern Virginia
+STATE: VA
+ZIP: 
+REGION: 
+AUXPHONE: dog-was-nova
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideDCWashington.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Washington DC
+ADDRESS: A Dog-Friendly Capital City
+CITY: Washington Suburbs
+STATE: MD
+ZIP: 
+REGION: 
+AUXPHONE: dog-was-mdsu
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideDCWashington.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Cape Cod
+ADDRESS: Dog-Friendly Summer Playground
+CITY: Cape Cod
+STATE: MA
+ZIP: 
+REGION: 
+AUXPHONE: dog-cap-ecod
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideMACape_Cod.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Austin
+ADDRESS: An All-Around Dog-Friendly City
+CITY: Austin
+STATE: TX
+ZIP: 
+REGION: 
+AUXPHONE: dog-tex-aust
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideTXAustin.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Asheville - Blue Ridge Pkwy
+ADDRESS: Dog-Friendly Vacation in the Mountains
+CITY: Asheville
+STATE: NC
+ZIP: 
+REGION: 
+AUXPHONE: dog-ash-vill
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideNCAsheville.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Asheville - Blue Ridge Pkwy
+ADDRESS: Dog-Friendly Vacation in the Mountains
+CITY: Blue Ridge Parkway
+STATE: NC
+ZIP: 
+REGION: 
+AUXPHONE: dog-blu-erid
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideNCAsheville.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Orlando
+ADDRESS: How Dog-Friendly is it?
+CITY: Orlando
+STATE: FL
+ZIP: 
+REGION: 
+AUXPHONE: dog-orl-ando
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideFLOrlando.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Amarillo
+ADDRESS: By Morning - With Your Dog
+CITY: Amarillo
+STATE: TX
+ZIP: 
+REGION: 
+AUXPHONE: dog-ama-rill
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideTXAmarillo.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Seattle
+ADDRESS: The Emerald City is Dog-Friendly
+CITY: Seattle
+STATE: WA
+ZIP: 
+REGION: 
+AUXPHONE: dog-sea-ttle
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideWASeattle.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Seattle
+ADDRESS: The Emerald City is Dog-Friendly
+CITY: Seattle Area
+STATE: WA
+ZIP: 
+REGION: 
+AUXPHONE: dog-sea-area
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideWASeattle.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Mendocino&Fort Bragg
+ADDRESS: A dog-friendly vacation spot
+CITY: Mendocino
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-men-doci
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCAMendocino.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Sacramento
+ADDRESS: Some Dog-Friendly Gems
+CITY: Sacramento
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-sac-rame
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCASacramento.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Detroit
+ADDRESS: Dog-Friendly Vacation Overview
+CITY: Detroit
+STATE:  MI
+ZIP: 
+REGION: 
+AUXPHONE: dog-det-roit
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideMIDetroit.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Atlanta
+ADDRESS: Dog-Friendly Capital of the South
+CITY: Atlanta
+STATE:  GA
+ZIP: 
+REGION: 
+AUXPHONE: dog-atl-anta
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideGAAtlanta.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Atlanta
+ADDRESS: Dog-Friendly Capital of the South
+CITY: Atlanta Area
+STATE:  GA
+ZIP: 
+REGION: 
+AUXPHONE: dog-atl-area
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideGAAtlanta.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Monterey California
+ADDRESS: Beauty by the Central Coast
+CITY: Monterey
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-mon-tere
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCAMonterey.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Dallas-Fort Worth
+ADDRESS: The Metroplex is very dog-friendly
+CITY: Dallas
+STATE:  TX
+ZIP: 
+REGION: 
+AUXPHONE: dog-dal=last
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideTXDallas.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Dallas-Fort Worth
+ADDRESS: The Metroplex is very dog-friendly
+CITY: Fort Worth
+STATE:  TX
+ZIP: 
+REGION: 
+AUXPHONE: dog-for-twor
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideTXDallas.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Houston
+ADDRESS: Dog-Friendly Houston
+CITY: Houston
+STATE:  TX
+ZIP: 
+REGION: 
+AUXPHONE: dog-hou-ston
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideTXHouston.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Miami
+ADDRESS: Dogs Tour Guide
+CITY: Miami
+STATE:  FL
+ZIP: 
+REGION: 
+AUXPHONE: dog-mia-mifl
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideFLMiami.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Warning - Pit Bull Ban
+ADDRESS: 
+CITY: Miami
+STATE:  FL
+ZIP: 
+REGION: 
+AUXPHONE: dog-mia-pitb
+TOLLFREE:  
+WEBSITE: https://www.miamidade.gov/animals/pitbull-law.asp
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Warning - Pit Bull Ban
+ADDRESS: 
+CITY: Denver
+STATE:  CO
+ZIP: 
+REGION: 
+AUXPHONE: dog-den-pitb
+TOLLFREE:  
+WEBSITE: https://dogfriendly.com/dognews/?p=3139
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Tampa Bay
+ADDRESS: Dog-Friendly Tampa Bay Area
+CITY: Tampa
+STATE:  FL
+ZIP: 
+REGION: 
+AUXPHONE: dog-tam-paba
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideFLTampa_Bay.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Tampa Bay
+ADDRESS: Dog-Friendly Tampa Bay Area
+CITY: St Petersburg
+STATE:  FL
+ZIP: 
+REGION: 
+AUXPHONE: dog-stp-eter
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideFLTampa_Bay.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Tampa Bay
+ADDRESS: Dog-Friendly Tampa Bay Area
+CITY: Sarasota
+STATE:  FL
+ZIP: 
+REGION: 
+AUXPHONE: dog-sar-asot
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideFLTampa_Bay.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: San Jose & Silicon Valley
+ADDRESS: Dog-Friendly Activities and Overview
+CITY: San Jose
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-san-jose
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCASan_Jose.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: San Jose & Silicon Valley
+ADDRESS: Dog-Friendly Activities and Overview
+CITY: Palo Alto
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-pal-oalt
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCASan_Jose.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Las Vegas
+ADDRESS: Suprisingly Dog-Friendly
+CITY: Las Vegas
+STATE: NV
+ZIP: 
+REGION: 
+AUXPHONE: dog-las-vega
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideNVLas_Vegas.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: The Adirondacks
+ADDRESS: Dog-Friendly Vacation Playground
+CITY: Adirondacks
+STATE:  NY
+ZIP: 
+REGION: 
+AUXPHONE: dog-adi-rond
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideNYAdirondacks.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Charleston
+ADDRESS: Dog-Friendly Trip into History
+CITY: Charleston
+STATE:  SC
+ZIP: 
+REGION: 
+AUXPHONE: dog-cha-rles
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideSCCharleston.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Phoenix
+ADDRESS: Dog-Friendly in the Valley of the Sun
+CITY: Phoenix
+STATE:  AZ
+ZIP: 
+REGION: 
+AUXPHONE: dog-phx-city
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideAZPhoenix.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Phoenix
+ADDRESS: Dog-Friendly in the Valley of the Sun
+CITY: Phoenix Area
+STATE:  AZ
+ZIP: 
+REGION: 
+AUXPHONE: dog-phx-area
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideAZPhoenix.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Minneapolis
+ADDRESS: Outdoor Activities Abound for Dogs
+CITY: Minneapolis
+STATE:  MN
+ZIP: 
+REGION: 
+AUXPHONE: dog-min-stp
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideMNMinneapolis_-_St_Paul.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Cleveland
+ADDRESS: Dog Friendly Guide by the Lake
+CITY: Cleveland
+STATE:  OH
+ZIP: 
+REGION: 
+AUXPHONE: dog-cle-vel
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideOHCleveland.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Yellowstone - Grand Teton
+ADDRESS: A Dog-Friendly Vacation Region
+CITY: Yellowstone - Grand Teton
+STATE:  WY
+ZIP: 
+REGION: 
+AUXPHONE: dog-yel-lows
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideWYYellowstone.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Yellowstone - Grand Teton
+ADDRESS: A Dog-Friendly Vacation Region
+CITY: Cody
+STATE:  WY
+ZIP: 
+REGION: 
+AUXPHONE: dog-yel-cody
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideWYYellowstone.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Yellowstone - Grand Teton
+ADDRESS: A Dog-Friendly Vacation Region
+CITY: Yellowstone - Grand Teton
+STATE:  MT
+ZIP: 
+REGION: 
+AUXPHONE: dog-yel-lowm
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideWYYellowstone.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: St. Louis
+ADDRESS: Dog-friendly entertainment
+CITY: St Louis
+STATE:  MO
+ZIP: 
+REGION: 
+AUXPHONE: dog-stl_ouis
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideMOSt_Louis.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Outer Banks
+ADDRESS: Dog-friendly Beach Vacation
+CITY: Outer Banks
+STATE: NC
+ZIP: 
+REGION: 
+AUXPHONE: dog-nco_uter
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideNCOuter_Banks.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Outer Banks
+ADDRESS: Dog-friendly Beach Vacation
+CITY: Cape Hatteras
+STATE: NC
+ZIP: 
+REGION: 
+AUXPHONE: dog-nco_hatt
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideNCOuter_Banks.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Albuquerque
+ADDRESS: A Dog-Friendly City
+CITY: Albuquerque
+STATE: NM
+ZIP: 
+REGION: 
+AUXPHONE: dog-alb-uque
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideNMAlbuquerque.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Sandpoint
+ADDRESS: A Dog-Friendly Mountain Town
+CITY: Sandpoint
+STATE: ID
+ZIP: 
+REGION: 
+AUXPHONE: dog-san-dpoi
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideIDSandpoint_-_Lake_Pend_Orille.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: San Antonio
+ADDRESS: The Alamo City is Dog-Friendly
+CITY: San Antonio
+STATE: TX
+ZIP: 
+REGION: 
+AUXPHONE: dog-san-anto
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideTXSan_Antonio.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Corpus Christi
+ADDRESS: Dog-Friendly Beach City
+CITY: Corpus Christi
+STATE: TX
+ZIP: 
+REGION: 
+AUXPHONE: dog-cor-pusc
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideTXCorpus_Christi.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Chattanooga
+ADDRESS: Has Become Very Dog-Friendly
+CITY: Chattanooga
+STATE: TN
+ZIP: 
+REGION: 
+AUXPHONE: dog-cha-ttan
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideTNChattanooga.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Salt Lake City
+ADDRESS: Dog-Friendly City By the Salt Lake
+CITY: Salt Lake City
+STATE: UT
+ZIP: 
+REGION: 
+AUXPHONE: dog-sal-tlak
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideUTSalt_Lake_City.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Charlottesville
+ADDRESS: Dog-Friendly Historical Region
+CITY: Charlottesville
+STATE: VA
+ZIP: 
+REGION: 
+AUXPHONE: dog-cha-vill
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideVACharlottesville.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Shenandoah National Park
+ADDRESS: Dog-Friendly National Park
+CITY: Shenandoah National Park
+STATE: VA
+ZIP: 
+REGION: 
+AUXPHONE: dog-she-nand
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideVACharlottesville.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Annapolis
+ADDRESS: Dog-Friendly on the Bay
+CITY: Annapolis
+STATE: MD
+ZIP: 
+REGION: 
+AUXPHONE: dog-ann-apol
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideMDAnnapolis.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Baltimore
+ADDRESS: Dog-Friendly Inner Harbor & Town
+CITY: Baltimore
+STATE: MD
+ZIP: 
+REGION: 
+AUXPHONE: dog-bal-timo
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideMDBaltimore.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Cape May
+ADDRESS: Southern NJ is Dog-Friendly
+CITY: Cape May
+STATE: NJ
+ZIP: 
+REGION: 
+AUXPHONE: dog-cap-emay
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideNJCape_May.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Jacksonville
+ADDRESS: Dog-Friendly Northern Florida
+CITY: Jacksonville
+STATE: FL
+ZIP: 
+REGION: 
+AUXPHONE: dog-jax-flor
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideFLJacksonville.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Amelia Island
+ADDRESS: Dog-Friendly Northern Florida
+CITY: Amelia Island
+STATE: FL
+ZIP: 
+REGION: 
+AUXPHONE: dog-ame-liai
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideFLJacksonville.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Wine Country
+ADDRESS: Dog-Friendly Wine Country California
+CITY: Napa Valley
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-nap-aval
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCAWine_Country.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Wine Country
+ADDRESS: Dog-Friendly Wine Country California
+CITY: Sonoma Wine Country
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-son-omaw
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCAWine_Country.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Santa Barbara
+ADDRESS: Dog-Friendly Mission City
+CITY: Santa Barbara
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-san-taba
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCASanta_Barbara.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: New Orleans
+ADDRESS: The Big Easy is Dog-Friendly
+CITY: New Orleans
+STATE: LA
+ZIP: 
+REGION: 
+AUXPHONE: dog-new-orle
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideLANew_Orleans.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Kansas City
+ADDRESS: The Dog-Friendly Heartland
+CITY: Kansas City
+STATE: MO
+ZIP: 
+REGION: 
+AUXPHONE: dog-kan-sasm
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideMOKansas_City.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Kansas City
+ADDRESS: The Dog-Friendly Heartland
+CITY: Kansas City
+STATE: KS
+ZIP: 
+REGION: 
+AUXPHONE: dog-kan-sasm
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideMOKansas_City.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Big Bear Lake
+ADDRESS: Dog-Friendly Mountain Retreat near Los Angeles
+CITY: Big Bear Lake
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-big-bear
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCABig_Bear.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Anaheim & Orange County
+ADDRESS: Dog-Friendly Year-Round Fun
+CITY: Anaheim Resort Area
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-ana-heim
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCAAnaheim_Resort_Area.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Anaheim & Orange County
+ADDRESS: Dog-Friendly Year-Round Fun
+CITY: Orange County Beaches
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-ocb-each
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCAAnaheim_Resort_Area.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Anaheim & Orange County
+ADDRESS: Dog-Friendly Year-Round Fun
+CITY: Orange County South
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-ocs-outh
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCAAnaheim_Resort_Area.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Anaheim & Orange County
+ADDRESS: Dog-Friendly Year-Round Fun
+CITY: Orange County North
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-ocn-orth
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCAAnaheim_Resort_Area.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Dog-Friendly Cincinnati
+ADDRESS: Dog-Friendly Activities in Ohio & Kentucky
+CITY: Cincinnati
+STATE: OH
+ZIP: 
+REGION: 
+AUXPHONE: dog-cin-cinn
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideOHCincinnati.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Dog-Friendly Cincinnati
+ADDRESS: Dog-Friendly Activities in Ohio & Kentucky
+CITY: Cincinnati Area
+STATE: KY
+ZIP: 
+REGION: 
+AUXPHONE: dog-cin-kent
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/us/tourguides/tourguideOHCincinnati.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: San Luis Obispo, Paso Robles & Cambria
+ADDRESS: Dog-Friendly beaches & valley
+CITY: San Luis Obispo
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-san-luis
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCASan_Luis_Obispo.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+<BEGIN>
+TITLE: Yosemite National Park
+ADDRESS: Lots to do in the area with a dog
+CITY: Yosemite
+STATE: CA
+ZIP: 
+REGION: 
+AUXPHONE: dog-yos-emit
+TOLLFREE:  
+WEBSITE: https://www.dogfriendly.com/server/travel/uscities/guides/w/tourguides/tourguideCAYosemite.shtml
+TYPE: 
+COMMENTS: 
+CROSS: 
+SURVEY: attinternal
+IMAGE1:
+IMAGE2:
+IM1:
+IM2:
+OUTFILE: convertatt.txt
+CATEGORY: Overview
+<END>
+
+

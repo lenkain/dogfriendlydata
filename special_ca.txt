@@ -1,0 +1,65 @@
+#copyright 1997-2004 DogFriendly.com, Inc. All Rights Reserved.
+#The Contents of this file may not be copied or reused in any way without
+# the explicit written permission of DogFriendly.com, Inc.
+
+# FOR LAKE TAHOE WEB VERSION SEE BELOW
+<BEGIN>
+OVERRIDE: TRUE
+BOOK: FALSE
+STATE: NV
+TITLE:
+WEBSITE:
+HIGHWAY1: None
+survey: ca/special_ca
+ROOMRATE: 
+COUNTRY: 
+FLAG: 
+Submit: Submit
+CITY:
+EMAIL: 
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+RESTAURANT: 
+ZIP: 
+COMMENTS: 
+ACATEGORY: Please see Lake Tahoe, California Listing
+CATEGORY: Please see <a HREF="http://www.dogfriendly.com/server/travel/uscities/guides/w/cities/wonlinecityCALake_Tahoe.shtml">Lake Tahoe, California</a>&nbsp;Listing
+IM2: 
+IM1: 
+TOLLFREE: 
+PHONE: 
+MAJOR: Lake Tahoe 
+PARK: 
+<END>
+# FOR LAKE TAHOE BOOK VERSION SEE BELOW
+<BEGIN>
+OVERRIDE: TRUE
+BOOK: TRUE
+DELETE: TRUE
+STATE: NV
+TITLE:
+WEBSITE:
+HIGHWAY1: None
+survey: ca/special_ca
+ROOMRATE: 
+COUNTRY: 
+FLAG: 
+Submit: Submit
+CITY:
+EMAIL: 
+BOOK: 
+IMAGE2: 
+IMAGE1: 
+RESTAURANT: 
+ZIP: 
+COMMENTS: 
+ACATEGORY: Please see Lake Tahoe, California Listing
+CATEGORY: Please see <a HREF="http://www.dogfriendly.com/server/travel/uscities/guides/w/cities/wonlinecityCALake_Tahoe.shtml">Lake Tahoe, California</a> Listing
+IM2: 
+IM1: 
+TOLLFREE: 
+PHONE: 
+MAJOR: Lake Tahoe 
+PARK: 
+<END>

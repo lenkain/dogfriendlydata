@@ -1,0 +1,1341 @@
+<BEGIN>
+DELETE: TRUE
+WHY: MOVED
+URL: http://www.doggielovedaycare.com
+LINK: TRUE
+STATE: CA
+VET: Dog Day Care
+survey: ca/kennel_ca
+Submit: Submit
+CITY: Tahoe City
+CROSS: 
+IMAGE2: 
+ZIP: 
+BOOKCOMMENTS: They offer either full day packages as well as sleepover packages. Doggie Love provides exercise & lots of playtime, socialization with other dogs, and love and nurturing. NO kennels, just plenty of doggie sofas, toys, warm fireplace and a comfy Tahoe home. They are open 7 days a week, 24 hours a day and provide your dog with around the clock care. Doggie daycare check-in begins at 7am daily and check-out is at 6 pm. Pick up/drop off service is available, please call for availability.
+COMMENTS: Doggie Love Day Care, Inc. provides your dog with all of the comforts of home. They offer either full day packages as well as sleepover packages. Doggie Love provides the three essentials to make it a great doggie day: Exercise & lots of playtime, Socialization w/other dogs, and Love and nurturing. NO kennels, just plenty of doggie sofas, toys, warm fireplace and a comfy Tahoe home. They are open 7 days a week, 24 hours a day and provide your dog with around the clock care. Doggie daycare check-in begins at 7am daily and check-out is at 6 pm. Pick up/drop off service is available, please call for availability.
+ADDRESS: Call to Arrange.
+OLDCATEGORY: Vets and Kennel
+CATEGORY: Pet Sitter
+IM3: 
+IM2: 
+IM1: 
+IMAGE1: ../images/dld2.jpg
+PHONE: 530-525-6189
+FLAG: 
+NAME: Doggie Love Daycare, Inc.
+MAJOR: Lake Tahoe
+<END>
+<BEGIN>
+DELETE: TRUE
+URL: http://www.truckeetails.com
+LINK: TRUE
+STATE: CA
+VET: Dog Day Care
+survey: ca/kennel_ca
+Submit: Submit
+CITY: Truckee
+CROSS: 
+IMAGE2: 
+ZIP: 96160
+BOOKCOMMENTS: At Truckee Tails Ranch your dog can run free on their beautiful 13-acre forest property chasing balls, splashing in kiddie pools, rolling in snow and romping with other friendly dogs. At lunch the dogs listen to classical music in a cozy bunkhouse while napping and snacking on treats. There's also trips to the lake, hiking in the mountains, doggy arts and crafts, agility games and photo sessions. Lots of one on one time with petting, love and attention for the older or independent dogs who can hang out, nap under trees and explore the forest. Open every day. Overnight camping also available.
+COMMENTS: At Truckee Tails Ranch your dog can run free on their beautiful 13-acre forest property chasing balls, splashing in kiddie pools, rolling in snow and romping with other friendly dogs. At lunch the dogs listen to classical music in a cozy bunkhouse while napping and snacking on treats. There's also trips to the lake, hiking in the mountains, doggy arts and crafts, agility games and photo sessions. Lots of one on one time with petting, love and attention for the older or independent dogs who can hang out, nap under trees and explore the forest. Your dog will make lots of friends, learn new skills, and come home tired and happy. Open every day. Overnight camping also available.
+ADDRESS: P.O. Box 2945
+CATEGORY: Pet Sitter
+OLDCATEGORY: Vets and Kennel
+IM3: 
+IM2: 
+IM1: 
+IMAGE1: ../images/truckeetails.jpg
+PHONE: 530-582-6964
+FLAG: 
+NAME: Truckee Tails Pet Sitting and Doggy Day Care
+MAJOR: Lake Tahoe
+<END>
+<BEGIN>
+DELETE: TRUE
+URL: http://home.att.net/~kkaitis/petsitting.html
+LINK: TRUE
+STATE: IL
+VET: Dog Day Care
+survey: ca/kennel_ca
+Submit: Submit
+CITY: Schaumburg
+CROSS: 
+IMAGE2: 
+ZIP: 60193
+COMMENTS: Offer mid-day dog walking, petsit for vacationers and local motels and hotels. Weekly packages. Serve Schaumburg, Streamwood and Western Elk Grove, IL.
+ADDRESS: 300 Islington Ln
+CATEGORY: Vets and Kennel
+IM3: 
+IM2: 
+IM1: 
+IMAGE1: 
+PHONE: 847-895-1358
+FLAG: 
+NAME: The 8Paws Petsitters
+MAJOR: Chicago Area
+<END>
+<BEGIN>
+DELETE: TRUE
+CHANGE: CHANGE07CA
+URL: mailto:zephyrfeed@aol.com
+LINK: TRUE
+STATE: NV
+VET: Dog Day Care
+survey: ca/kennel_ca
+Submit: Submit
+CITY: Stateline
+SPECIALSTATE: CA
+EMAIL: zephyrfeed@aol.com
+CROSS: 
+IMAGE2: 
+ZIP: 89448
+BOOKCOMMENTS: For Pet Food, Toys, Leashes and whatever your dog needs you can go to Zephyr Feed while in the Tahoe area.
+COMMENTS: Zephyr Feed has what your pet needs. They offer safe, healthy, natural foods for your dog or your cat; such as Innova, Innova Evo, California Natural, Karma-an all organic food for dogs, Merrick, ZiwiPeak, Pinnacle Trout, Duck or Chicken formulas, Breeder's Choice Avo Natural foods, Advanced Pet Diets, Canidae, Chicken Soup for the Dog or Cat Lover's Soul, Premium Edge, and Diamond Naturals.  Zephyr Feed also carries lots of snacks and treats, toys, collars, leashes and other pet supplies.  They have food for birds, squirrels, hamsters and guinea pigs as well.  Speical orders are welcome.  So, for all of your pet needs come into Zephyr Feed located at 298 - Suite B, Kingsbury Grade, Stateline, NV, 775-588-3907.
+OLDCOMMENTS: Zephyr Feed & Boarding is Tahoe's dog & cat boarding place for stress free boarding for you and your pet, so you can relax on your vacation. Located just 2 miles east of the South Shore's casinos, they offer daycare & overnight boarding. Doggie daycare is available by the hour or day, so you can tour around the sites and know your pet is having a day of fun. The kennel is climate controlled inside, full walls for stress free boarding, veterinarian on call, an outside area for potty time, inside exercise runs, and a large playroom. Your pet will receive daily individual exercise, playtime with the other boarders during social time, belly rubs, and lots of love and cookies.
+ADDRESS: 298 Kingsbury Grade - Suite B
+CATEGORY: Store
+OLDCATEGORY: Vets and Kennel
+IM3: 
+IM2: 
+IM1: 
+IMAGE1: 
+PHONE: 775-588-3907
+FLAG: 
+NAME: Zephyr Feed & Boarding
+MAJOR: Lake Tahoe
+<END>
+<BEGIN>
+DELETE: TRUE
+TOLLFREE: 866-670-1735
+URL: http://www.animalinnlv.com
+LINK: TRUE
+STATE: NV
+VET: Dog Day Care
+survey: ca/kennel_ca
+Submit: Submit
+CITY: Las Vegas
+CROSS: 
+IMAGE2: 
+ZIP: 89118
+BOOKCOMMENTS:  This full-service boarding kennel is located right off of I-15. Daycare, overnight and long term boarders are welcomed. The office hours are Mon - Fri 8 am - 6 pm, Sat - Sun 8 am - 5 pm. Please call 702-736-0036 to make a reservation.
+COMMENTS: Las Vegas full service pet boarding kennel since 1958 offering quality care at great rates. Conveniently located near strip & airport just off of I-15. Daycare, overnight and long term boarders welcome. Current vaccinations required. Large individual indoor/outdoor climate controlled dog runs. Private 2 room kitty condos in a quiet area separate from dogs. Special diets or medications administered free of charge. Personalized playtimes in our 1/2 acre grass yard. Pets are socialized with staff members, not other pets. Discounts for 2 or more pets boarding together and/or for weekly and monthly boarding. Pet spa services available. Licensed, inspected, veterinarian approved and on call. After hour services available. Office hours are Mon-Fri 8am-6pm, Sat-Sun 8am-5pm. Please call 702-736-0036 or toll free 866-670-1735 to make a reservation.
+ADDRESS: 3460 W Oquendo Road
+CATEGORY: Vets and Kennel
+IM3: 
+IM2: 
+IM1: 
+IMAGE1: ../images/animalinn2.jpg
+PHONE: 702-736-0036
+FLAG: 
+NAME: The Animal Inn Kennels
+MAJOR: 
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: OUT OF BIZ
+URL: http://guardianpetsitting.com
+LINK: TRUE
+STATE: CA
+VET: Dog Care
+survey: ca/kennel_ca
+Submit: Submit
+CITY: San Jose
+CROSS: 
+IMAGE2: 
+ZIP: 95136
+BOOKCOMMENTS: Visits start at $24. Dog walking available. Mid-day dog walking and overnight petsitting available upon special request. Member Better Business Bureau, Licensed, Bonded, and Insured.
+COMMENTS: Guardian Petsitting Service is the best choice for your "kids" in-home care when you are away, or simply need to have them looked after while at work. Visits can be made to the home to accommodate nearly any time of the day or night. Our sitters include trained individuals that can accommodate many special needs pets and schedules. We also offer overnight sitting, which pleases many a pooch with extra time and attention, much like if Mom and Dad were home! Visit our website, or contact us to learn more.
+OLDCOMMENTS: For the love of you pets, the Best Guardian Yet! Visits start at $20. Dog walking available. Mid-day dog walking and overnight petsitting available upon special request. Member Better Business Bureau, Licensed, Bonded, and Insured.
+ADDRESS: Please Call or Email at robinrmh@aol.com .
+CATEGORY: Pet Sitter
+IM3: 
+IM2: 
+IMAGE3: ../images/guardian4.jpg
+IMAGE2: ../images/guardian3.jpg
+IMAGE1: ../images/guardian2.jpg
+PHONE: 408-394-3320
+FLAG: 
+NAME: Guardian Petsitting Service
+MAJOR: 
+<END>
+<BEGIN>
+DELETE: DELETE04
+WHY: OUT OF BIZ
+URL: http://KennelStation.com
+LINK: TRUE
+STATE: FL
+VET: Kennel
+survey: ca/kennel_ca
+Submit: Submit
+CITY: Miami-Homestead
+CROSS: 
+IMAGE2: 
+ZIP: 33032
+BOOKCOMMENTS: Family owned kennel offering comprehensive K-9 Boarding and In-Home Pet Sitting services throughout South Florida since 1989.   
+COMMENTS: Miami, Florida family owned kennel offering comprehensive K-9 Boarding and In-Home Pet Sitting services throughout South Florida since 1989. "5 Star Service" at standard prices! Guaranteed! Fully registered, certified, bonded and insured. "When YOU Cant Be There, WE WILL!"       
+ADDRESS: 23850 SW 129 Ave
+CATEGORY: Vets and Kennel
+IM3: 
+IM2: 
+IM1: 
+IMAGE1: ../images/kennelstation2.jpg
+PHONE: 305-258-9030
+FLAG: 
+NAME: KennelStation
+MAJOR: Miami
+<END>
+<BEGIN>
+DELETE: TRUE
+BOOK: TRUE
+URL: http://www.petoasispetcare.com
+LINK: TRUE
+STATE: NV
+VET: Dog Day Care
+survey: ca/kennel_ca
+Submit: Submit
+CITY: Las Vegas
+CROSS: 
+IMAGE2: 
+ZIP: 89127
+ADDRESS: PO Box 271568
+BOOKCOMMENTS: These pet sitters will come to your hotel room and stay with your pet while you take in a show or visit a casino when you can't take your pup. They are licensed, bonded, and insured.
+CATEGORY: Vets and Kennel
+COMMENTS: We provide responsible, loving care for your pet while you're visiting Las Vegas. We will come to your hotel room and stay with your pet - so you can have some fun without having to worry about your dog or cat. Licensed, bonded, insured.
+CATEGORY: Vets and Kennel
+IM3: 
+IM2: 
+IM1: 
+EMAIL: petoasis@earthlink.net
+IMAGE1: ../images/petoasis2.jpg 
+PHONE: 702-645-1299
+FLAG: 
+NAME: Pet Oasis Pet Care
+MAJOR: 
+<END>
+<BEGIN>
+BOOKONLY: TRUE
+URL: http://www.peggiespets.com
+LINK: TRUE
+STATE: VA
+VET: Dog Day Care
+survey: us/kennel_us
+Submit: Submit
+CITY: Alexandria
+CROSS: 
+ZIP: 22305
+ADDRESS: Ashby Street
+BOOKCOMMENTS: These folks offer dog walking and petsitting in your hotel, or other pet-friendly accommodation in Northern Virginia.
+COMMENTS: Dog walking and petsitting in your hotel, or other pet-friendly accommodation in Northern Virginia.  If you've brought your dog or cat along on your vacation only to realize that many museums and restaurants are NOT dog-friendly - give us a call!  703-863-4209 or visit http://www.peggiespets.com
+CATEGORY: Pet Sitter
+EMAIL: peggie@peggiespets.com
+IMAGE1: ../images/peggies2.jpg 
+PHONE: 703-863-4209
+NAME: Peggie's Pet Services, Pet-sitting & Dog Walking
+MAJOR: 
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: NO RENEW
+LINK: TRUE
+TITLE: Petaholics
+ADDRESS: 320 E. 54th Street
+CITY: New York
+MAJOR: 
+STATE: NY
+ZIP: 10022
+PHONE: 866-910-5430
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+BOOKCOMMENTS: This pet sitting and dog walking service serves the midtown hotels for travelers with dogs.
+COMMENTS: New York City's #1 dog walking and pet sitting service. Serving the local midtown hotels for out of town travelers with dogs who can't take their pet everywhere and need someone to stay with them while they are out and about.
+CATEGORY: Pet Sitter
+Submit: Submit
+PARK: 
+WEBSITE: http://www.petaholics.com
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: info@petaholics.com
+FAX:
+IMAGE2: 
+IMAGE1: ../images/petaholics2.gif
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+BOOKIMAGE1: sacwag.jpg
+TITLE: Wag Pet Hotel
+ADDRESS: 1759 Enterprise Blvd
+CITY: West Sacramento
+MAJOR: Sacramento
+STATE: CA
+ZIP: 95691-3457
+PHONE: 916-373-0300
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: This new pet kennel is notable for its 24 hour pick up and drop off - making it ideal for Sacramento Visitors who need to drop there dog off for a while if they are unable to take their dog with them. It also features play areas and webcams to check on your pet.
+CATEGORY: Vets and Kennel
+Submit: Submit
+PARK: 
+WEBSITE: 
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+BOOKONLY: TRUE
+TITLE: Calling All Paws
+ADDRESS: Call or Email
+CITY: Plaistow
+MAJOR: 
+STATE: NH
+ZIP: 03865
+PHONE: 603-475-4810
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+BOOKCOMMENTS: Pet Sitting and Dog Walking Services.
+COMMENTS: Pet Sitting and Dog Walking Services. Customized pet care. Quality Personal Attention. Fully Insured. Red Cross training in Pet First Aid. Daily Dog Walks, Pet sitting fees are based on visits not pets so it covers all your household pets. Day, Weekend or longer pet sitting. So if you haven't been away for awhile or your thinking about getting a new dog and don't won't to leave it alone for too long, give me a call to discuss your personal pet care needs.<br><br>I service the Plaistow NH and surrounding areas including Plaistow 03865, Newton 03858, Danville 03819, Sandown 03873, Atkinson 03811, Hampstead 03841 and Kingston 03848.
+
+CATEGORY: Pet Sitter
+Submit: Submit
+PARK: 
+WEBSITE: mailto:callingallpaws@comcast.net
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: callingallpaws@comcast.net
+FAX:
+IMAGE2: 
+IMAGE1: ../images/callingallpaws2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+BOOKONLY: TRUE
+TITLE: All Tuckered Out Pet Sitting
+ADDRESS: Call To Arrange
+CITY: South Lake Tahoe
+MAJOR: Lake Tahoe
+STATE: CA
+ZIP: 
+PHONE: 530-318-8749
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+BOOKCOMMENTS: This South Lake Tahoe pet sitter will come to your hotel, campground or other rental and watch your dog when you are not able to take your pup with you. Call to make reservations.
+COMMENTS: All Tuckered Out will come to your Home, Hotel, Condo,or Campground and take care of your pets while you play. We go anywhere in South Lake Tahoe including Stateline, Zephyer Cove, Glenbrook,and Myers. We offer pet sitting by the hour, 30-45 min viits and we will even come and stay overnight. We are Bonded and Insured for your protection and also members of Pet Sitters Intl.Please call or e-mail us for reservations. Thank you we look forward to meeting you and your furry friend's.
+CATEGORY: Pet Sitter
+Submit: Submit
+PARK: 
+WEBSITE: http://www.alltuckeredoutpetsitting.com
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: kyla@alltuckeredout.net
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+LINK: TRUE
+TITLE: Wag This Way
+ADDRESS: 58 C Corporation Street
+CITY: Hyannis
+MAJOR: Cape Cod
+STATE: MA
+ZIP: 02601
+PHONE: 508-771-9247
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+BOOKCOMMENTS: This dog and cat boutique specializes in natural foods, treats and bakery goods for your pets. They also have toys and a self serve dog wash next door.
+COMMENTS: Wag This Way is a Cat and Dog Boutique.  We specialize in all natural foods, treats and yummy bakery goods for your four legged friends.  Our toys have been tested and approved by our local resident dogs.  We have the very best and largest selection of interactive toys on Cape Cod.  Our collars and leashes are unique and we pride ourselves on the large selection in all sizes (from Toy Breeds to Great Danes!)  We also have an amazing selection of all natural food and chewies.<br><br>Our friendly and knowledgeable staff can guide you through our herbal remedies, supplements and specialty foods.  Your dogs are always welcome in our store, but must remain on leash and we always have delicious treats for them when your dogs come in to visit. Positive Reinforcement Training is our specialty as well.  We have a private training room that is closed off from the store and we limit our class sizes, however all family members are welcome. We offer Puppy Kindergarten, Basic Manners, Socializtion/Play Groups, Small Dog Basic Manners, Clicker Training, Behavior Counseling and Modification and Seminars.  The store carries a wide variety of dog behavior books to help you train your "troubled" dog.<br><br>Store hours are Monday - Saturday,  10 am - 6 pm<br><br>Next door we have The Grateful Dog Self Serve Wash!
+CATEGORY: Store
+Submit: Submit
+PARK: 
+WEBSITE: http://www.wagthisway.com
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: info@wagthisway.com
+FAX:
+IMAGE2: 
+IMAGE1: ../images/wagthisway2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+LINK: TRUE
+TITLE: K.Y.P.S.A.H. Pet Services
+ADDRESS: 10718 Manchester Drive
+CITY: Truckee
+MAJOR: Lake Tahoe
+STATE: CA
+ZIP: 
+PHONE: 530-582-1671
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+BOOKCOMMENTS: K.Y.P.S.A.H. is available for doggie day care services and overnight boarding in Truckee.
+COMMENTS: Welcome to K.Y.P.S.A.H. Pet Services where our primary concern is -- "Keeping Your Pet Safe and Happy!"<br><br>K.Y.P.S.A.H. is a bonded and insured professional pet sitting company located in Truckee, California (Tahoe Truckee region). We are also proud members of both the Pet Sitters Associates, LLC and Pet Sitters International organizations.<br><br>Welcome to K.Y.P.S.A.H. Pet Services where our primary concern is -- "Keeping Your Pet Safe and Happy!"<br><br>K.Y.P.S.A.H. is a professional pet sitting company located in Truckee, California (Reno/Tahoe Truckee region), and has been established since February of 2004. We are also proud members of Pet Sitters Associates, LLC and Truckee's Chamber of Commerce.<br><br>Here at KYPSAH, every fur-kid is a star and treated like gold! When you pick-up your fur-kid, you will notice this theme carrying over in your fur-kid's behavior and by the happiness displayed in their eyes.<br><br> What K.Y.P.S.A.H. strives to provide is a state of peace and tranquility for all fellow pet owners by providing them with the priceless peace of mind knowing that their beloved "fur-babies" are well-loved and well-taken care of in their absence.<br><br>K.Y.P.S.A.H. offers: European (cage-free) boarding and Daycare.<br><br> Cage-free boarding is defined as where the dogs are treated just like family and merge in with our dogs, in our home.   They are in the house and come-and-go outside in the fenced backyard as they please.<br><br>The off-leash, pack hikes are performed in the mornings and often swimming is incorporated within a 1+ hour hike.<br><br>Boarding and Daycare include:<br><br>  Off-leash hikes (dogs must be under voice command and/or line of sight in order to participate)<br>Constant supervision<br>All treats, bones, toys and beds provided (only their food needs to be brought)<br>Progress Reports (written and/or email)<br>Pictures provided and sent via email (pictures speak 1000 words)<br>Free pick-up and drop-off in downtown Truckee only<br>Transportation to and from resorts is $20 per day<br>Daycare hours: 8 a.m. - 5 p.m. daily (a boarding rate will apply for pick-ups after 5 p.m.)<br>For Boarders, a Daycare charge will be added for pick-ups after 11 a.m. on the day of departure.  For pick-ups after 5 p.m., an additional boarding rate will be applied.<br><br>Rates<br><br>Boarding:<br><br>1 dog = $50 per night<br>2 dogs = $75 per night<br>3 dogs = $120 per night<br><br>Daycare:<br><br>1 dog = $40 per day<br> 2 dogs = $72 per day<br>3 dogs = $100 per day<br><br>Boarding and Daycare Criteria:<br><br>Well-socialized with other dogs (meets new dogs frequently), as well as, with people<br>Spayed/Neutered <br>At least six months old<br>Not cat aggressive<br>No object aggression<br>Current on all shots including Bordatella (kennel cough vaccination)<br>Must have all pet tags on collar<br>Housebroken<br><br>Referral Discount<br><br>A 10% referral discount will be given to those who refer people to KYPSAH Pet Services (where the people referred, book and keep an appointment with us).<br><br>Cash, check, Visa, MasterCard and Discover are accepted.<br>Email us at info@kypsah.com for more information or call us at (530) 582-1671
+CATEGORY: Pet Sitter
+Submit: Submit
+PARK: 
+WEBSITE: http://www.kypsah.com/sleepovers.htm
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: info@kypsah.com
+FAX:
+IMAGE3: ../images/kypsah4.jpg
+IMAGE2: ../images/kypsah3.jpg
+IMAGE1: ../images/kyp2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: NO RENEW
+LINK: TRUE
+TITLE: In the Doghouse Pet Day Care
+ADDRESS: 4711-B E. Palm Canyon Drive
+CITY: Palm Springs
+MAJOR: 
+STATE: CA
+ZIP: 92264
+PHONE: 760-324-5013
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+BOOKCOMMENTS: This pet day care center offers 2,500 square feet of indoor activities. There is a separate room for large dogs and small dogs. Dogs must have proof of vaccines, male dogs must be neutered and females cannot be in heat.
+COMMENTS: Offering 2,500 sq. ft. of indoor Dog fun.  Dogs are walked daily at our " at the mountain " beautiful location.  We offer two seperate rooms, one for the large dogs and one for the smaller guys.  Plenty of toys and goodies to keep your dog happy while you are away for the day.  We offer a seperate bed and TV room for relaxing, snoozing and watching Animal Planet.<br><br>We also offer grooming and teeth cleaning services for your Dog by appointment.  Pet psychics and trainers are also available by appointment.<br><br>We ask that you bring proof of shots and vaccines. Male dogs must be neutered and females cannot be in heat.<br><br>Visit our website www.IntheDoghouseLLC.com for a complete listing of services and a downloadable application.  Or,just come in and do it.  We are open Monday thru Friday.<br>7:00AM to 6:00PM and Saturday by appointment.
+CATEGORY: Pet Sitter
+Submit: Submit
+PARK: 
+WEBSITE: http://www.IntheDoghousellc.com
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: Dogs@Inthedoghousellc.com
+FAX:
+IMAGE2: ../images/cadoghouse3.jpg
+IMAGE1: ../images/cadoghouse2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: DELETE07CA
+WHY: OUT OF BIZ
+LINK: TRUE
+TITLE: Doggy Time
+ADDRESS: 815 N Fair Oaks Ave
+CITY: Pasadena
+MAJOR: 
+STATE: CA
+ZIP: 92264
+PHONE: 626-449-3644
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+BOOKCOMMENTS: This full service dog care facility offers cage-free daycare, short-term boarding, grooming and a dog supply store.
+COMMENTS: Doggy Time is a full service dog facility offering - Cage-free doggie daycare, grooming, short-term boarding and Doggie Supply Store on site for all your dog's needs. Whether you are looking for a great groomer or a place you feel comfortable taking your dog while you are away from home or somewhere where your dog can socialize and play with other dogs in a well-supervised area....Doggy Time is the place! We have friendly, professional and caring staff on 24/7 to look after and care for your dog as you would want them to be cared for! We have a large facility which includes over 7500 sq ft of indoor/outdoor play areas! Your dog will be able to run around, play, wrestle and have fun in our safe, clean play areas. Professional Groomers are on-site to ensure your dog can also get their grooming needs met. Open 7 days a week - Monday through Friday 7:30am-7pm and Saturday/Sunday 9:30am-5:00pm. Serving Pasadena, CA and the surrounding cities in LA County. Services also available for out-of-towners just coming in for a visit. See our website for a full list of our great services and prices! Call ahead to schedule your dog's visit today!
+CATEGORY: Day Care Center
+Submit: Submit
+PARK: 
+WEBSITE: http://www.doggytime.com
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: info@doggytime.com
+FAX:
+IMAGE2: 
+IMAGE1: ../images/doggytime2.gif
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+BOOK: FALSE
+LINK: TRUE
+TITLE: Super Dooper Pooper Scoopers
+ADDRESS: P.O. Box 15214
+CITY: Rio Rancho
+MAJOR: Albuquerque
+STATE: NM
+ZIP: 87174
+PHONE: 505-896-6992
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Love your Pet but dont love the calling cards they leave in your yard. We at Super Dooper Pooper Scoopers pet waste removal service are here to help. Our services help free up your time and provide a healthy and clean environment for your family and pets. let Super Dooper Pooper Scoopers do the dirty work for you. Weekly services $14.00 plus $4.00 each additional dog. We are currently registered to service the Albuquerque, Rio Rancho, and Corrales, New Mexico areas. 10% Senior and assistance dogs discounts. SATISFACTION GUARANTEED!!!!!!  
+CATEGORY: Dog Businesse
+Submit: Submit
+PARK: 
+WEBSITE: http://www.superdooperpooperscoopers.com
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: ../images/superdooper2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+BOOK: FALSE
+WHY: NOT A HOTEL SITTER
+LINK: TRUE
+TITLE: Cactus Critter Sitters, LLC.
+ADDRESS: Call to Arrange
+CITY: Mesa
+MAJOR: Phoenix Area
+STATE: AZ
+ZIP: 85209
+PHONE: 480-830-7387
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: We are a mother & daughter owned business. Our services provide plenty of TLC, walks, fresh food & water, medication, daily visits, PAWjama parties, PU Poop Patrol service, fetch your newspapers & more! You will receive your own personal sitter who you can build a strong relationship with you & your babies. Weekly specials and Senior discounts! TLC + Personalized Attention= Happy PETS & A Happy YOU! AZ BBB members, NAPPS, PSI, PETSITUSA, and more! Certified through NAPPS soon!
+CATEGORY: Pet Sitter
+Submit: Submit
+PARK: 
+WEBSITE: http://www.cactuscrittersitters.com
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: cactuscrittersitters@msn.com
+FAX:
+IMAGE2: 
+IMAGE1: ../images/cactus2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: NO RENEW
+BOOK: FALSE
+LINK: TRUE
+TITLE: Pawfriendly Landscapes
+ADDRESS: 1091 Van Gordon St
+CITY: Golden
+MAJOR: 
+STATE: CO
+ZIP: 80401
+PHONE: 303-797-6683
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Purchase a custom pet friendly landscape design plan tailored to your dog(s) needs!  Pawfriendly Landscapes is a unique pet friendly landscape design/build company that lets your yard literally go to the dogs - but in a good way! We let your dog design his or her own yard based on their good and bad habits.  We incorporate appropriate landscape material so you do not have to re-do your yard every year. To celebrate our 10th anniversary, we have just released our first book called, "Pawfriendly Landscapes - How to Share the Turf When Your Backyard Belongs to Barney."  For more information, go to our website - www.pawfriendlylandscapes.com
+CATEGORY: Dog Businesse
+Submit: Submit
+PARK: 
+WEBSITE: http://www.pawfriendlylandscapes.com
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: ../images/pawfriendly2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+BOOK: FALSE
+LINK: TRUE
+TITLE: Pawsitive Solutions Dog Training Services
+ADDRESS: Call to Arrange
+CITY: Mashpee
+MAJOR: Cape Cod
+STATE: MA
+ZIP: 02649
+PHONE: 508-539-9783
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: I offer In-Home Behavior Consulting Services along with Training Services in Basic Manners. I use positive methods for training and behavior modification.<br><br>Clicker training, lure training and other postive medthods used. In Home Training allows me to evaluate the problems in the dogs own environment where the problem exsists instead of an environment that is strange to them. Dogs are more comfortable in their own home with familar suroundings. Accepting Mastercard/Visa
+CATEGORY: Dog Businesse
+Submit: Submit
+PARK: 
+WEBSITE: http://www.pawsitivesolutionsdogtraining.net
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: ../images/pawsitive2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: NO RENEW
+LINK: TRUE
+TITLE: Tailwaggers Pet Resort
+ADDRESS: 1115 Dickinson Ave
+CITY: Dickinson
+MAJOR: Galveston
+STATE: TX
+ZIP: 77539
+PHONE: 281-337-1666
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+CITYCOMMENTS: We love them when you leave them. Grooming, boarding and day care with personal attention.
+BOOKCOMMENTS: Tailwaggers Pet Resort offers grooming, boarding and day care for your dog.
+COMMENTS: Tailwaggers Pet Resort, We love them when you leave them. We have a full complement of services to offer from Grooming to boarding and Day care. Your dog or cat will receive personal attention when staying at Tailwaggers. We have competive rates and great accomadations - check us out at our web site tailwaggersresort.com. or call us at 281-337-1666.
+CATEGORY: Dog Businesse
+Submit: Submit
+PARK: 
+WEBSITE: http://www.tailwaggersresort.com
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: ../images/tailwaggers2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: NO RENEW
+LINK: TRUE
+TITLE: Central Bark
+ADDRESS: 286 Avenue Road
+CITY: Toronto
+MAJOR: 
+STATE: ON
+ZIP: M4V 2G7
+PHONE: 416-922-0880
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+BOOKCOMMENTS: This is a full service grooming parlor and also offers doggie daycare and boarding.
+COMMENTS: Central Bark's "Vanity Fur" Grooming Spa is a full-service dog grooming parlor; we specialize in beautiful breed cuts and personalized styling, using salon quality, all-natural products.  Gentle, patient approach for dogs to enjoy grooming day.<br><br>Central Bark offers full service Doggie DayCare in climate-controlled facilities, with fully fenced outdoor area for "bathroom breaks" and outdoor exercise, Monday - Friday,  7:30 AM - 6:00 PM. Gentle & loving Doggie Nannies provide constant supervision of crate-free play and rest times. Pet videos, filtered water, comfy futons, daily report cards, love, affection & petting. Medications/meals by can be arranged.  We use only Green cleaning products for dogs' safety and health, and cleanliness of the environment.<br><br>Overnight boarding in private homes, private walking and "Doggie Limo" pick up & drop off available; personalized services.<br><br>"Your dog belongs here."
+CATEGORY: Dog Businesse
+Submit: Submit
+PARK: 
+WEBSITE: http://www.centralbark.ca
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: info@centralbark.ca
+FAX:
+IMAGE2: 
+IMAGE1: ../images/centralbark2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: NO RENEW
+LINK: TRUE
+BOOK: FALSE
+TITLE: Comfort of Home Pet Sitting Services
+ADDRESS: 2870 N.E. 183rd Street
+CITY: Lake Forest Park
+MAJOR: Seattle
+STATE: WA
+ZIP: 98155
+PHONE: 206-364-1493
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Comfort of Home Pet Sitting Services, LLC is owned and operated by an animal lover in North Seattle who knows first hand how difficult it is to leave your furry companions when you travel.  Call or email us and travel worry free!  Rates: $20 per 30 minute visit.  Email susyh@comcast.net  Call 206.364.1493  Check out comfortofhomepet.com
+CATEGORY: Pet Sitter
+Submit: Submit
+PARK: 
+WEBSITE: http://www.comfortofhomepet.com
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: ../images/comfortofhome2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+LINK: TRUE
+BOOK: FALSE
+TITLE: Central Bark Doggy Day Care
+ADDRESS: 456 Treasure Drive
+CITY: Oswego
+MAJOR: 
+STATE: IL
+ZIP: 60543
+PHONE: 630-554-FUNN (3866)
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Unleash your dog's potential at Oswego's premiere doggy day care!  It's vet recommended and doggy preferred.   There's nothing better!<br><br>* Modern, State-of-the-Art Indoor Outdoor Facility<br>* Supervised Exercise & Socialization<br>* Full Grooming & Spa Services<br>* Sleepovers, Birthday Parties<br>* Training (Puppy Kindergarten, Obedience Level 1 & 2, Rowdy Rover, Agility and Flyball)<br>* Boutique filled with high quality food, toys, treats & more!<br>* Special events with local rescue organizations<br><br>Open Mon-Fri 7:00 am - 6:30 pm; Saturday Training 9:00-10:00 am; Sunday grooming by appointment only
+CATEGORY: Day Care Center
+Submit: Submit
+PARK: 
+WEBSITE: http://www.centralbarkusa.com/locations/oswego.html
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: oswego@centralbarkusa.com
+FAX:
+IMAGE2: 
+IMAGE1: ../images/centralbark2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+LINK: TRUE
+TITLE: AnnaBelle's Pet Station
+ADDRESS: 600 S. Capitol Ave.
+CITY: Lansing
+MAJOR: 
+STATE: MI
+ZIP: 48933
+PHONE: 517-599-0995
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+BOOKCOMMENTS: AnnaBelle's is a dog training, grooming and petsitting business serving the Lansing area. From time to time they hold dog-friendly events as well.
+CITYCOMMENTS: AnnaBelle's Pet Station is unique in the Lansing area, offering dog training and socialization, grooming services, and dog-related events and seminars, all at our convenient downtown location.
+COMMENTS: AnnaBelle's mission is to make dog ownership easy, fun and fulfilling so that everyone who lives and works in the Lansing community has the opportunity to enjoy the health and family benefits of owning a dog. AnnaBelle's is committed to convenience.  AnnaBelle's offers early drop off and evening pick up for grooming and training clients. AnnaBelle's is unique in the Lansing area, offering dog training, training classes for dog owners, and puppy training and socialization.  AnnaBelle's also offers grooming, grooming classes for pet owners, dog-related events and activities, along with dog-training awareness programs and dog behavior seminars.<br>Meet our Team!<br><br>Carol Hein-Creger is the owner, founder, and Director of Training of the Canine Training Center. Carol has been teaching and training professionally since 1979, having taught thousands of dog owners and pet care professionals how to effectively train and modify  dog behavior. Carol is a published  author and has lectured to many organizations, including the MSU Veterinary College. In addition to group classes, Carol offers private training and lessons, problem behavior counseling, and boarding.<br><br>Erinn Hadley has assisted Carol since 2003, and is instrumental in sustaining the fluidity of their obedience and training classes. She also offers personal and individualized training and professional handling services.<br><br>Dawn E Pizzoferrato, ABCDT is an Animal Behavior College Certified Dog Trainer and the owner of PPATS, (Pizzoferrato Pet-care And Training Services) in St. Johns, MI. In addition her Doggie Do Good Classes at Annabelle's, Dawn provides in-home private training and professional pet photography. In the St. Johns area, she provides in-home pet-sitting, dog walking, poopy scoopy and pet taxi.<br>Robin Hiar is a 2009 graduate of Michigan School of K-9 Cosmetology and has also worked in the pet industry as a veterinary assistant and a kennel technician.
+CATEGORY: Dog Businesse
+Submit: Submit
+PARK: 
+WEBSITE: http://www.coolcitydogs.com
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: info@coolcitydogs.com
+FAX:
+IMAGE3: ../images/annabelles4.jpg
+IMAGE2: ../images/annabelles3.jpg
+IMAGE1: ../images/annabelles2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: NO RENEW
+LINK: TRUE
+STATEAD: TRUE
+BOOK: FALSE
+TITLE: House Sitters America
+ADDRESS: Visit website
+CITY: New York
+MAJOR: 
+STATE: NY
+ZIP: 
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: House Sitters America can offer you FREE pet care at home! If you have to leave your home for any amount of time and can't take your beloved pet with you why not use the services of a house & pet sitter? Travel with the peace-of-mind knowing that your home and pets are safe and secure. PLUS - most of House Sitters America's sitters don't charge for this service - they will care for your home and pets simply in exchange for free accommodation while you are away. It's a win-win for both!<br><br>With House Sitters America you can place a FREE advert and have our registered house & pet sitters contact you OR you can do a FREE scroll of the sitters list and contact them directly OR do both<br><br>Just think . . . <br><br>- Security - not leaving your house unoccupied and susceptible to a break in. <br><br>- Pet care - knowing your pet is happy being looked after at home, instead of at an expensive and foreign pet motel.<br><br>- Peace of mind - knowing your house and garden are being cared for.<br><br>- No uncomfortable feelings of burdening your friend, family or neighbor to mow lawns, water plants, check mailboxes, feed and exercise pets, etc.<br><br>- Someone reliable collecting and redirecting mail, and taking your phone messages. <br><br>Please visit: http://www.housesittersamerica.com/ for more details.
+CATEGORY: Pet Sitter
+Submit: Submit
+PARK: 
+WEBSITE: http://www.housesittersamerica.com
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: info@housesittersamerica.com
+FAX:
+IMAGE2: 
+IMAGE1: ../images/hsa2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: NO RENEW
+LINK: TRUE
+BOOK: FALSE
+TITLE: The Good Dog Inn
+ADDRESS: 28313 Johnson Road
+CITY: Georgetown
+MAJOR: 
+STATE: DE
+ZIP: 19947
+PHONE: 
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: A Cageless Dog Boarding Facility  with owner on premises 7 days a week, 24 hours a day. Space is limited to 6 maximum occupants so reservations are required.  Climate controlled with all the comforts of home.
+CATEGORY: Doggie Day Care Center
+Submit: Submit
+PARK: 
+WEBSITE: http://www.thegooddoginn.com
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+AIMAGE3: ../images/gooddog4.jpg
+AIMAGE2: ../images/gooddog3.jpg
+IMAGE1: ../images/gooddog2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+LINK: TRUE
+TITLE: Beg n Bark Petsitting
+ADDRESS: Call to Arrange
+CITY: Princeton
+MAJOR: 
+STATE: NJ
+ZIP: 08540
+PHONE: 908-359-0700
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+CITYCOMMENTS: For locals or visitor alike - CPR And First Aid Petsitting Business. Will pet sit in homes,hotels and motels around the Princeton area. Bonded and insured.
+BOOKCOMMENTS: These bonded and insured pet sitters will pet sit your animal while you are visiting the Princeton Area in your hotel or home.
+COMMENTS: We are a Certified Pet CPR And First Aid Petsitting Business. We do dog walking/catvisits/Overnights/Petsitting in the comfort of your home or hotel/motel. We are bonded, licensed and insured. We offer Pet CPR Classes to all! We accept cash, checks, sorry no credit cards. We service Princeton and surrounding areas.
+CATEGORY: Pet Sitter
+Submit: Submit
+PARK: 
+WEBSITE: http://www.begnbark.com
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE3: ../images/begnbark4.jpg
+IMAGE2: ../images/begnbark3.jpg
+IMAGE1: ../images/begnbark2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+LINK: TRUE
+STATEAD: TRUE
+TITLE: Cinderella's Mobile Pet Sitting Service
+ADDRESS: Call to Arrange
+CITY: Las Cruces
+MAJOR: 
+STATE: NM
+ZIP: 88001
+PHONE: 575-805-8284
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+BOOKCOMMENTS: This pet sitting service covers Las Cruces and many surrounding areas. They come to our house or hotel and watch your pets while your away.
+CITYCOMMENTS: "We Treat Your Pets Like Royalty". Accredited Member of Pet Sitters International. Certified in Pet CPR/First Aid. Services Offered - Feeding and walking pets, clean-up services, watering plants. At your house, hotel or military base. Cover a wide area around Las Cruces.
+COMMENTS: Accredited Member of Pet Sitters International.Certified in Pet CPR/First Aid with American Red Cross. Member of Hispano and Las Cruces Chambers. "Budget Minded Affordability"/"We Treat Your Pets Like Royalty". Services Offered: Water and Feeding pets,pet clean up services,dog walking, watering indoor plants, house checks, hotel/motel/airport/ military base services<br>Hours of Operation: Monday- Friday: 7 A.M- 9:30<br> P.M Sat/Sun 8:00 A.M- 9:30 P.M<br>Service areas by zip code:<br>Las Cruces /Dona Ana: <br>88001,88003,88004,88005,88007,88011,88012,88013<br>Dona Ana/Fair Acres 88032,88033 <br>Mesilla:88046,Mesilla Park:88047,Organ:88052,<br>White Sands Missile Range:88002 Radium Springs:88054(Mileage may apply to certain areas.)
+CATEGORY: Pet Sitter
+Submit: Submit
+PARK: 
+WEBSITE: http://www.cinderellaspetsitting.biz
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: happycinder@comcast.net
+FAX:
+IMAGE2: 
+IMAGE1: ../images/cinderella2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+BOOK: FALSE
+LINK: TRUE
+TITLE: HoundXpress.com
+ADDRESS: Call to arrange
+CITY: New York
+MAJOR: 
+STATE: NY
+ZIP: 10034
+PHONE: 917-693-5652
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+BOOKCOMMENTS: This service in Manhattan provides dog walking, dog daycare in your place and a dog taxi service.
+COMMENTS: Canine Companions Serving Manhattan Hotels--- We will keep your pooch company while you're out on the town doing whatever dogs do . . . walking, playing and/or nibbling.<br><br>Now a Member of Pet Sitters International<br><br>INSURED & BONDED<br><br>HOTEL DOG SITTING/WALKING $20 per hour, no minimum.
+OLDCOMMENTS2: HoundXpress.com<br>New York, NY<br>917.693.5652<br><br>DOG SITTING, WALKING, PLAYING - at Hotels anywhere in Manhattan<br><br>DOGGIE DAYCARE - (Your Place) - anywhere in Manhattan, Riverdale, Bronx<br><br>DOG TAXI - Manhattan, Boros and Burbs <br><br>DOG WALKING - anywhere in Manhattan, Riverdale, Bronx<br><br>DOG BIRTHDAY PARTIES - (Your Place)
+OLDCOMMENTS: HoundXpress.com<br>New York, NY<br>917.693.5652<br><br>DOG SITTING - at Hotels anywhere in Manhattan<br><br>DOGGIE DAYCARE - (Your Place)-Upper Westside to Riverdale <br><br>DOG TAXI - Manhattan, Boros and Burbs<br><br>DOG WALKING - 181st Street-218th Street<br><br>DOG BIRTHDAY PARTIES - (Your Place)
+CATEGORY: Pet Sitter
+Submit: Submit
+PARK: 
+WEBSITE: http://www.houndXpress.com
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: info@houndxpress.com
+FAX:
+IMAGE2: 
+IMAGE1: ../images/houndxpressimage2.gif
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+BOOK: FALSE
+LINK: TRUE
+NAME: Animal Hospital of Orleans
+ADDRESS: 65 Finlay Road
+CITY: Orleans
+STATE: MA
+ZIP: 02653
+MAJOR: Cape Cod
+WEBSITE: http://www.animalhospitaloforleans.vetsuite.com
+PHONE: 508-255-1194
+BOOKCOMMENTS: This veterinary and boarding clinic provides both medical and kenneling service.
+COMMENTS: Veterinary hospital and boarding facility, offering dog boarding and cat boarding, serving Orleans, Eastham, Brewster, Harwich, and other surrounding Cape Cod towns since 1993. Whether it is the best in veterinary medical care, pet lodging, or grooming; you can rely on our team of vets and support staff to offer everything your pet needs to be happy and healthy. Leave your pet with us when you go out of town or visit Cape Cod and have a completely worry-free time away.  Our pet guests get fresh air, 2 meals a day, and lots of attention.  For our cuddly canines we provide suites, not cages. All of our suites have outdoor access and pet cots.  Our feline guests are kept in their own cat condo. Each condo has a shelf for your cat to sleep on and a sliding door to allow your cat outside on its private veranda. We offer playtimes in both our indoor and outdoor play areas.  We feed Hill's Science Diet to all boarders in accordance to it's age and weight. We can also take care of your pet's medication needs while staying with us.  For the safety of the pets in our care, we require that all vaccinations be up to date. Reliability, professionalism and courtesy are of utmost importance to us.
+Submit1: Submit
+VET: VET
+survey: us/kennel_ca
+CROSS: 
+IMAGE2: 
+IMAGE1: ../images/orleansvet2.jpg
+CATEGORY: Veterinarians and Kennel
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: NO RENEW
+LINK: TRUE
+BOOK: FALSE
+NOMAP: TRUE
+TITLE: Camp Bow Wow Cleveland Dog Boarding and Dog Daycare
+ADDRESS: 4 Cleveland Metro Locations
+CITY: Cleveland
+MAJOR: 
+STATE: OH
+ZIP: 
+PHONE: 877-700-2275
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+CITYCOMMENTS: Dog boarding and daycare where the dogs socialize and play all day. 4 Cleveland area locations.
+COMMENTS: Offering Cleveland dog boarding and doggy daycare with a social play all day environment. We separate the dogs into our indoor / outdoor play yards based on their size, temperament and play style where they socialize and play with other dogs all day long. We keep a high staff to dog ratio and our camp counselors are certified in dog behavior and pet first aid. Boarding dogs participate in our dog daycare program at no additional charge and are only in their spacious cabins for meals and bedtime. Watch your dog play on our camper cams. Stop by anytime for a tour, we're sure you'll love what you see! 4 Metro Cleveland area locations.
+CATEGORY: Doggie Day Care Center
+Submit: Submit
+PARK: 
+WEBSITE: http://www.campbowwowusa.com/cleveland
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE3: ../images/campbowwowoh4.jpg
+IMAGE2: ../images/campbowwowoh3.jpg
+IMAGE1: ../images/campbowwowoh2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: NO RENEW
+BOOK: FALSE
+LINK: TRUE
+TITLE: Tahoe Best Friends
+ADDRESS: 2197 Ruth Avenue
+CITY: South Lake Tahoe
+MAJOR: 
+STATE: CA
+ZIP: 96150
+PHONE: 530-542-2336
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Home-style Boarding, doggie daycare and dog training. Only doggie center in South Lake Tahoe offering: 24 hour staffing, Indoor and outdoor large play areas and cageless boarding. Cageless boarding - no cages or kennels just love and comfort.  We offer slumber party atmosphere with a Murphy bed (wall bed) in the middle of the living room for the comfort of dogs and people. TV, music, fireplace, couches and much more. <br><br>3 Large indoor and 4 outdoor play areas, pools, grass and lots of fun. Dogs play with dogs their own energy level, size and temperament. Great for socialization. You are welcome to enjoy pick up your best friend to enjoy Tahoe together during the stay.<br><br>Give your dog a vacation, while you are on vacation. Daycare and night care available at affordable rates. Please call for more details: 530-542-2336
+CATEGORY: Doggie Day Care Center
+Submit: Submit
+PARK: 
+WEBSITE: http://www.TahoeBestFriends.com
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: ../images/tahoebest2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: NO RENEW
+LINK: TRUE
+TITLE: Paws 'Round The Block
+ADDRESS: Call To Arrange
+CITY: Block Island
+MAJOR: 
+STATE: RI
+ZIP: 02807
+PHONE: 401-477-6360
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+BOOKCOMMENTS: This pet sitter will care for your dog when you can't take them with you on Block Island.
+COMMENTS: Pet sitting-general pet care, including dogs, cats, birds, small creatures.Walks while you're at the beach, dinner, wedding, rehearsal get together, etc. Hours convienant to your pets needs (and yours) :)<br><br>Year-'round resident with numerous, local references.
+CATEGORY: Pet Sitter
+Submit: Submit
+PARK: 
+WEBSITE: mailto:continueonoct@Yahoo.com
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: 
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+LINK: TRUE
+TITLE: Reliable Home & Pet Care
+ADDRESS: 68405 Tortuga Rd
+CITY: Cathedral City
+MAJOR: Palm Springs
+STATE: CA
+ZIP: 92234
+PHONE: 760-325-8668
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+BOOKCOMMENTS: Pet Sitting and Doggie Day Care in their location or your home or hotel in the Palm Springs area.
+COMMENTS: Loving care for your fur children in the comforts of my cage free home or your home or hotel. Offering doggy day care & overnight boarding. Doggy door, large secure yard, toys, tennis balls, pool for the swimmers.  Separate play area for the smaller or shy dogs.  Just 7 minutes from the Palm Springs Airport and just 2 minutes off I-10 & Date Palm Drive.  Your fur children will have the time of their life here at "The Elite Dog Retreat".  Cat boarding available as well.  Private cat room with cat trees and toys.  Litter box provided. City licenced, bonded & insured. 
+CATEGORY: Pet Sitter
+Submit: Submit
+PARK: 
+WEBSITE: http://www.ReliableHomeAndPetCare.com
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE3: ../images/cathedral4.jpg
+IMAGE2: ../images/cathedral3.jpg
+IMAGE1: ../images/cathedral2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+WHY: NO RENEW
+LINK: TRUE
+TITLE: Best Friends Boarding Too
+ADDRESS: 551 Union Chapel Rd. Hwy 71 East
+CITY: Cedar Creek
+MAJOR: Austin
+STATE: TX
+ZIP: 78612
+PHONE: 512-332-2400
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+BOOKCOMMENTS: This fancy day care center and kennel, 13 miles from Austin has no concrete, but more comfortable pet settings.
+COMMENTS: Why Dogs love Best Friends Too!<br>Truly, this place looks like a resort. Any dog would be thrilled to stay here. Every boarder receives lots of TLC and individual playtime. Every condo, cabin, and the Wild West Bunkhouse (for pups under 20 pounds) is independent, air conditioned, designed for comfort. Every dog has private access to his or her own yard, and there is not a lick of cold, hard, concrete in sight. Every cabin and condo guest has a view of the BONE SHAPED POOL!  Best Friends location is super convenient. The Cedar Creek facility is only 13.5 miles East of Austin and literally ONE mile from the Hyatt Regency Lost Pines resort. Golf and/or spa weekend while your pets enjoy a relaxing vacation too, right across the street, Does it get any better? The rates are incredible, your pet can stay overnight for an extremely reasonable price- just $25 - $40. Need a day away?  Doggie Daycare is the way to go - Best Friends Boarding Too! has a heart. Big time. When people reserve the "RescueCabin" for their pets, a percentage of the proceeds goes to Friends of Bastrop Animal Shelter.<br>Best Friends also boasts a full service grooming salon and is NOW offering "Bark-A-Bout" Training .( Small Intimate Classes or Private) BOW WOW!
+CATEGORY: Day Kennel 
+Submit: Submit
+PARK: 
+WEBSITE: http://www.bestfriendsboarding.com
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: bestfriendstoo@gmail.com
+FAX:
+IMAGE2: 
+IMAGE1: ../images/bestfriendstx2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+LINK: TRUE
+TITLE: Belly scRubs
+ADDRESS: 4000 State Route 34
+CITY: Hurricane
+MAJOR: 
+STATE: WV
+ZIP: 25526
+PHONE: 304-760-8989
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+BOOKCOMMENTS: This self-service pet wash also has dog supplies and treats.
+COMMENTS: <b>Self-Service Pet Wash</b> and Dog Center with <b>Full Service Grooming</b> 7 days/week and <b>Dog Product Store</b>. Award winning grooming and bathing. We do nail trims on a walk-in basis any day 9-5. Self-serve wash units are spacious and include 2 different shampoos, conditioner and 2-speed blower. We provide towels! Dog store features natural dog foods from Fromm as well as herbal remedies for oral health, ear health, digestive health, skin & fur, joint pain, travel anxiety, and more. We have dog necessities like Seresto flea/tick collars, collars, harnesses, leashes, treats and more.
+OLDCOMMENTS: Self-Service Pet Wash and Dog Center featuring two K-9000 dog wash bays with TropiClean natural shampoos and conditioner; Full Service Grooming (by appointment - call Emily at 304-553-5801); natural dog foods (Innova, Fromm, Honest Kitchen); herbal remedies for oral health, ear health, digestive health, skin & fur, joint pain, travel anxiety, and more (by Happy Tails Spa, EcoWell, Tropiclean, and others); dog necessities like collars, harnesses, leashes, toys, treats & bones, and tags; and other great dog products.
+CATEGORY: Dog Businesse
+Submit: Submit
+PARK: 
+WEBSITE: http://www.bellyscrubs.com
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE3: ../images/bellyscrubs4.jpg
+IMAGE2: ../images/bellyscrubs3.jpg
+IMAGE1: ../images/bellyscrubs2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+BOOK: FALSE
+LINK: TRUE
+TITLE: Pet Sitters and More
+ADDRESS: We come to you please call or email to arrange
+CITY: Hollywood
+MAJOR: 
+STATE: FL
+ZIP: 33021
+PHONE: 954-894-1234
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Professional Pet Sitting and Dog Walking<br><br>Services include: Pet sitting of dogs, cats, birds, fish, reptiles and small animals in your home where your pet is the least stressed and can enjoy their daily routine. We do daily dog walking and exercising, and provide special care for young, elderly and sick animals.<br><br>Pet Sitters and More is fully licensed in the State of Florida & Broward County, We carry liability insurance and are bonded for our clients protection and peace of mind. We are a small women-owned business and our sitters have all gone through  background security screening.<br><br>Pet Sitters and More is a member in good standing of the National Association of Professional Pet Sitters, Inc.,  Pet Sitters International, The Pet Chamber of Commerce and Pet Sitters United. We are also Red Cross Certified in Pet First Aid/CPR, and support various rescue organizations.<br><br>We are dedicated to the understanding that your pet is a member of your family and that loving care, minimal stress, and routine are key to a happy and safe pet care experience.<br><br>Maryl or Felice will be happy to answer any of your questions and look forward to meeting you and your pets. For more information or to set up a free consultation call Pet Sitters and More at 954 894 1234 or visit their website at <a href="http://www.dogfriendly.com/servlet/refer?from=page&dest=http://www.petsittersandmore.com" target="_blank">www.petsittersandmore.com</a>.
+CATEGORY: Pet Sitter
+Submit: Submit
+PARK: 
+WEBSITE: http://www.petsittersandmore.com
+survey: us/hotel_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: info@petsittersandmore.com
+FAX:
+IMAGE3: ../images/petsitters4.jpg
+IMAGE2: ../images/petsitters3.jpg
+IMAGE1: ../images/petsitters2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+LINK: TRUE
+BOOK: FALSE
+TITLE: Playful Paws Doggie Daycare
+ADDRESS: 63 Jefferson Ave
+CITY: Salem
+MAJOR: Boston Area
+STATE: MA
+ZIP: 01970
+PHONE: 978-832-1056
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+COMMENTS: Welcome to Playful Paws doggie daycare! We decided to open Playful Paws because we too have a dog, who we think of as our child and a part of the family. Baxter is a Puggle who loves people, but most of all loves other dogs. He is always on the lookout for new playmates and we hope your four-legged kids will join us. In building and planning Playful Paws we have used Baxter as our benchmark. Would we feel comfortable sending him here? Would he have fun and make friends? Is there enough for him to do? We made sure all the answers would be a resounding yes.<br><br>As dog parents ourselves we wanted to create an environment where dogs can play and socialize with each other in a fun and safe environment. To that end we have two separate play areas designed to accommodate the size temperament and activity level of every dog. In the summer months we have swimming pools for our water loving pals and year-round we have set up custom made play areas including different agility activities. This is in addition to of course rope toys, balls, Frisbees and a host of other games for all to play. We understand however that you cannot play all day long and for this reason we have setup a special room complete with couches, chairs, beds, a movie theater with special dog shows and of course an electric fireplace were rest and relaxation can take place between romps!<br><br>We believe a clean and sanitary environment is crucial to the comfort, safety and health of our all of our guests. For this reason every night all floors are cleaned and sanitized using special high-grade commercial floor scrubbers which kills any potential germs. We also require that all playmates are up to date on all vaccinations including Distemper, Hepatitis, Parvo, Bordetella, and Rabies. We keep careful records and send out an e-mail reminder to every parent 30 days prior to the expiration of any vaccine. We also offer Frontline and Advantix applications in-house, which can be scheduled ahead of time on a monthly basis. Our outside play area consists of special antimicrobial K9 grass. By taking all of these precautions we can keep kennel cough outbreaks often seen at other places to practically nonexistent.
+CATEGORY: Day Care Center
+Submit: Submit
+PARK: 
+WEBSITE: http://www.playfulpawsdogdaycare.com
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: ../images/playful2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+LINK: TRUE
+TITLE: The Green Spot
+ADDRESS: 1110 S 71st St. Suite K
+CITY: Omaha
+MAJOR: 
+STATE: NE
+ZIP: 68106
+PHONE: 402-614-7768
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+BOOKCOMMENTS: This pet specialty store is a pet hangout with coffee for the people, pet store, with pet toys and dog food.
+COMMENTS: Looking for a fun spot to hang out with your favorite four-legged friend? then it's time for you to check out The Green Spot! This locally owned and operated pet specialty store and experience has everything you're looking for.<br>A Hot Spot - Bring your pet, enjoy a cup of coffee and meet other pets and their owners in our progressive Cafe' Lounge.<br>A Cool Spot - We Search high and low to find the healtheiest natural and organic pet foods and accessories for your best friend.<br>A Fun Spot - The Green Spot has a wide selection of Pet toys and games that are safe, eco-Friendly and Fun!<br><br>The Green Spot offers the best pet friendly enviornment in the Omaha area!
+CATEGORY: Dog Businesse
+Submit: Submit
+PARK: 
+WEBSITE: http://www.greenspotomaha.com
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: info@greenspotomaha.com
+FAX:
+IMAGE2: 
+IMAGE1: ../images/greenspot2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+LINK: TRUE
+TITLE: Just Dogs Saugatuck & Buddy's Bath House
+ADDRESS: 252 Culver St.
+CITY: Saugatuck
+MAJOR: 
+STATE: MI
+ZIP: 49417
+PHONE: 269-857-8108
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+BOOKCOMMENTS: This destination for pet owners is a  dog supply store, groomer and more.
+COMMENTS: Just Dogs Saugatuck is more than just a dog supply store, we are a destination!  Our expert staff will help you find the right products for your pet.  We will also fit harnesses, collars, coats or sweaters on your pet.  We offer sample cups for every treat we carry so your friend can sample them.  Attached to Just Dogs is Buddy's Bath House, "Where All Breeds Deserve Spa Time!" Buddy's offers grooming and bathing seven days a week.  Enjoy the Saugatuck/Douglas area while we take care of your pet!  Walk-ins welcome, same day appointments usually available.  Call: 269-857-8108
+CATEGORY: Dog Businesse
+Submit: Submit
+PARK: 
+WEBSITE: http://www.justdogsgh.com
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: ../images/justdogs2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+LINK: TRUE
+TITLE: Provincetown Pet Resort & Supply
+ADDRESS: 79 Shank Painter Road
+CITY: Provincetown
+MAJOR: 
+STATE: MA
+ZIP: 02657
+PHONE: 508-487-7900
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+BOOKCOMMENTS: This facility offers doggie daycare, cage-free boarding and premium pet supplies.
+COMMENTS: Provincetown Pet Resort is a family owned and operated business established to offer high quality, convenient doggie daycare, cage-free dog boarding and cat boarding, and premium pet supplies. Our premier Provincetown facility is designed especially for your pet's safety, health, happiness, and comfort. Quality and safety are considered in every aspect of our business. We feature state-of-the-art security, heating, cooling and fire sprinkler systems. Your pup will enjoy over 7,000 square feet of indoor and outdoor play areas all under the watchful supervision of our caring, trained staff. Provincetown Pet Resort is located in the former location of KCs Animal Resort.
+CATEGORY: Dog Businesse
+Submit: Submit
+PARK: 
+WEBSITE: http://www.provincetownpetresort.com
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: woof@provincetownpetresort.com
+FAX:
+IMAGE2: 
+IMAGE1: ../images/provincetown2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+LINK: TRUE
+TITLE: Total Pet Care
+ADDRESS: 1044 W. Hillcrest Blvd.
+CITY: Inglewood
+MAJOR: 
+STATE: CA
+ZIP: 90301
+PHONE: 310-650-4497
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+BOOKCOMMENTS: Cage Free Doggy Daycare and Grooming services. Separate areas for large and small dogs.
+COMMENTS: Total Pet Care offers cage free doggy daycare/Boarding and grooming service. We are conveniently located 5 minutes from LAX and minute away from 405 freeway. Our guests enjoy running and playing all day in our spacious indoor park and relax at the lounge with doggy beds and comfortable couches. We separate big dogs and small dogs and our professionally trained staff will provide a safe, healthy, cozy environment for our guests. Open 7 days a week. 7AM to 7PM. Rates: Daycare$20~,  Boarding$41~
+CATEGORY: Dog Businesse
+Submit: Submit
+PARK: 
+WEBSITE: http://www.tpetcare.com
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: 
+IMAGE1: ../images/totalpet2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+<BEGIN>
+DELETE: TRUE
+LINK: TRUE
+TITLE: Hot Diggity Dog
+ADDRESS: 125 West Kerr Street
+CITY: Salisbury
+MAJOR: 
+STATE: NC
+ZIP: 28144
+PHONE: 704-636-9933
+TOLLFREE: 
+HIGHWAY: None
+HIGHWAY1: None
+BOOKCOMMENTS: This doggy boutique store has all kinds of gifts for your dog.
+COMMENTS: Hot Diggity Dog...Where All Dogs Like To Shop. We carry a full selection of Fromm Family Food, Acana and Orijen by Champion Pet, Sojos and Steve's Real Food. We are also a proud retailer for West Paw Design, Planet Dog, Katie's Bumpers, The Good Dog Co., Kong, Zigoo and Nina Ottosson...just to name a few.We carry a large selection of harnesses, collars and leashes by brands such as Spindrift, ComfortFlex, Lupine, Auburn Leather and Up Country.<br>Business Hours: Tuesday - Friday 10:00 am - 5:30 pm   Saturday and <br>Monday 10:00 am - 4:00 pm
+CATEGORY: Dog Businesse
+Submit: Submit
+PARK: 
+WEBSITE: http://www.facebook.com/hotdiggitydoggifts
+survey: us/petsit_us
+ROOMRATE: 
+COUNTRY: 
+EMAIL: 
+FAX:
+IMAGE2: ../images/hdd3.jpg
+IMAGE1: ../images/hdd2.jpg
+IM3: 
+IM2: 
+IM1: 
+<END>
+
+
+
+
